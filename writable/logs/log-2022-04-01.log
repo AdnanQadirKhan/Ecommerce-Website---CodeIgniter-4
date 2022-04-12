@@ -1,0 +1,1922 @@
+INFO - 2022-04-01 09:40:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 09:40:57 --> Cart Class Initialized
+INFO - 2022-04-01 09:40:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 09:40:59 --> Cart Class Initialized
+INFO - 2022-04-01 09:41:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 09:41:20 --> Cart Class Initialized
+INFO - 2022-04-01 09:41:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 09:41:21 --> Cart Class Initialized
+INFO - 2022-04-01 09:41:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 09:41:21 --> Cart Class Initialized
+INFO - 2022-04-01 09:41:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 09:41:23 --> Cart Class Initialized
+INFO - 2022-04-01 09:41:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 09:41:26 --> Cart Class Initialized
+INFO - 2022-04-01 09:41:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 09:41:27 --> Cart Class Initialized
+INFO - 2022-04-01 09:41:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 09:41:27 --> Cart Class Initialized
+INFO - 2022-04-01 09:41:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 09:41:29 --> Cart Class Initialized
+CRITICAL - 2022-04-01 09:41:29 --> Trying to access array offset on value of type null
+#0 D:\xammp\htdocs\Ibexshopify\app\Controllers\Home.php(281): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xammp\\htdocs...', 281, Array)
+#1 D:\xammp\htdocs\Ibexshopify\system\CodeIgniter.php(825): App\Controllers\Home->subcategoryProducts('2')
+#2 D:\xammp\htdocs\Ibexshopify\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 D:\xammp\htdocs\Ibexshopify\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xammp\htdocs\Ibexshopify\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-04-01 09:41:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 09:41:47 --> Cart Class Initialized
+INFO - 2022-04-01 09:41:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 09:41:48 --> Cart Class Initialized
+INFO - 2022-04-01 09:41:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 09:41:48 --> Cart Class Initialized
+INFO - 2022-04-01 09:41:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 09:41:50 --> Cart Class Initialized
+INFO - 2022-04-01 09:43:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 09:43:13 --> Cart Class Initialized
+INFO - 2022-04-01 09:43:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 09:43:14 --> Cart Class Initialized
+INFO - 2022-04-01 09:43:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 09:43:15 --> Cart Class Initialized
+INFO - 2022-04-01 09:43:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 09:43:16 --> Cart Class Initialized
+CRITICAL - 2022-04-01 09:43:16 --> Trying to access array offset on value of type null
+#0 D:\xammp\htdocs\Ibexshopify\app\Controllers\Home.php(279): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xammp\\htdocs...', 279, Array)
+#1 D:\xammp\htdocs\Ibexshopify\system\CodeIgniter.php(825): App\Controllers\Home->subcategoryProducts('2')
+#2 D:\xammp\htdocs\Ibexshopify\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 D:\xammp\htdocs\Ibexshopify\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xammp\htdocs\Ibexshopify\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-04-01 09:44:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 09:44:31 --> Cart Class Initialized
+CRITICAL - 2022-04-01 09:44:31 --> Trying to access array offset on value of type null
+#0 D:\xammp\htdocs\Ibexshopify\app\Controllers\Home.php(279): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xammp\\htdocs...', 279, Array)
+#1 D:\xammp\htdocs\Ibexshopify\system\CodeIgniter.php(825): App\Controllers\Home->subcategoryProducts('2')
+#2 D:\xammp\htdocs\Ibexshopify\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 D:\xammp\htdocs\Ibexshopify\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xammp\htdocs\Ibexshopify\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-04-01 09:44:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 09:44:33 --> Cart Class Initialized
+CRITICAL - 2022-04-01 09:44:33 --> Trying to access array offset on value of type null
+#0 D:\xammp\htdocs\Ibexshopify\app\Controllers\Home.php(279): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xammp\\htdocs...', 279, Array)
+#1 D:\xammp\htdocs\Ibexshopify\system\CodeIgniter.php(825): App\Controllers\Home->subcategoryProducts('2')
+#2 D:\xammp\htdocs\Ibexshopify\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 D:\xammp\htdocs\Ibexshopify\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xammp\htdocs\Ibexshopify\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-04-01 09:45:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 09:45:05 --> Cart Class Initialized
+CRITICAL - 2022-04-01 09:45:05 --> Trying to access array offset on value of type null
+#0 D:\xammp\htdocs\Ibexshopify\app\Controllers\Home.php(280): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xammp\\htdocs...', 280, Array)
+#1 D:\xammp\htdocs\Ibexshopify\system\CodeIgniter.php(825): App\Controllers\Home->subcategoryProducts('2')
+#2 D:\xammp\htdocs\Ibexshopify\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 D:\xammp\htdocs\Ibexshopify\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xammp\htdocs\Ibexshopify\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-04-01 09:47:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 09:47:51 --> Cart Class Initialized
+CRITICAL - 2022-04-01 09:47:51 --> Trying to access array offset on value of type null
+#0 D:\xammp\htdocs\Ibexshopify\app\Controllers\Home.php(280): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xammp\\htdocs...', 280, Array)
+#1 D:\xammp\htdocs\Ibexshopify\system\CodeIgniter.php(825): App\Controllers\Home->subcategoryProducts('2')
+#2 D:\xammp\htdocs\Ibexshopify\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 D:\xammp\htdocs\Ibexshopify\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xammp\htdocs\Ibexshopify\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-04-01 09:48:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 09:48:34 --> Cart Class Initialized
+CRITICAL - 2022-04-01 09:48:34 --> Trying to access array offset on value of type null
+#0 D:\xammp\htdocs\Ibexshopify\app\Controllers\Home.php(280): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'D:\\xammp\\htdocs...', 280, Array)
+#1 D:\xammp\htdocs\Ibexshopify\system\CodeIgniter.php(825): App\Controllers\Home->subcategoryProducts('2')
+#2 D:\xammp\htdocs\Ibexshopify\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 D:\xammp\htdocs\Ibexshopify\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xammp\htdocs\Ibexshopify\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-04-01 09:48:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 09:48:43 --> Cart Class Initialized
+INFO - 2022-04-01 09:48:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 09:48:57 --> Cart Class Initialized
+INFO - 2022-04-01 09:49:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 09:49:08 --> Cart Class Initialized
+INFO - 2022-04-01 09:49:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 09:49:26 --> Cart Class Initialized
+CRITICAL - 2022-04-01 09:49:26 --> Undefined variable: contact
+#0 D:\xammp\htdocs\Ibexshopify\app\Views\includes\header.php(45): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xammp\\htdocs...', 45, Array)
+#1 D:\xammp\htdocs\Ibexshopify\app\Views\subcategories_products.php(3): include('D:\\xammp\\htdocs...')
+#2 D:\xammp\htdocs\Ibexshopify\system\View\View.php(210): include('D:\\xammp\\htdocs...')
+#3 D:\xammp\htdocs\Ibexshopify\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 D:\xammp\htdocs\Ibexshopify\system\Common.php(1089): CodeIgniter\View\View->render('subcategories_p...', Array, true)
+#5 D:\xammp\htdocs\Ibexshopify\app\Controllers\Home.php(287): view('subcategories_p...', Array)
+#6 D:\xammp\htdocs\Ibexshopify\system\CodeIgniter.php(825): App\Controllers\Home->subcategoryProducts('2')
+#7 D:\xammp\htdocs\Ibexshopify\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 D:\xammp\htdocs\Ibexshopify\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\xammp\htdocs\Ibexshopify\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-04-01 09:49:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 09:49:35 --> Cart Class Initialized
+INFO - 2022-04-01 09:49:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 09:49:36 --> Cart Class Initialized
+INFO - 2022-04-01 09:49:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 09:49:37 --> Cart Class Initialized
+INFO - 2022-04-01 09:55:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 09:55:04 --> Cart Class Initialized
+INFO - 2022-04-01 09:55:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 09:55:05 --> Cart Class Initialized
+INFO - 2022-04-01 09:55:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 09:55:08 --> Cart Class Initialized
+INFO - 2022-04-01 09:55:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 09:55:09 --> Cart Class Initialized
+INFO - 2022-04-01 09:55:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 09:55:15 --> Cart Class Initialized
+INFO - 2022-04-01 09:55:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 09:55:15 --> Cart Class Initialized
+INFO - 2022-04-01 09:55:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 09:55:16 --> Cart Class Initialized
+INFO - 2022-04-01 09:55:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 09:55:16 --> Cart Class Initialized
+INFO - 2022-04-01 09:55:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 09:55:18 --> Cart Class Initialized
+INFO - 2022-04-01 09:55:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 09:55:19 --> Cart Class Initialized
+INFO - 2022-04-01 09:55:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 09:55:57 --> Cart Class Initialized
+INFO - 2022-04-01 09:55:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 09:55:57 --> Cart Class Initialized
+INFO - 2022-04-01 09:55:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 09:55:58 --> Cart Class Initialized
+INFO - 2022-04-01 09:55:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 09:55:58 --> Cart Class Initialized
+INFO - 2022-04-01 09:56:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 09:56:13 --> Cart Class Initialized
+INFO - 2022-04-01 09:56:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 09:56:14 --> Cart Class Initialized
+INFO - 2022-04-01 09:56:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 09:56:34 --> Cart Class Initialized
+INFO - 2022-04-01 09:56:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 09:56:35 --> Cart Class Initialized
+INFO - 2022-04-01 09:57:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 09:57:10 --> Cart Class Initialized
+INFO - 2022-04-01 09:57:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 09:57:11 --> Cart Class Initialized
+INFO - 2022-04-01 09:57:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 09:57:20 --> Cart Class Initialized
+INFO - 2022-04-01 09:57:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 09:57:21 --> Cart Class Initialized
+INFO - 2022-04-01 09:57:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 09:57:45 --> Cart Class Initialized
+INFO - 2022-04-01 09:57:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 09:57:47 --> Cart Class Initialized
+INFO - 2022-04-01 09:58:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 09:58:19 --> Cart Class Initialized
+INFO - 2022-04-01 09:58:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 09:58:21 --> Cart Class Initialized
+INFO - 2022-04-01 10:00:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:00:27 --> Cart Class Initialized
+INFO - 2022-04-01 10:00:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:00:29 --> Cart Class Initialized
+INFO - 2022-04-01 10:00:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:00:53 --> Cart Class Initialized
+INFO - 2022-04-01 10:00:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:00:54 --> Cart Class Initialized
+INFO - 2022-04-01 10:02:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:02:05 --> Cart Class Initialized
+INFO - 2022-04-01 10:02:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:02:06 --> Cart Class Initialized
+INFO - 2022-04-01 10:02:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:02:07 --> Cart Class Initialized
+INFO - 2022-04-01 10:02:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:02:08 --> Cart Class Initialized
+INFO - 2022-04-01 10:02:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:02:13 --> Cart Class Initialized
+INFO - 2022-04-01 10:02:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:02:14 --> Cart Class Initialized
+INFO - 2022-04-01 10:02:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:02:16 --> Cart Class Initialized
+INFO - 2022-04-01 10:02:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:02:17 --> Cart Class Initialized
+INFO - 2022-04-01 10:02:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:02:17 --> Cart Class Initialized
+INFO - 2022-04-01 10:02:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:02:18 --> Cart Class Initialized
+INFO - 2022-04-01 10:02:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:02:56 --> Cart Class Initialized
+INFO - 2022-04-01 10:02:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:02:58 --> Cart Class Initialized
+INFO - 2022-04-01 10:03:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:03:03 --> Cart Class Initialized
+INFO - 2022-04-01 10:03:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:03:04 --> Cart Class Initialized
+INFO - 2022-04-01 10:03:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:03:05 --> Cart Class Initialized
+INFO - 2022-04-01 10:03:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:03:06 --> Cart Class Initialized
+INFO - 2022-04-01 10:03:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:03:07 --> Cart Class Initialized
+INFO - 2022-04-01 10:03:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:03:09 --> Cart Class Initialized
+INFO - 2022-04-01 10:05:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:05:12 --> Cart Class Initialized
+INFO - 2022-04-01 10:05:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:05:13 --> Cart Class Initialized
+INFO - 2022-04-01 10:11:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:11:12 --> Cart Class Initialized
+INFO - 2022-04-01 10:11:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:11:13 --> Cart Class Initialized
+INFO - 2022-04-01 10:11:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:11:34 --> Cart Class Initialized
+INFO - 2022-04-01 10:11:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:11:35 --> Cart Class Initialized
+INFO - 2022-04-01 10:11:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:11:35 --> Cart Class Initialized
+INFO - 2022-04-01 10:11:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:11:38 --> Cart Class Initialized
+INFO - 2022-04-01 10:11:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:11:38 --> Cart Class Initialized
+INFO - 2022-04-01 10:11:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:11:39 --> Cart Class Initialized
+INFO - 2022-04-01 10:24:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:24:34 --> Cart Class Initialized
+INFO - 2022-04-01 10:24:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:24:35 --> Cart Class Initialized
+INFO - 2022-04-01 10:24:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:24:55 --> Cart Class Initialized
+INFO - 2022-04-01 10:24:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:24:57 --> Cart Class Initialized
+INFO - 2022-04-01 10:25:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:25:01 --> Cart Class Initialized
+INFO - 2022-04-01 10:25:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:25:02 --> Cart Class Initialized
+INFO - 2022-04-01 10:25:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:25:24 --> Cart Class Initialized
+INFO - 2022-04-01 10:25:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:25:26 --> Cart Class Initialized
+INFO - 2022-04-01 10:26:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:26:42 --> Cart Class Initialized
+INFO - 2022-04-01 10:26:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:26:44 --> Cart Class Initialized
+INFO - 2022-04-01 10:29:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:29:30 --> Cart Class Initialized
+INFO - 2022-04-01 10:29:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:29:32 --> Cart Class Initialized
+INFO - 2022-04-01 10:29:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:29:45 --> Cart Class Initialized
+INFO - 2022-04-01 10:29:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:29:47 --> Cart Class Initialized
+INFO - 2022-04-01 10:32:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:32:42 --> Cart Class Initialized
+INFO - 2022-04-01 10:32:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:32:44 --> Cart Class Initialized
+INFO - 2022-04-01 10:33:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:33:11 --> Cart Class Initialized
+INFO - 2022-04-01 10:33:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:33:13 --> Cart Class Initialized
+INFO - 2022-04-01 10:35:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:35:14 --> Cart Class Initialized
+INFO - 2022-04-01 10:35:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:35:16 --> Cart Class Initialized
+INFO - 2022-04-01 10:35:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:35:29 --> Cart Class Initialized
+INFO - 2022-04-01 10:35:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:35:31 --> Cart Class Initialized
+INFO - 2022-04-01 10:35:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:35:56 --> Cart Class Initialized
+INFO - 2022-04-01 10:35:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:35:58 --> Cart Class Initialized
+INFO - 2022-04-01 10:36:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:36:16 --> Cart Class Initialized
+INFO - 2022-04-01 10:36:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:36:18 --> Cart Class Initialized
+INFO - 2022-04-01 10:37:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:37:11 --> Cart Class Initialized
+INFO - 2022-04-01 10:37:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:37:13 --> Cart Class Initialized
+INFO - 2022-04-01 10:37:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:37:34 --> Cart Class Initialized
+INFO - 2022-04-01 10:37:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:37:36 --> Cart Class Initialized
+INFO - 2022-04-01 10:41:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:41:10 --> Cart Class Initialized
+INFO - 2022-04-01 10:41:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:41:12 --> Cart Class Initialized
+INFO - 2022-04-01 10:41:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:41:44 --> Cart Class Initialized
+INFO - 2022-04-01 10:41:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:41:46 --> Cart Class Initialized
+INFO - 2022-04-01 10:42:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:42:22 --> Cart Class Initialized
+INFO - 2022-04-01 10:42:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:42:24 --> Cart Class Initialized
+INFO - 2022-04-01 10:42:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:42:47 --> Cart Class Initialized
+INFO - 2022-04-01 10:42:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:42:49 --> Cart Class Initialized
+INFO - 2022-04-01 10:47:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:47:31 --> Cart Class Initialized
+INFO - 2022-04-01 10:47:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:47:32 --> Cart Class Initialized
+INFO - 2022-04-01 10:48:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:48:33 --> Cart Class Initialized
+INFO - 2022-04-01 10:48:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:48:34 --> Cart Class Initialized
+INFO - 2022-04-01 10:49:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:49:55 --> Cart Class Initialized
+INFO - 2022-04-01 10:49:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:49:56 --> Cart Class Initialized
+INFO - 2022-04-01 10:51:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:51:08 --> Cart Class Initialized
+INFO - 2022-04-01 10:51:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:51:09 --> Cart Class Initialized
+INFO - 2022-04-01 10:51:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:51:20 --> Cart Class Initialized
+INFO - 2022-04-01 10:51:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:51:21 --> Cart Class Initialized
+INFO - 2022-04-01 10:52:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:52:19 --> Cart Class Initialized
+INFO - 2022-04-01 10:52:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:52:20 --> Cart Class Initialized
+INFO - 2022-04-01 10:53:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:53:09 --> Cart Class Initialized
+INFO - 2022-04-01 10:53:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:53:10 --> Cart Class Initialized
+INFO - 2022-04-01 10:54:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:54:50 --> Cart Class Initialized
+INFO - 2022-04-01 10:54:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:54:51 --> Cart Class Initialized
+INFO - 2022-04-01 10:55:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:55:48 --> Cart Class Initialized
+INFO - 2022-04-01 10:55:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:55:50 --> Cart Class Initialized
+INFO - 2022-04-01 10:56:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:56:50 --> Cart Class Initialized
+INFO - 2022-04-01 10:56:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:56:54 --> Cart Class Initialized
+INFO - 2022-04-01 10:56:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:56:54 --> Cart Class Initialized
+INFO - 2022-04-01 10:57:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:57:26 --> Cart Class Initialized
+INFO - 2022-04-01 10:58:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:58:10 --> Cart Class Initialized
+INFO - 2022-04-01 10:58:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 10:58:15 --> Cart Class Initialized
+CRITICAL - 2022-04-01 10:58:15 --> Out of memory (allocated 6291456) (tried to allocate 2497208 bytes)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+INFO - 2022-04-01 11:00:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 11:00:26 --> Cart Class Initialized
+INFO - 2022-04-01 11:00:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 11:00:30 --> Cart Class Initialized
+INFO - 2022-04-01 12:24:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:24:42 --> Cart Class Initialized
+ERROR - 2022-04-01 12:24:42 --> Error connecting to the database: Access denied for user '****'@'localhost' to database '****'
+CRITICAL - 2022-04-01 12:24:42 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' to database '****'
+#0 /home/q291duikhtl7/public_html/system/Database/BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 /home/q291duikhtl7/public_html/system/Database/BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 /home/q291duikhtl7/public_html/system/Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#3 /home/q291duikhtl7/public_html/system/BaseModel.php(584): CodeIgniter\Model->doFindAll(7, 0)
+#4 /home/q291duikhtl7/public_html/app/Controllers/Home.php(81): CodeIgniter\BaseModel->findAll(7)
+#5 /home/q291duikhtl7/public_html/system/CodeIgniter.php(825): App\Controllers\Home->index()
+#6 /home/q291duikhtl7/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 /home/q291duikhtl7/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/q291duikhtl7/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2022-04-01 12:25:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:25:48 --> Cart Class Initialized
+ERROR - 2022-04-01 12:25:48 --> Error connecting to the database: Access denied for user '****'@'localhost' to database '****'
+CRITICAL - 2022-04-01 12:25:48 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' to database '****'
+#0 /home/q291duikhtl7/public_html/system/Database/BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 /home/q291duikhtl7/public_html/system/Database/BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 /home/q291duikhtl7/public_html/system/Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#3 /home/q291duikhtl7/public_html/system/BaseModel.php(584): CodeIgniter\Model->doFindAll(7, 0)
+#4 /home/q291duikhtl7/public_html/app/Controllers/Home.php(81): CodeIgniter\BaseModel->findAll(7)
+#5 /home/q291duikhtl7/public_html/system/CodeIgniter.php(825): App\Controllers\Home->index()
+#6 /home/q291duikhtl7/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 /home/q291duikhtl7/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/q291duikhtl7/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2022-04-01 12:26:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:26:41 --> Cart Class Initialized
+INFO - 2022-04-01 12:27:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:27:31 --> Cart Class Initialized
+INFO - 2022-04-01 12:28:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:28:03 --> Cart Class Initialized
+INFO - 2022-04-01 12:28:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:28:06 --> Cart Class Initialized
+INFO - 2022-04-01 12:28:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:28:32 --> Cart Class Initialized
+INFO - 2022-04-01 12:28:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:28:43 --> Cart Class Initialized
+INFO - 2022-04-01 12:31:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:31:29 --> Cart Class Initialized
+INFO - 2022-04-01 12:31:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:31:32 --> Cart Class Initialized
+INFO - 2022-04-01 12:31:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:31:32 --> Cart Class Initialized
+INFO - 2022-04-01 12:31:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:31:42 --> Cart Class Initialized
+INFO - 2022-04-01 12:31:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:31:47 --> Cart Class Initialized
+INFO - 2022-04-01 12:31:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:31:51 --> Cart Class Initialized
+INFO - 2022-04-01 12:31:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:31:52 --> Cart Class Initialized
+INFO - 2022-04-01 12:31:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:31:54 --> Cart Class Initialized
+INFO - 2022-04-01 12:31:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:31:54 --> Cart Class Initialized
+INFO - 2022-04-01 12:32:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:32:46 --> Cart Class Initialized
+INFO - 2022-04-01 12:32:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:32:51 --> Cart Class Initialized
+INFO - 2022-04-01 12:33:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:33:11 --> Cart Class Initialized
+INFO - 2022-04-01 12:33:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:33:12 --> Cart Class Initialized
+INFO - 2022-04-01 12:33:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:33:30 --> Cart Class Initialized
+INFO - 2022-04-01 12:33:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:33:32 --> Cart Class Initialized
+INFO - 2022-04-01 12:33:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:33:33 --> Cart Class Initialized
+INFO - 2022-04-01 12:33:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:33:35 --> Cart Class Initialized
+INFO - 2022-04-01 12:33:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:33:35 --> Cart Class Initialized
+INFO - 2022-04-01 12:33:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:33:39 --> Cart Class Initialized
+INFO - 2022-04-01 12:33:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:33:40 --> Cart Class Initialized
+INFO - 2022-04-01 12:33:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:33:41 --> Cart Class Initialized
+INFO - 2022-04-01 12:33:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:33:42 --> Cart Class Initialized
+INFO - 2022-04-01 12:33:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:33:51 --> Cart Class Initialized
+INFO - 2022-04-01 12:33:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:33:53 --> Cart Class Initialized
+INFO - 2022-04-01 12:34:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:34:12 --> Cart Class Initialized
+INFO - 2022-04-01 12:34:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:34:14 --> Cart Class Initialized
+INFO - 2022-04-01 12:34:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:34:28 --> Cart Class Initialized
+INFO - 2022-04-01 12:34:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:34:30 --> Cart Class Initialized
+INFO - 2022-04-01 12:34:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:34:32 --> Cart Class Initialized
+INFO - 2022-04-01 12:34:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:34:34 --> Cart Class Initialized
+INFO - 2022-04-01 12:34:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:34:37 --> Cart Class Initialized
+INFO - 2022-04-01 12:34:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:34:38 --> Cart Class Initialized
+INFO - 2022-04-01 12:34:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:34:38 --> Cart Class Initialized
+INFO - 2022-04-01 12:34:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:34:38 --> Cart Class Initialized
+INFO - 2022-04-01 12:34:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:34:40 --> Cart Class Initialized
+INFO - 2022-04-01 12:35:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:35:16 --> Cart Class Initialized
+INFO - 2022-04-01 12:35:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:35:18 --> Cart Class Initialized
+INFO - 2022-04-01 12:35:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:35:23 --> Cart Class Initialized
+INFO - 2022-04-01 12:35:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:35:25 --> Cart Class Initialized
+INFO - 2022-04-01 12:35:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:35:38 --> Cart Class Initialized
+INFO - 2022-04-01 12:35:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:35:40 --> Cart Class Initialized
+INFO - 2022-04-01 12:37:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:37:15 --> Cart Class Initialized
+CRITICAL - 2022-04-01 12:37:15 --> Call to undefined function display_error()
+#0 /home/q291duikhtl7/public_html/system/View/View.php(210): include()
+#1 /home/q291duikhtl7/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 /home/q291duikhtl7/public_html/system/Common.php(1089): CodeIgniter\View\View->render('registration', Array, true)
+#3 /home/q291duikhtl7/public_html/app/Controllers/Registration_Customer.php(159): view('registration', Array)
+#4 /home/q291duikhtl7/public_html/system/CodeIgniter.php(825): App\Controllers\Registration_Customer->registerCustomer()
+#5 /home/q291duikhtl7/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration_Customer))
+#6 /home/q291duikhtl7/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home/q291duikhtl7/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-04-01 12:37:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:37:32 --> Cart Class Initialized
+INFO - 2022-04-01 12:37:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:37:35 --> Cart Class Initialized
+INFO - 2022-04-01 12:37:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:37:38 --> Cart Class Initialized
+ERROR - 2022-04-01 12:37:38 --> Table 'subeza.shops' doesn't exist
+CRITICAL - 2022-04-01 12:37:38 --> Table 'subeza.shops' doesn't exist
+#0 /home/q291duikhtl7/public_html/system/Database/MySQLi/Connection.php(292): mysqli->query('SELECT 1\nFROM `...', 0)
+#1 /home/q291duikhtl7/public_html/system/Database/BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT 1\nFROM `...')
+#2 /home/q291duikhtl7/public_html/system/Database/BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT 1\nFROM `...')
+#3 /home/q291duikhtl7/public_html/system/Database/BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT 1\nFROM `...', Array, false)
+#4 /home/q291duikhtl7/public_html/system/Validation/Rules.php(142): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/q291duikhtl7/public_html/system/Validation/Validation.php(292): CodeIgniter\Validation\Rules->is_unique('Bhatti Demo Sho...', 'shop_name', Array, NULL)
+#6 /home/q291duikhtl7/public_html/system/Validation/Validation.php(157): CodeIgniter\Validation\Validation->processRules('shop_name', 'shop_name', 'Bhatti Demo Sho...', Array, Array)
+#7 /home/q291duikhtl7/public_html/system/Controller.php(160): CodeIgniter\Validation\Validation->run()
+#8 /home/q291duikhtl7/public_html/app/Controllers/Registration_Seller.php(108): CodeIgniter\Controller->validate(Array)
+#9 /home/q291duikhtl7/public_html/system/CodeIgniter.php(825): App\Controllers\Registration_Seller->registerSeller()
+#10 /home/q291duikhtl7/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration_Seller))
+#11 /home/q291duikhtl7/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 /home/q291duikhtl7/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+INFO - 2022-04-01 12:37:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:37:51 --> Cart Class Initialized
+INFO - 2022-04-01 12:37:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:37:52 --> Cart Class Initialized
+INFO - 2022-04-01 12:37:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:37:57 --> Cart Class Initialized
+INFO - 2022-04-01 12:37:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:37:58 --> Cart Class Initialized
+INFO - 2022-04-01 12:39:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:39:04 --> Cart Class Initialized
+ERROR - 2022-04-01 12:39:04 --> Table 'subeza.shops' doesn't exist
+CRITICAL - 2022-04-01 12:39:04 --> Table 'subeza.shops' doesn't exist
+#0 /home/q291duikhtl7/public_html/system/Database/MySQLi/Connection.php(292): mysqli->query('SELECT 1\nFROM `...', 0)
+#1 /home/q291duikhtl7/public_html/system/Database/BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT 1\nFROM `...')
+#2 /home/q291duikhtl7/public_html/system/Database/BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT 1\nFROM `...')
+#3 /home/q291duikhtl7/public_html/system/Database/BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT 1\nFROM `...', Array, false)
+#4 /home/q291duikhtl7/public_html/system/Validation/Rules.php(142): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/q291duikhtl7/public_html/system/Validation/Validation.php(292): CodeIgniter\Validation\Rules->is_unique('Ahmad Shop', 'shop_name', Array, NULL)
+#6 /home/q291duikhtl7/public_html/system/Validation/Validation.php(157): CodeIgniter\Validation\Validation->processRules('shop_name', 'shop_name', 'Ahmad Shop', Array, Array)
+#7 /home/q291duikhtl7/public_html/system/Controller.php(160): CodeIgniter\Validation\Validation->run()
+#8 /home/q291duikhtl7/public_html/app/Controllers/Registration_Seller.php(108): CodeIgniter\Controller->validate(Array)
+#9 /home/q291duikhtl7/public_html/system/CodeIgniter.php(825): App\Controllers\Registration_Seller->registerSeller()
+#10 /home/q291duikhtl7/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration_Seller))
+#11 /home/q291duikhtl7/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 /home/q291duikhtl7/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+INFO - 2022-04-01 12:39:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:39:34 --> Cart Class Initialized
+INFO - 2022-04-01 12:39:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:39:35 --> Cart Class Initialized
+INFO - 2022-04-01 12:39:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:39:36 --> Cart Class Initialized
+INFO - 2022-04-01 12:39:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:39:39 --> Cart Class Initialized
+INFO - 2022-04-01 12:39:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:39:40 --> Cart Class Initialized
+INFO - 2022-04-01 12:39:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:39:42 --> Cart Class Initialized
+INFO - 2022-04-01 12:40:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:40:12 --> Cart Class Initialized
+CRITICAL - 2022-04-01 12:40:12 --> Call to undefined function display_error()
+#0 /home/q291duikhtl7/public_html/system/View/View.php(210): include()
+#1 /home/q291duikhtl7/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 /home/q291duikhtl7/public_html/system/Common.php(1089): CodeIgniter\View\View->render('registration', Array, true)
+#3 /home/q291duikhtl7/public_html/app/Controllers/Registration_Customer.php(159): view('registration', Array)
+#4 /home/q291duikhtl7/public_html/system/CodeIgniter.php(825): App\Controllers\Registration_Customer->registerCustomer()
+#5 /home/q291duikhtl7/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration_Customer))
+#6 /home/q291duikhtl7/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home/q291duikhtl7/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-04-01 12:41:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:41:12 --> Cart Class Initialized
+INFO - 2022-04-01 12:41:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:41:13 --> Cart Class Initialized
+INFO - 2022-04-01 12:47:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:47:11 --> Cart Class Initialized
+INFO - 2022-04-01 12:47:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:47:13 --> Cart Class Initialized
+INFO - 2022-04-01 12:47:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:47:21 --> Cart Class Initialized
+INFO - 2022-04-01 12:47:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:47:25 --> Cart Class Initialized
+INFO - 2022-04-01 12:47:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:47:40 --> Cart Class Initialized
+INFO - 2022-04-01 12:48:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:48:24 --> Cart Class Initialized
+INFO - 2022-04-01 12:48:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:48:25 --> Cart Class Initialized
+INFO - 2022-04-01 12:49:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:49:26 --> Cart Class Initialized
+INFO - 2022-04-01 12:49:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:49:27 --> Cart Class Initialized
+INFO - 2022-04-01 12:50:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:50:10 --> Cart Class Initialized
+INFO - 2022-04-01 12:50:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:50:11 --> Cart Class Initialized
+INFO - 2022-04-01 12:50:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:50:14 --> Cart Class Initialized
+INFO - 2022-04-01 12:50:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:50:14 --> Cart Class Initialized
+INFO - 2022-04-01 12:50:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:50:35 --> Cart Class Initialized
+INFO - 2022-04-01 12:50:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:50:35 --> Cart Class Initialized
+INFO - 2022-04-01 12:52:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:52:08 --> Cart Class Initialized
+INFO - 2022-04-01 12:52:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:52:09 --> Cart Class Initialized
+INFO - 2022-04-01 12:52:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:52:25 --> Cart Class Initialized
+INFO - 2022-04-01 12:52:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:52:26 --> Cart Class Initialized
+INFO - 2022-04-01 12:52:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:52:32 --> Cart Class Initialized
+INFO - 2022-04-01 12:52:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:52:33 --> Cart Class Initialized
+INFO - 2022-04-01 12:52:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:52:34 --> Cart Class Initialized
+INFO - 2022-04-01 12:52:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:52:35 --> Cart Class Initialized
+INFO - 2022-04-01 12:52:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:52:41 --> Cart Class Initialized
+INFO - 2022-04-01 12:53:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:53:05 --> Cart Class Initialized
+INFO - 2022-04-01 12:53:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:53:06 --> Cart Class Initialized
+INFO - 2022-04-01 12:53:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:53:18 --> Cart Class Initialized
+INFO - 2022-04-01 12:53:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:53:20 --> Cart Class Initialized
+INFO - 2022-04-01 12:53:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:53:20 --> Cart Class Initialized
+INFO - 2022-04-01 12:53:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:53:21 --> Cart Class Initialized
+INFO - 2022-04-01 12:53:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:53:29 --> Cart Class Initialized
+CRITICAL - 2022-04-01 12:53:29 --> Call to undefined function display_error()
+#0 /home/q291duikhtl7/public_html/system/View/View.php(210): include()
+#1 /home/q291duikhtl7/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 /home/q291duikhtl7/public_html/system/Common.php(1089): CodeIgniter\View\View->render('create', Array, true)
+#3 /home/q291duikhtl7/public_html/app/Controllers/Registration_Seller.php(194): view('create', Array)
+#4 /home/q291duikhtl7/public_html/system/CodeIgniter.php(825): App\Controllers\Registration_Seller->registerSeller()
+#5 /home/q291duikhtl7/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration_Seller))
+#6 /home/q291duikhtl7/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home/q291duikhtl7/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-04-01 12:53:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:53:33 --> Cart Class Initialized
+INFO - 2022-04-01 12:53:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:53:34 --> Cart Class Initialized
+INFO - 2022-04-01 12:53:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:53:46 --> Cart Class Initialized
+INFO - 2022-04-01 12:53:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:53:47 --> Cart Class Initialized
+INFO - 2022-04-01 12:53:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:53:54 --> Cart Class Initialized
+INFO - 2022-04-01 12:53:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:53:57 --> Cart Class Initialized
+INFO - 2022-04-01 12:54:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:54:04 --> Cart Class Initialized
+CRITICAL - 2022-04-01 12:54:04 --> Call to undefined function display_error()
+#0 /home/q291duikhtl7/public_html/system/View/View.php(210): include()
+#1 /home/q291duikhtl7/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 /home/q291duikhtl7/public_html/system/Common.php(1089): CodeIgniter\View\View->render('create', Array, true)
+#3 /home/q291duikhtl7/public_html/app/Controllers/Registration_Seller.php(194): view('create', Array)
+#4 /home/q291duikhtl7/public_html/system/CodeIgniter.php(825): App\Controllers\Registration_Seller->registerSeller()
+#5 /home/q291duikhtl7/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration_Seller))
+#6 /home/q291duikhtl7/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home/q291duikhtl7/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-04-01 12:54:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:54:28 --> Cart Class Initialized
+INFO - 2022-04-01 12:54:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:54:29 --> Cart Class Initialized
+INFO - 2022-04-01 12:55:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:55:32 --> Cart Class Initialized
+INFO - 2022-04-01 12:55:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:55:34 --> Cart Class Initialized
+INFO - 2022-04-01 12:55:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:55:46 --> Cart Class Initialized
+INFO - 2022-04-01 12:55:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:55:46 --> Cart Class Initialized
+INFO - 2022-04-01 12:55:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:55:47 --> Cart Class Initialized
+INFO - 2022-04-01 12:56:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:56:42 --> Cart Class Initialized
+CRITICAL - 2022-04-01 12:56:42 --> Call to undefined function display_error()
+#0 /home/q291duikhtl7/public_html/system/View/View.php(210): include()
+#1 /home/q291duikhtl7/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 /home/q291duikhtl7/public_html/system/Common.php(1089): CodeIgniter\View\View->render('create', Array, true)
+#3 /home/q291duikhtl7/public_html/app/Controllers/Registration_Seller.php(194): view('create', Array)
+#4 /home/q291duikhtl7/public_html/system/CodeIgniter.php(825): App\Controllers\Registration_Seller->registerSeller()
+#5 /home/q291duikhtl7/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration_Seller))
+#6 /home/q291duikhtl7/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home/q291duikhtl7/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-04-01 12:57:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:57:01 --> Cart Class Initialized
+INFO - 2022-04-01 12:57:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:57:02 --> Cart Class Initialized
+INFO - 2022-04-01 12:57:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:57:02 --> Cart Class Initialized
+INFO - 2022-04-01 12:57:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 12:57:05 --> Cart Class Initialized
+INFO - 2022-04-01 13:00:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:00:20 --> Cart Class Initialized
+INFO - 2022-04-01 13:00:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:00:21 --> Cart Class Initialized
+INFO - 2022-04-01 13:00:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:00:34 --> Cart Class Initialized
+INFO - 2022-04-01 13:01:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:01:41 --> Cart Class Initialized
+INFO - 2022-04-01 13:01:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:01:44 --> Cart Class Initialized
+INFO - 2022-04-01 13:02:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:02:07 --> Cart Class Initialized
+INFO - 2022-04-01 13:02:17 --> Used the default controller.
+INFO - 2022-04-01 13:02:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:02:17 --> Cart Class Initialized
+INFO - 2022-04-01 13:02:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:02:31 --> Cart Class Initialized
+INFO - 2022-04-01 13:04:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:04:49 --> Cart Class Initialized
+INFO - 2022-04-01 13:04:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:04:52 --> Cart Class Initialized
+INFO - 2022-04-01 13:05:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:05:04 --> Cart Class Initialized
+INFO - 2022-04-01 13:06:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:06:00 --> Cart Class Initialized
+INFO - 2022-04-01 13:06:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:06:00 --> Cart Class Initialized
+INFO - 2022-04-01 13:06:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:06:01 --> Cart Class Initialized
+INFO - 2022-04-01 13:06:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:06:02 --> Cart Class Initialized
+INFO - 2022-04-01 13:06:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:06:04 --> Cart Class Initialized
+INFO - 2022-04-01 13:06:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:06:16 --> Cart Class Initialized
+INFO - 2022-04-01 13:06:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:06:19 --> Cart Class Initialized
+INFO - 2022-04-01 13:07:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:07:26 --> Cart Class Initialized
+INFO - 2022-04-01 13:07:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:07:29 --> Cart Class Initialized
+INFO - 2022-04-01 13:07:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:07:30 --> Cart Class Initialized
+INFO - 2022-04-01 13:07:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:07:32 --> Cart Class Initialized
+INFO - 2022-04-01 13:07:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:07:33 --> Cart Class Initialized
+CRITICAL - 2022-04-01 13:07:33 --> Call to undefined function display_error()
+#0 /home/q291duikhtl7/public_html/system/View/View.php(210): include()
+#1 /home/q291duikhtl7/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 /home/q291duikhtl7/public_html/system/Common.php(1089): CodeIgniter\View\View->render('create', Array, true)
+#3 /home/q291duikhtl7/public_html/app/Controllers/Registration_Seller.php(194): view('create', Array)
+#4 /home/q291duikhtl7/public_html/system/CodeIgniter.php(825): App\Controllers\Registration_Seller->registerSeller()
+#5 /home/q291duikhtl7/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration_Seller))
+#6 /home/q291duikhtl7/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home/q291duikhtl7/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-04-01 13:09:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:09:20 --> Cart Class Initialized
+INFO - 2022-04-01 13:09:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:09:35 --> Cart Class Initialized
+INFO - 2022-04-01 13:10:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:10:41 --> Cart Class Initialized
+INFO - 2022-04-01 13:10:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:10:57 --> Cart Class Initialized
+INFO - 2022-04-01 13:11:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:11:09 --> Cart Class Initialized
+INFO - 2022-04-01 13:11:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:11:17 --> Cart Class Initialized
+INFO - 2022-04-01 13:12:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:12:07 --> Cart Class Initialized
+INFO - 2022-04-01 13:12:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:12:15 --> Cart Class Initialized
+INFO - 2022-04-01 13:18:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:18:08 --> Cart Class Initialized
+INFO - 2022-04-01 13:19:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:19:39 --> Cart Class Initialized
+INFO - 2022-04-01 13:19:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:19:40 --> Cart Class Initialized
+INFO - 2022-04-01 13:20:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:20:00 --> Cart Class Initialized
+INFO - 2022-04-01 13:20:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:20:01 --> Cart Class Initialized
+INFO - 2022-04-01 13:20:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:20:15 --> Cart Class Initialized
+INFO - 2022-04-01 13:20:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:20:19 --> Cart Class Initialized
+INFO - 2022-04-01 13:20:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:20:25 --> Cart Class Initialized
+INFO - 2022-04-01 13:20:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:20:28 --> Cart Class Initialized
+INFO - 2022-04-01 13:21:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:21:32 --> Cart Class Initialized
+INFO - 2022-04-01 13:21:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:21:34 --> Cart Class Initialized
+INFO - 2022-04-01 13:21:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:21:36 --> Cart Class Initialized
+INFO - 2022-04-01 13:21:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:21:41 --> Cart Class Initialized
+INFO - 2022-04-01 13:22:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:22:31 --> Cart Class Initialized
+INFO - 2022-04-01 13:22:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:22:31 --> Cart Class Initialized
+INFO - 2022-04-01 13:23:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:23:33 --> Cart Class Initialized
+INFO - 2022-04-01 13:23:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:23:36 --> Cart Class Initialized
+INFO - 2022-04-01 13:23:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:23:36 --> Cart Class Initialized
+INFO - 2022-04-01 13:23:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:23:38 --> Cart Class Initialized
+INFO - 2022-04-01 13:23:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:23:58 --> Cart Class Initialized
+INFO - 2022-04-01 13:23:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:23:59 --> Cart Class Initialized
+INFO - 2022-04-01 13:24:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:24:06 --> Cart Class Initialized
+INFO - 2022-04-01 13:24:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:24:09 --> Cart Class Initialized
+INFO - 2022-04-01 13:24:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:24:27 --> Cart Class Initialized
+INFO - 2022-04-01 13:24:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:24:28 --> Cart Class Initialized
+INFO - 2022-04-01 13:24:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:24:31 --> Cart Class Initialized
+INFO - 2022-04-01 13:24:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:24:32 --> Cart Class Initialized
+INFO - 2022-04-01 13:24:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:24:46 --> Cart Class Initialized
+INFO - 2022-04-01 13:24:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:24:46 --> Cart Class Initialized
+INFO - 2022-04-01 13:25:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:25:28 --> Cart Class Initialized
+INFO - 2022-04-01 13:25:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:25:29 --> Cart Class Initialized
+INFO - 2022-04-01 13:25:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:25:47 --> Cart Class Initialized
+CRITICAL - 2022-04-01 13:25:47 --> Undefined variable: title
+#0 /home/q291duikhtl7/public_html/app/Views/includes/head.php(9): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/q291duikh...', 9, Array)
+#1 /home/q291duikhtl7/public_html/app/Views/registration.php(2): include('/home/q291duikh...')
+#2 /home/q291duikhtl7/public_html/system/View/View.php(210): include('/home/q291duikh...')
+#3 /home/q291duikhtl7/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 /home/q291duikhtl7/public_html/system/Common.php(1089): CodeIgniter\View\View->render('registration', Array, true)
+#5 /home/q291duikhtl7/public_html/app/Controllers/Registration_Customer.php(152): view('registration', Array)
+#6 /home/q291duikhtl7/public_html/system/CodeIgniter.php(825): App\Controllers\Registration_Customer->registerCustomer()
+#7 /home/q291duikhtl7/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration_Customer))
+#8 /home/q291duikhtl7/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/q291duikhtl7/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-04-01 13:28:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:28:22 --> Cart Class Initialized
+INFO - 2022-04-01 13:28:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:28:49 --> Cart Class Initialized
+INFO - 2022-04-01 13:31:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:31:12 --> Cart Class Initialized
+INFO - 2022-04-01 13:31:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:31:14 --> Cart Class Initialized
+INFO - 2022-04-01 13:33:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:33:03 --> Cart Class Initialized
+INFO - 2022-04-01 13:34:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:34:23 --> Cart Class Initialized
+INFO - 2022-04-01 13:34:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:34:28 --> Cart Class Initialized
+INFO - 2022-04-01 13:34:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:34:39 --> Cart Class Initialized
+INFO - 2022-04-01 13:34:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:34:43 --> Cart Class Initialized
+INFO - 2022-04-01 13:34:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:34:44 --> Cart Class Initialized
+INFO - 2022-04-01 13:34:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:34:45 --> Cart Class Initialized
+INFO - 2022-04-01 13:34:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:34:47 --> Cart Class Initialized
+INFO - 2022-04-01 13:34:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:34:48 --> Cart Class Initialized
+INFO - 2022-04-01 13:34:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:34:49 --> Cart Class Initialized
+INFO - 2022-04-01 13:35:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:35:00 --> Cart Class Initialized
+INFO - 2022-04-01 13:35:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:35:01 --> Cart Class Initialized
+INFO - 2022-04-01 13:35:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:35:02 --> Cart Class Initialized
+INFO - 2022-04-01 13:35:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:35:06 --> Cart Class Initialized
+INFO - 2022-04-01 13:35:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:35:07 --> Cart Class Initialized
+INFO - 2022-04-01 13:35:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:35:42 --> Cart Class Initialized
+ERROR - 2022-04-01 13:35:43 --> Email: sendWithSmtp throwed fsockopen(): unable to connect to tls://smtp.gmail.com:465 (Network is unreachable)
+INFO - 2022-04-01 13:35:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:35:44 --> Cart Class Initialized
+INFO - 2022-04-01 13:36:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:36:53 --> Cart Class Initialized
+INFO - 2022-04-01 13:36:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:36:56 --> Cart Class Initialized
+INFO - 2022-04-01 13:36:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:36:58 --> Cart Class Initialized
+INFO - 2022-04-01 13:37:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:37:05 --> Cart Class Initialized
+INFO - 2022-04-01 13:37:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:37:06 --> Cart Class Initialized
+INFO - 2022-04-01 13:37:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:37:08 --> Cart Class Initialized
+INFO - 2022-04-01 13:37:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:37:09 --> Cart Class Initialized
+INFO - 2022-04-01 13:37:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:37:12 --> Cart Class Initialized
+INFO - 2022-04-01 13:37:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:37:13 --> Cart Class Initialized
+INFO - 2022-04-01 13:39:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:39:12 --> Cart Class Initialized
+INFO - 2022-04-01 13:39:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:39:13 --> Cart Class Initialized
+INFO - 2022-04-01 13:39:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:39:18 --> Cart Class Initialized
+INFO - 2022-04-01 13:39:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:39:18 --> Cart Class Initialized
+INFO - 2022-04-01 13:39:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:39:21 --> Cart Class Initialized
+INFO - 2022-04-01 13:39:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:39:21 --> Cart Class Initialized
+INFO - 2022-04-01 13:39:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:39:24 --> Cart Class Initialized
+INFO - 2022-04-01 13:39:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:39:25 --> Cart Class Initialized
+INFO - 2022-04-01 13:40:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:40:06 --> Cart Class Initialized
+INFO - 2022-04-01 13:40:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:40:07 --> Cart Class Initialized
+INFO - 2022-04-01 13:41:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:41:15 --> Cart Class Initialized
+ERROR - 2022-04-01 13:41:16 --> Email: sendWithSmtp throwed fsockopen(): unable to connect to tls://smtp.gmail.com:465 (Network is unreachable)
+INFO - 2022-04-01 13:41:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:41:16 --> Cart Class Initialized
+INFO - 2022-04-01 13:41:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:41:52 --> Cart Class Initialized
+INFO - 2022-04-01 13:41:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:41:53 --> Cart Class Initialized
+INFO - 2022-04-01 13:41:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:41:54 --> Cart Class Initialized
+INFO - 2022-04-01 13:41:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:41:55 --> Cart Class Initialized
+INFO - 2022-04-01 13:41:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:41:56 --> Cart Class Initialized
+INFO - 2022-04-01 13:41:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:41:56 --> Cart Class Initialized
+INFO - 2022-04-01 13:41:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:41:58 --> Cart Class Initialized
+INFO - 2022-04-01 13:41:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:41:59 --> Cart Class Initialized
+INFO - 2022-04-01 13:42:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:42:01 --> Cart Class Initialized
+INFO - 2022-04-01 13:42:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:42:02 --> Cart Class Initialized
+INFO - 2022-04-01 13:42:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:42:03 --> Cart Class Initialized
+INFO - 2022-04-01 13:42:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:42:06 --> Cart Class Initialized
+INFO - 2022-04-01 13:42:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:42:08 --> Cart Class Initialized
+INFO - 2022-04-01 13:43:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:43:28 --> Cart Class Initialized
+INFO - 2022-04-01 13:43:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:43:30 --> Cart Class Initialized
+INFO - 2022-04-01 13:43:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:43:48 --> Cart Class Initialized
+INFO - 2022-04-01 13:43:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:43:50 --> Cart Class Initialized
+INFO - 2022-04-01 13:44:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:44:27 --> Cart Class Initialized
+INFO - 2022-04-01 13:44:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:44:29 --> Cart Class Initialized
+INFO - 2022-04-01 13:44:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:44:46 --> Cart Class Initialized
+INFO - 2022-04-01 13:44:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:44:47 --> Cart Class Initialized
+INFO - 2022-04-01 13:44:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:44:57 --> Cart Class Initialized
+INFO - 2022-04-01 13:44:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:44:58 --> Cart Class Initialized
+INFO - 2022-04-01 13:45:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:45:00 --> Cart Class Initialized
+INFO - 2022-04-01 13:45:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:45:01 --> Cart Class Initialized
+INFO - 2022-04-01 13:45:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:45:04 --> Cart Class Initialized
+INFO - 2022-04-01 13:45:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:45:04 --> Cart Class Initialized
+INFO - 2022-04-01 13:45:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:45:05 --> Cart Class Initialized
+INFO - 2022-04-01 13:45:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:45:06 --> Cart Class Initialized
+INFO - 2022-04-01 13:46:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:46:12 --> Cart Class Initialized
+ERROR - 2022-04-01 13:46:13 --> Email: sendWithSmtp throwed fsockopen(): unable to connect to tls://smtp.gmail.com:465 (Network is unreachable)
+INFO - 2022-04-01 13:46:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:46:14 --> Cart Class Initialized
+INFO - 2022-04-01 13:46:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:46:43 --> Cart Class Initialized
+INFO - 2022-04-01 13:46:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:46:44 --> Cart Class Initialized
+INFO - 2022-04-01 13:47:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:47:57 --> Cart Class Initialized
+INFO - 2022-04-01 13:47:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:47:58 --> Cart Class Initialized
+INFO - 2022-04-01 13:48:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:48:33 --> Cart Class Initialized
+INFO - 2022-04-01 13:48:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:48:33 --> Cart Class Initialized
+INFO - 2022-04-01 13:48:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:48:38 --> Cart Class Initialized
+ERROR - 2022-04-01 13:48:39 --> Email: sendWithSmtp throwed fsockopen(): unable to connect to tls://smtp.gmail.com:465 (Network is unreachable)
+INFO - 2022-04-01 13:48:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:48:40 --> Cart Class Initialized
+INFO - 2022-04-01 13:48:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:48:40 --> Cart Class Initialized
+INFO - 2022-04-01 13:48:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:48:40 --> Cart Class Initialized
+INFO - 2022-04-01 13:48:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:48:42 --> Cart Class Initialized
+INFO - 2022-04-01 13:48:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:48:42 --> Cart Class Initialized
+INFO - 2022-04-01 13:50:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:50:57 --> Cart Class Initialized
+INFO - 2022-04-01 13:50:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:50:58 --> Cart Class Initialized
+INFO - 2022-04-01 13:50:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:50:59 --> Cart Class Initialized
+INFO - 2022-04-01 13:51:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:51:02 --> Cart Class Initialized
+INFO - 2022-04-01 13:56:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:56:32 --> Cart Class Initialized
+ERROR - 2022-04-01 13:56:33 --> Email: sendWithSmtp throwed fsockopen(): unable to connect to tls://smtp.gmail.com:465 (Network is unreachable)
+INFO - 2022-04-01 13:56:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:56:34 --> Cart Class Initialized
+INFO - 2022-04-01 13:57:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:57:49 --> Cart Class Initialized
+INFO - 2022-04-01 13:57:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:57:49 --> Cart Class Initialized
+INFO - 2022-04-01 13:58:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 13:58:32 --> Cart Class Initialized
+INFO - 2022-04-01 14:02:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:02:01 --> Cart Class Initialized
+INFO - 2022-04-01 14:02:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:02:06 --> Cart Class Initialized
+INFO - 2022-04-01 14:02:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:02:28 --> Cart Class Initialized
+ERROR - 2022-04-01 14:02:29 --> Email: sendWithSmtp throwed fsockopen(): unable to connect to tls://smtp.gmail.com:465 (Network is unreachable)
+INFO - 2022-04-01 14:02:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:02:29 --> Cart Class Initialized
+INFO - 2022-04-01 14:02:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:02:42 --> Cart Class Initialized
+INFO - 2022-04-01 14:02:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:02:50 --> Cart Class Initialized
+INFO - 2022-04-01 14:03:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:03:09 --> Cart Class Initialized
+INFO - 2022-04-01 14:03:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:03:21 --> Cart Class Initialized
+INFO - 2022-04-01 14:03:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:03:27 --> Cart Class Initialized
+INFO - 2022-04-01 14:03:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:03:38 --> Cart Class Initialized
+INFO - 2022-04-01 14:03:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:03:48 --> Cart Class Initialized
+INFO - 2022-04-01 14:04:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:04:02 --> Cart Class Initialized
+INFO - 2022-04-01 14:04:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:04:02 --> Cart Class Initialized
+INFO - 2022-04-01 14:04:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:04:24 --> Cart Class Initialized
+INFO - 2022-04-01 14:04:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:04:25 --> Cart Class Initialized
+INFO - 2022-04-01 14:04:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:04:57 --> Cart Class Initialized
+INFO - 2022-04-01 14:04:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:04:58 --> Cart Class Initialized
+INFO - 2022-04-01 14:04:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:04:59 --> Cart Class Initialized
+INFO - 2022-04-01 14:05:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:05:00 --> Cart Class Initialized
+INFO - 2022-04-01 14:05:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:05:13 --> Cart Class Initialized
+INFO - 2022-04-01 14:05:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:05:15 --> Cart Class Initialized
+INFO - 2022-04-01 14:05:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:05:18 --> Cart Class Initialized
+INFO - 2022-04-01 14:05:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:05:19 --> Cart Class Initialized
+INFO - 2022-04-01 14:05:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:05:42 --> Cart Class Initialized
+INFO - 2022-04-01 14:05:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:05:43 --> Cart Class Initialized
+INFO - 2022-04-01 14:05:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:05:44 --> Cart Class Initialized
+INFO - 2022-04-01 14:05:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:05:45 --> Cart Class Initialized
+INFO - 2022-04-01 14:05:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:05:48 --> Cart Class Initialized
+INFO - 2022-04-01 14:06:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:06:02 --> Cart Class Initialized
+INFO - 2022-04-01 14:06:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:06:04 --> Cart Class Initialized
+INFO - 2022-04-01 14:06:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:06:27 --> Cart Class Initialized
+INFO - 2022-04-01 14:06:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:06:28 --> Cart Class Initialized
+INFO - 2022-04-01 14:06:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:06:30 --> Cart Class Initialized
+INFO - 2022-04-01 14:06:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:06:30 --> Cart Class Initialized
+INFO - 2022-04-01 14:06:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:06:31 --> Cart Class Initialized
+INFO - 2022-04-01 14:06:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:06:31 --> Cart Class Initialized
+INFO - 2022-04-01 14:06:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:06:49 --> Cart Class Initialized
+INFO - 2022-04-01 14:06:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:06:50 --> Cart Class Initialized
+INFO - 2022-04-01 14:06:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:06:59 --> Cart Class Initialized
+INFO - 2022-04-01 14:07:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:07:06 --> Cart Class Initialized
+INFO - 2022-04-01 14:07:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:07:06 --> Cart Class Initialized
+INFO - 2022-04-01 14:07:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:07:09 --> Cart Class Initialized
+INFO - 2022-04-01 14:07:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:07:10 --> Cart Class Initialized
+INFO - 2022-04-01 14:07:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:07:10 --> Cart Class Initialized
+INFO - 2022-04-01 14:07:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:07:29 --> Cart Class Initialized
+INFO - 2022-04-01 14:07:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:07:29 --> Cart Class Initialized
+INFO - 2022-04-01 14:07:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:07:58 --> Cart Class Initialized
+INFO - 2022-04-01 14:08:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:08:27 --> Cart Class Initialized
+INFO - 2022-04-01 14:08:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:08:29 --> Cart Class Initialized
+INFO - 2022-04-01 14:08:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:08:30 --> Cart Class Initialized
+INFO - 2022-04-01 14:09:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:09:05 --> Cart Class Initialized
+INFO - 2022-04-01 14:09:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:09:08 --> Cart Class Initialized
+INFO - 2022-04-01 14:09:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:09:16 --> Cart Class Initialized
+INFO - 2022-04-01 14:09:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:09:39 --> Cart Class Initialized
+INFO - 2022-04-01 14:09:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:09:40 --> Cart Class Initialized
+INFO - 2022-04-01 14:09:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:09:50 --> Cart Class Initialized
+INFO - 2022-04-01 14:09:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:09:52 --> Cart Class Initialized
+INFO - 2022-04-01 14:09:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:09:53 --> Cart Class Initialized
+INFO - 2022-04-01 14:09:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:09:56 --> Cart Class Initialized
+INFO - 2022-04-01 14:09:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:09:57 --> Cart Class Initialized
+INFO - 2022-04-01 14:10:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:10:10 --> Cart Class Initialized
+INFO - 2022-04-01 14:10:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:10:18 --> Cart Class Initialized
+INFO - 2022-04-01 14:10:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:10:30 --> Cart Class Initialized
+INFO - 2022-04-01 14:10:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:10:30 --> Cart Class Initialized
+INFO - 2022-04-01 14:10:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:10:58 --> Cart Class Initialized
+INFO - 2022-04-01 14:10:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:10:59 --> Cart Class Initialized
+INFO - 2022-04-01 14:11:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:11:18 --> Cart Class Initialized
+INFO - 2022-04-01 14:11:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:11:22 --> Cart Class Initialized
+INFO - 2022-04-01 14:11:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:11:30 --> Cart Class Initialized
+INFO - 2022-04-01 14:11:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:11:30 --> Cart Class Initialized
+INFO - 2022-04-01 14:11:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:11:30 --> Cart Class Initialized
+INFO - 2022-04-01 14:11:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:11:30 --> Cart Class Initialized
+INFO - 2022-04-01 14:11:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:11:30 --> Cart Class Initialized
+INFO - 2022-04-01 14:11:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:11:39 --> Cart Class Initialized
+INFO - 2022-04-01 14:11:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:11:39 --> Cart Class Initialized
+INFO - 2022-04-01 14:11:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:11:41 --> Cart Class Initialized
+INFO - 2022-04-01 14:12:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:12:00 --> Cart Class Initialized
+CRITICAL - 2022-04-01 14:12:15 --> syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) or const (T_CONST)
+#0 /home/q291duikhtl7/public_html/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('/home/q291duikh...')
+#1 /home/q291duikhtl7/public_html/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 /home/q291duikhtl7/public_html/system/CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#5 /home/q291duikhtl7/public_html/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#6 /home/q291duikhtl7/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home/q291duikhtl7/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-04-01 14:12:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:12:43 --> Cart Class Initialized
+INFO - 2022-04-01 14:12:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:12:44 --> Cart Class Initialized
+INFO - 2022-04-01 14:12:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:12:58 --> Cart Class Initialized
+INFO - 2022-04-01 14:13:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:13:26 --> Cart Class Initialized
+INFO - 2022-04-01 14:13:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:13:27 --> Cart Class Initialized
+INFO - 2022-04-01 14:15:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:15:04 --> Cart Class Initialized
+ERROR - 2022-04-01 14:15:06 --> Email: sendWithSmtp throwed fsockopen(): unable to connect to tls://smtp.gmail.com:465 (Network is unreachable)
+INFO - 2022-04-01 14:15:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:15:06 --> Cart Class Initialized
+INFO - 2022-04-01 14:15:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:15:13 --> Cart Class Initialized
+INFO - 2022-04-01 14:15:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:15:16 --> Cart Class Initialized
+INFO - 2022-04-01 14:15:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:15:19 --> Cart Class Initialized
+INFO - 2022-04-01 14:15:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:15:22 --> Cart Class Initialized
+INFO - 2022-04-01 14:15:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:15:24 --> Cart Class Initialized
+INFO - 2022-04-01 14:15:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:15:31 --> Cart Class Initialized
+INFO - 2022-04-01 14:15:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:15:34 --> Cart Class Initialized
+INFO - 2022-04-01 14:16:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:16:46 --> Cart Class Initialized
+INFO - 2022-04-01 14:16:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:16:48 --> Cart Class Initialized
+INFO - 2022-04-01 14:16:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:16:54 --> Cart Class Initialized
+INFO - 2022-04-01 14:17:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:17:02 --> Cart Class Initialized
+INFO - 2022-04-01 14:17:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:17:05 --> Cart Class Initialized
+INFO - 2022-04-01 14:17:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:17:10 --> Cart Class Initialized
+INFO - 2022-04-01 14:17:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:17:20 --> Cart Class Initialized
+INFO - 2022-04-01 14:17:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:17:29 --> Cart Class Initialized
+INFO - 2022-04-01 14:17:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:17:36 --> Cart Class Initialized
+INFO - 2022-04-01 14:18:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:18:32 --> Cart Class Initialized
+INFO - 2022-04-01 14:18:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:18:49 --> Cart Class Initialized
+INFO - 2022-04-01 14:20:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:20:38 --> Cart Class Initialized
+INFO - 2022-04-01 14:20:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:20:45 --> Cart Class Initialized
+INFO - 2022-04-01 14:21:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:21:04 --> Cart Class Initialized
+INFO - 2022-04-01 14:21:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:21:05 --> Cart Class Initialized
+INFO - 2022-04-01 14:21:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:21:15 --> Cart Class Initialized
+INFO - 2022-04-01 14:21:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:21:41 --> Cart Class Initialized
+INFO - 2022-04-01 14:21:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:21:43 --> Cart Class Initialized
+INFO - 2022-04-01 14:21:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:21:49 --> Cart Class Initialized
+INFO - 2022-04-01 14:21:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:21:50 --> Cart Class Initialized
+INFO - 2022-04-01 14:22:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:22:12 --> Cart Class Initialized
+INFO - 2022-04-01 14:22:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:22:12 --> Cart Class Initialized
+INFO - 2022-04-01 14:22:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:22:12 --> Cart Class Initialized
+INFO - 2022-04-01 14:22:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:22:13 --> Cart Class Initialized
+INFO - 2022-04-01 14:22:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:22:29 --> Cart Class Initialized
+INFO - 2022-04-01 14:22:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:22:51 --> Cart Class Initialized
+INFO - 2022-04-01 14:22:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:22:55 --> Cart Class Initialized
+INFO - 2022-04-01 14:23:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:23:15 --> Cart Class Initialized
+INFO - 2022-04-01 14:23:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:23:15 --> Cart Class Initialized
+INFO - 2022-04-01 14:23:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:23:21 --> Cart Class Initialized
+CRITICAL - 2022-04-01 14:23:21 --> Undefined index: staus
+#0 /home/q291duikhtl7/public_html/app/Views/admin/customers.php(58): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/home/q291duikh...', 58, Array)
+#1 /home/q291duikhtl7/public_html/system/View/View.php(210): include('/home/q291duikh...')
+#2 /home/q291duikhtl7/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/q291duikhtl7/public_html/system/Common.php(1089): CodeIgniter\View\View->render('admin/customers', Array, true)
+#4 /home/q291duikhtl7/public_html/app/Controllers/Admin_Customer.php(21): view('admin/customers', Array)
+#5 /home/q291duikhtl7/public_html/system/CodeIgniter.php(825): App\Controllers\Admin_Customer->index()
+#6 /home/q291duikhtl7/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin_Customer))
+#7 /home/q291duikhtl7/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/q291duikhtl7/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2022-04-01 14:23:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:23:52 --> Cart Class Initialized
+INFO - 2022-04-01 14:23:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:23:54 --> Cart Class Initialized
+INFO - 2022-04-01 14:23:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:23:54 --> Cart Class Initialized
+INFO - 2022-04-01 14:23:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:23:55 --> Cart Class Initialized
+INFO - 2022-04-01 14:24:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:24:00 --> Cart Class Initialized
+INFO - 2022-04-01 14:24:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:24:22 --> Cart Class Initialized
+INFO - 2022-04-01 14:24:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:24:22 --> Cart Class Initialized
+INFO - 2022-04-01 14:24:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:24:22 --> Cart Class Initialized
+INFO - 2022-04-01 14:24:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:24:51 --> Cart Class Initialized
+INFO - 2022-04-01 14:24:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:24:51 --> Cart Class Initialized
+INFO - 2022-04-01 14:25:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:25:02 --> Cart Class Initialized
+INFO - 2022-04-01 14:25:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:25:02 --> Cart Class Initialized
+INFO - 2022-04-01 14:25:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:25:14 --> Cart Class Initialized
+INFO - 2022-04-01 14:25:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:25:16 --> Cart Class Initialized
+INFO - 2022-04-01 14:25:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:25:16 --> Cart Class Initialized
+INFO - 2022-04-01 14:25:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:25:37 --> Cart Class Initialized
+INFO - 2022-04-01 14:25:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:25:52 --> Cart Class Initialized
+INFO - 2022-04-01 14:25:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:25:53 --> Cart Class Initialized
+INFO - 2022-04-01 14:26:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:26:06 --> Cart Class Initialized
+INFO - 2022-04-01 14:26:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:26:06 --> Cart Class Initialized
+INFO - 2022-04-01 14:26:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:26:08 --> Cart Class Initialized
+INFO - 2022-04-01 14:26:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:26:11 --> Cart Class Initialized
+INFO - 2022-04-01 14:26:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:26:16 --> Cart Class Initialized
+INFO - 2022-04-01 14:26:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:26:17 --> Cart Class Initialized
+INFO - 2022-04-01 14:26:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:26:19 --> Cart Class Initialized
+INFO - 2022-04-01 14:26:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:26:19 --> Cart Class Initialized
+INFO - 2022-04-01 14:26:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:26:19 --> Cart Class Initialized
+INFO - 2022-04-01 14:26:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:26:38 --> Cart Class Initialized
+INFO - 2022-04-01 14:26:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:26:38 --> Cart Class Initialized
+INFO - 2022-04-01 14:26:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:26:44 --> Cart Class Initialized
+INFO - 2022-04-01 14:26:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:26:44 --> Cart Class Initialized
+INFO - 2022-04-01 14:26:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:26:53 --> Cart Class Initialized
+INFO - 2022-04-01 14:27:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:27:03 --> Cart Class Initialized
+ERROR - 2022-04-01 14:27:04 --> Email: sendWithSmtp throwed fsockopen(): unable to connect to tls://smtp.gmail.com:465 (Network is unreachable)
+INFO - 2022-04-01 14:27:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:27:09 --> Cart Class Initialized
+INFO - 2022-04-01 14:27:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:27:09 --> Cart Class Initialized
+INFO - 2022-04-01 14:27:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:27:09 --> Cart Class Initialized
+INFO - 2022-04-01 14:27:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:27:10 --> Cart Class Initialized
+INFO - 2022-04-01 14:27:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:27:58 --> Cart Class Initialized
+INFO - 2022-04-01 14:28:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:28:03 --> Cart Class Initialized
+INFO - 2022-04-01 14:28:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:28:06 --> Cart Class Initialized
+INFO - 2022-04-01 14:28:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:28:07 --> Cart Class Initialized
+INFO - 2022-04-01 14:28:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:28:22 --> Cart Class Initialized
+INFO - 2022-04-01 14:28:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:28:23 --> Cart Class Initialized
+INFO - 2022-04-01 14:28:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:28:26 --> Cart Class Initialized
+ERROR - 2022-04-01 14:28:27 --> Email: sendWithSmtp throwed fsockopen(): unable to connect to tls://smtp.gmail.com:465 (Network is unreachable)
+INFO - 2022-04-01 14:33:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:33:08 --> Cart Class Initialized
+INFO - 2022-04-01 14:33:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:33:09 --> Cart Class Initialized
+INFO - 2022-04-01 14:33:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:33:21 --> Cart Class Initialized
+ERROR - 2022-04-01 14:33:22 --> Email: sendWithSmtp throwed fsockopen(): unable to connect to ssl://smtp.gmail.com:587 (Network is unreachable)
+INFO - 2022-04-01 14:33:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:33:23 --> Cart Class Initialized
+INFO - 2022-04-01 14:34:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:34:46 --> Cart Class Initialized
+CRITICAL - 2022-04-01 14:34:46 --> Undefined variable: seller
+#0 /home/q291duikhtl7/public_html/app/Views/admin/customers.php(59): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/q291duikh...', 59, Array)
+#1 /home/q291duikhtl7/public_html/system/View/View.php(210): include('/home/q291duikh...')
+#2 /home/q291duikhtl7/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/q291duikhtl7/public_html/system/Common.php(1089): CodeIgniter\View\View->render('admin/customers', Array, true)
+#4 /home/q291duikhtl7/public_html/app/Controllers/Admin_Customer.php(21): view('admin/customers', Array)
+#5 /home/q291duikhtl7/public_html/system/CodeIgniter.php(825): App\Controllers\Admin_Customer->index()
+#6 /home/q291duikhtl7/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin_Customer))
+#7 /home/q291duikhtl7/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/q291duikhtl7/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2022-04-01 14:35:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:35:15 --> Cart Class Initialized
+CRITICAL - 2022-04-01 14:35:15 --> Undefined variable: seller
+#0 /home/q291duikhtl7/public_html/app/Views/admin/customers.php(62): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/q291duikh...', 62, Array)
+#1 /home/q291duikhtl7/public_html/system/View/View.php(210): include('/home/q291duikh...')
+#2 /home/q291duikhtl7/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/q291duikhtl7/public_html/system/Common.php(1089): CodeIgniter\View\View->render('admin/customers', Array, true)
+#4 /home/q291duikhtl7/public_html/app/Controllers/Admin_Customer.php(21): view('admin/customers', Array)
+#5 /home/q291duikhtl7/public_html/system/CodeIgniter.php(825): App\Controllers\Admin_Customer->index()
+#6 /home/q291duikhtl7/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin_Customer))
+#7 /home/q291duikhtl7/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/q291duikhtl7/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2022-04-01 14:35:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:35:52 --> Cart Class Initialized
+INFO - 2022-04-01 14:36:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:36:57 --> Cart Class Initialized
+INFO - 2022-04-01 14:36:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:36:58 --> Cart Class Initialized
+INFO - 2022-04-01 14:36:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:36:58 --> Cart Class Initialized
+INFO - 2022-04-01 14:36:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:36:59 --> Cart Class Initialized
+INFO - 2022-04-01 14:37:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:37:01 --> Cart Class Initialized
+INFO - 2022-04-01 14:37:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:37:14 --> Cart Class Initialized
+INFO - 2022-04-01 14:37:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:37:15 --> Cart Class Initialized
+INFO - 2022-04-01 14:37:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:37:33 --> Cart Class Initialized
+INFO - 2022-04-01 14:38:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:38:00 --> Cart Class Initialized
+INFO - 2022-04-01 14:38:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:38:12 --> Cart Class Initialized
+INFO - 2022-04-01 14:38:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:38:29 --> Cart Class Initialized
+INFO - 2022-04-01 14:38:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:38:31 --> Cart Class Initialized
+INFO - 2022-04-01 14:38:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:38:36 --> Cart Class Initialized
+INFO - 2022-04-01 14:40:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:40:26 --> Cart Class Initialized
+INFO - 2022-04-01 14:40:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:40:29 --> Cart Class Initialized
+INFO - 2022-04-01 14:40:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:40:29 --> Cart Class Initialized
+INFO - 2022-04-01 14:40:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:40:40 --> Cart Class Initialized
+INFO - 2022-04-01 14:40:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:40:41 --> Cart Class Initialized
+INFO - 2022-04-01 14:41:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:41:18 --> Cart Class Initialized
+ERROR - 2022-04-01 14:41:19 --> Email: sendWithSmtp throwed fsockopen(): unable to connect to ssl://smtp.gmail.com:25 (Network is unreachable)
+INFO - 2022-04-01 14:41:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:41:20 --> Cart Class Initialized
+INFO - 2022-04-01 14:41:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:41:25 --> Cart Class Initialized
+INFO - 2022-04-01 14:41:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:41:26 --> Cart Class Initialized
+INFO - 2022-04-01 14:42:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:42:14 --> Cart Class Initialized
+INFO - 2022-04-01 14:42:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:42:15 --> Cart Class Initialized
+INFO - 2022-04-01 14:42:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:42:16 --> Cart Class Initialized
+INFO - 2022-04-01 14:42:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:42:19 --> Cart Class Initialized
+INFO - 2022-04-01 14:42:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:42:22 --> Cart Class Initialized
+INFO - 2022-04-01 14:42:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:42:22 --> Cart Class Initialized
+INFO - 2022-04-01 14:42:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:42:24 --> Cart Class Initialized
+INFO - 2022-04-01 14:42:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:42:25 --> Cart Class Initialized
+INFO - 2022-04-01 14:42:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:42:27 --> Cart Class Initialized
+INFO - 2022-04-01 14:42:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:42:28 --> Cart Class Initialized
+INFO - 2022-04-01 14:42:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:42:53 --> Cart Class Initialized
+INFO - 2022-04-01 14:44:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:44:29 --> Cart Class Initialized
+INFO - 2022-04-01 14:44:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:44:32 --> Cart Class Initialized
+INFO - 2022-04-01 14:46:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:46:28 --> Cart Class Initialized
+INFO - 2022-04-01 14:46:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:46:28 --> Cart Class Initialized
+INFO - 2022-04-01 14:46:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:46:43 --> Cart Class Initialized
+CRITICAL - 2022-04-01 14:46:43 --> Undefined variable: email
+#0 /home/q291duikhtl7/public_html/app/Controllers/Registration_Customer.php(128): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/q291duikh...', 128, Array)
+#1 /home/q291duikhtl7/public_html/system/CodeIgniter.php(825): App\Controllers\Registration_Customer->registerCustomer()
+#2 /home/q291duikhtl7/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration_Customer))
+#3 /home/q291duikhtl7/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/q291duikhtl7/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-04-01 14:47:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:47:29 --> Cart Class Initialized
+INFO - 2022-04-01 14:47:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:47:32 --> Cart Class Initialized
+INFO - 2022-04-01 14:47:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:47:54 --> Cart Class Initialized
+INFO - 2022-04-01 14:48:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:48:05 --> Cart Class Initialized
+INFO - 2022-04-01 14:48:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:48:11 --> Cart Class Initialized
+INFO - 2022-04-01 14:48:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:48:12 --> Cart Class Initialized
+INFO - 2022-04-01 14:48:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:48:23 --> Cart Class Initialized
+INFO - 2022-04-01 14:48:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:48:40 --> Cart Class Initialized
+INFO - 2022-04-01 14:48:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:48:45 --> Cart Class Initialized
+ERROR - 2022-04-01 14:48:46 --> Email: sendWithSmtp throwed fsockopen(): unable to connect to tls://smtp.gmail.com:465 (Network is unreachable)
+CRITICAL - 2022-04-01 14:48:46 --> Call to a member function printDebugger() on null
+#0 /home/q291duikhtl7/public_html/system/CodeIgniter.php(825): App\Controllers\Registration_Customer->registerCustomer()
+#1 /home/q291duikhtl7/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration_Customer))
+#2 /home/q291duikhtl7/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/q291duikhtl7/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2022-04-01 14:48:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:48:54 --> Cart Class Initialized
+INFO - 2022-04-01 14:49:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:49:12 --> Cart Class Initialized
+INFO - 2022-04-01 14:49:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:49:12 --> Cart Class Initialized
+INFO - 2022-04-01 14:49:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:49:22 --> Cart Class Initialized
+INFO - 2022-04-01 14:49:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:49:22 --> Cart Class Initialized
+INFO - 2022-04-01 14:49:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:49:23 --> Cart Class Initialized
+INFO - 2022-04-01 14:49:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:49:28 --> Cart Class Initialized
+INFO - 2022-04-01 14:49:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:49:29 --> Cart Class Initialized
+INFO - 2022-04-01 14:49:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:49:31 --> Cart Class Initialized
+INFO - 2022-04-01 14:49:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:49:33 --> Cart Class Initialized
+INFO - 2022-04-01 14:49:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:49:33 --> Cart Class Initialized
+INFO - 2022-04-01 14:49:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:49:33 --> Cart Class Initialized
+INFO - 2022-04-01 14:49:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:49:33 --> Cart Class Initialized
+INFO - 2022-04-01 14:49:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:49:42 --> Cart Class Initialized
+INFO - 2022-04-01 14:49:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:49:42 --> Cart Class Initialized
+INFO - 2022-04-01 14:49:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:49:53 --> Cart Class Initialized
+ERROR - 2022-04-01 14:49:54 --> Email: sendWithSmtp throwed fsockopen(): unable to connect to tls://smtp.gmail.com:465 (Network is unreachable)
+INFO - 2022-04-01 14:49:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:49:54 --> Cart Class Initialized
+INFO - 2022-04-01 14:50:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:50:11 --> Cart Class Initialized
+INFO - 2022-04-01 14:50:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:50:14 --> Cart Class Initialized
+INFO - 2022-04-01 14:50:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:50:18 --> Cart Class Initialized
+INFO - 2022-04-01 14:50:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:50:19 --> Cart Class Initialized
+INFO - 2022-04-01 14:50:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:50:20 --> Cart Class Initialized
+INFO - 2022-04-01 14:50:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:50:35 --> Cart Class Initialized
+INFO - 2022-04-01 14:50:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:50:36 --> Cart Class Initialized
+INFO - 2022-04-01 14:50:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:50:57 --> Cart Class Initialized
+INFO - 2022-04-01 14:50:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:50:57 --> Cart Class Initialized
+INFO - 2022-04-01 14:50:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:50:57 --> Cart Class Initialized
+INFO - 2022-04-01 14:51:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:51:13 --> Cart Class Initialized
+INFO - 2022-04-01 14:51:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:51:13 --> Cart Class Initialized
+INFO - 2022-04-01 14:51:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:51:22 --> Cart Class Initialized
+INFO - 2022-04-01 14:51:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:51:22 --> Cart Class Initialized
+INFO - 2022-04-01 14:51:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:51:23 --> Cart Class Initialized
+INFO - 2022-04-01 14:52:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:52:00 --> Cart Class Initialized
+INFO - 2022-04-01 14:52:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:52:00 --> Cart Class Initialized
+INFO - 2022-04-01 14:52:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:52:00 --> Cart Class Initialized
+INFO - 2022-04-01 14:52:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:52:28 --> Cart Class Initialized
+INFO - 2022-04-01 14:52:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:52:28 --> Cart Class Initialized
+INFO - 2022-04-01 14:52:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:52:44 --> Cart Class Initialized
+INFO - 2022-04-01 14:52:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:52:48 --> Cart Class Initialized
+INFO - 2022-04-01 14:52:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:52:48 --> Cart Class Initialized
+INFO - 2022-04-01 14:52:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:52:52 --> Cart Class Initialized
+INFO - 2022-04-01 14:52:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:52:55 --> Cart Class Initialized
+INFO - 2022-04-01 14:53:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:53:00 --> Cart Class Initialized
+INFO - 2022-04-01 14:53:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:53:07 --> Cart Class Initialized
+INFO - 2022-04-01 14:53:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:53:09 --> Cart Class Initialized
+INFO - 2022-04-01 14:53:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:53:13 --> Cart Class Initialized
+INFO - 2022-04-01 14:53:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:53:15 --> Cart Class Initialized
+INFO - 2022-04-01 14:53:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:53:30 --> Cart Class Initialized
+ERROR - 2022-04-01 14:53:31 --> Email: sendWithSmtp throwed fsockopen(): unable to connect to smtp.gmail.com:587 (Network is unreachable)
+INFO - 2022-04-01 14:53:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:53:31 --> Cart Class Initialized
+INFO - 2022-04-01 14:53:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:53:34 --> Cart Class Initialized
+INFO - 2022-04-01 14:53:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:53:35 --> Cart Class Initialized
+INFO - 2022-04-01 14:53:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:53:36 --> Cart Class Initialized
+INFO - 2022-04-01 14:53:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:53:38 --> Cart Class Initialized
+INFO - 2022-04-01 14:53:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:53:38 --> Cart Class Initialized
+INFO - 2022-04-01 14:53:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:53:40 --> Cart Class Initialized
+INFO - 2022-04-01 14:53:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:53:41 --> Cart Class Initialized
+INFO - 2022-04-01 14:53:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:53:44 --> Cart Class Initialized
+INFO - 2022-04-01 14:53:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:53:45 --> Cart Class Initialized
+INFO - 2022-04-01 14:53:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:53:45 --> Cart Class Initialized
+INFO - 2022-04-01 14:54:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:54:08 --> Cart Class Initialized
+INFO - 2022-04-01 14:54:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:54:10 --> Cart Class Initialized
+INFO - 2022-04-01 14:54:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:54:39 --> Cart Class Initialized
+INFO - 2022-04-01 14:54:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 14:54:40 --> Cart Class Initialized
+INFO - 2022-04-01 15:12:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 15:12:36 --> Cart Class Initialized
+INFO - 2022-04-01 15:12:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 15:12:36 --> Cart Class Initialized
+INFO - 2022-04-01 15:13:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 15:13:14 --> Cart Class Initialized
+ERROR - 2022-04-01 15:13:16 --> Email: sendWithSmtp throwed fsockopen(): unable to connect to smtp.gmail.com:587 (Network is unreachable)
+INFO - 2022-04-01 15:13:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 15:13:16 --> Cart Class Initialized
+INFO - 2022-04-01 15:13:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 15:13:21 --> Cart Class Initialized
+INFO - 2022-04-01 15:13:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 15:13:21 --> Cart Class Initialized
+INFO - 2022-04-01 15:23:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 15:23:56 --> Cart Class Initialized
+INFO - 2022-04-01 15:23:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 15:23:57 --> Cart Class Initialized
+INFO - 2022-04-01 15:25:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 15:25:35 --> Cart Class Initialized
+INFO - 2022-04-01 15:25:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 15:25:36 --> Cart Class Initialized
+INFO - 2022-04-01 15:25:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 15:25:39 --> Cart Class Initialized
+INFO - 2022-04-01 15:25:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 15:25:40 --> Cart Class Initialized
+INFO - 2022-04-01 15:26:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 15:26:16 --> Cart Class Initialized
+INFO - 2022-04-01 15:26:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 15:26:17 --> Cart Class Initialized
+INFO - 2022-04-01 15:30:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 15:30:33 --> Cart Class Initialized
+INFO - 2022-04-01 15:30:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 15:30:34 --> Cart Class Initialized
+INFO - 2022-04-01 15:31:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 15:31:06 --> Cart Class Initialized
+ERROR - 2022-04-01 15:31:07 --> Email: sendWithSmtp throwed fsockopen(): unable to connect to ssl://smtp.gmail.com:587 (Network is unreachable)
+INFO - 2022-04-01 15:33:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 15:33:46 --> Cart Class Initialized
+INFO - 2022-04-01 15:33:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 15:33:47 --> Cart Class Initialized
+INFO - 2022-04-01 15:34:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 15:34:02 --> Cart Class Initialized
+INFO - 2022-04-01 15:34:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 15:34:03 --> Cart Class Initialized
+INFO - 2022-04-01 15:34:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 15:34:19 --> Cart Class Initialized
+ERROR - 2022-04-01 15:34:20 --> Email: sendWithSmtp throwed fsockopen(): unable to connect to ssl://smtp.gmail.com:25 (Network is unreachable)
+INFO - 2022-04-01 15:35:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 15:35:10 --> Cart Class Initialized
+INFO - 2022-04-01 15:35:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 15:35:10 --> Cart Class Initialized
+INFO - 2022-04-01 15:35:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 15:35:41 --> Cart Class Initialized
+ERROR - 2022-04-01 15:35:42 --> Email: sendWithSmtp throwed fsockopen(): unable to connect to ssl://smtp.gmail.com:2525 (Network is unreachable)
+INFO - 2022-04-01 15:36:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 15:36:12 --> Cart Class Initialized
+INFO - 2022-04-01 15:36:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 15:36:13 --> Cart Class Initialized
+INFO - 2022-04-01 15:36:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 15:36:33 --> Cart Class Initialized
+INFO - 2022-04-01 15:36:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 15:36:34 --> Cart Class Initialized
+INFO - 2022-04-01 15:36:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 15:36:51 --> Cart Class Initialized
+ERROR - 2022-04-01 15:36:52 --> Email: sendWithSmtp throwed fsockopen(): unable to connect to smtp.gmail.com:25 (Network is unreachable)
+INFO - 2022-04-01 15:38:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 15:38:08 --> Cart Class Initialized
+INFO - 2022-04-01 15:38:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 15:38:09 --> Cart Class Initialized
+INFO - 2022-04-01 15:38:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 15:38:31 --> Cart Class Initialized
+INFO - 2022-04-01 15:38:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 15:38:32 --> Cart Class Initialized
+INFO - 2022-04-01 15:38:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 15:38:42 --> Cart Class Initialized
+ERROR - 2022-04-01 15:38:44 --> Email: sendWithSmtp throwed fsockopen(): unable to connect to smtp.gmail.com:25 (Network is unreachable)
+INFO - 2022-04-01 15:38:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 15:38:51 --> Cart Class Initialized
+INFO - 2022-04-01 15:38:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 15:38:52 --> Cart Class Initialized
+INFO - 2022-04-01 15:54:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 15:54:56 --> Cart Class Initialized
+INFO - 2022-04-01 15:56:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 15:56:01 --> Cart Class Initialized
+INFO - 2022-04-01 15:56:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 15:56:09 --> Cart Class Initialized
+INFO - 2022-04-01 15:56:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 15:56:10 --> Cart Class Initialized
+INFO - 2022-04-01 15:56:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 15:56:39 --> Cart Class Initialized
+ERROR - 2022-04-01 15:56:40 --> Email: sendWithSmtp throwed fsockopen(): unable to connect to tls://smtp.gmail.com:465 (Network is unreachable)
+INFO - 2022-04-01 15:56:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 15:56:50 --> Cart Class Initialized
+INFO - 2022-04-01 15:56:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 15:56:52 --> Cart Class Initialized
+INFO - 2022-04-01 15:57:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 15:57:05 --> Cart Class Initialized
+INFO - 2022-04-01 15:57:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 15:57:06 --> Cart Class Initialized
+INFO - 2022-04-01 15:57:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 15:57:31 --> Cart Class Initialized
+ERROR - 2022-04-01 15:57:32 --> Email: sendWithSmtp throwed fsockopen(): unable to connect to tls://smtp.gmail.com:465 (Network is unreachable)
+INFO - 2022-04-01 15:57:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 15:57:32 --> Cart Class Initialized
+INFO - 2022-04-01 16:19:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 16:19:56 --> Cart Class Initialized
+INFO - 2022-04-01 16:19:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 16:19:57 --> Cart Class Initialized
+INFO - 2022-04-01 16:20:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 16:20:16 --> Cart Class Initialized
+INFO - 2022-04-01 16:20:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 16:20:17 --> Cart Class Initialized
+INFO - 2022-04-01 16:24:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 16:24:02 --> Cart Class Initialized
+INFO - 2022-04-01 16:24:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 16:24:21 --> Cart Class Initialized
+INFO - 2022-04-01 16:24:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 16:24:37 --> Cart Class Initialized
+INFO - 2022-04-01 16:24:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 16:24:39 --> Cart Class Initialized
+INFO - 2022-04-01 16:24:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 16:24:41 --> Cart Class Initialized
+INFO - 2022-04-01 16:24:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 16:24:45 --> Cart Class Initialized
+INFO - 2022-04-01 16:29:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 16:29:25 --> Cart Class Initialized
+ERROR - 2022-04-01 16:29:25 --> Email: sendWithSmtp throwed fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known
+INFO - 2022-04-01 16:29:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 16:29:25 --> Cart Class Initialized
+INFO - 2022-04-01 16:29:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 16:29:27 --> Cart Class Initialized
+INFO - 2022-04-01 16:29:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 16:29:50 --> Cart Class Initialized
+ERROR - 2022-04-01 16:29:50 --> Email: sendWithSmtp throwed fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known
+INFO - 2022-04-01 16:29:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 16:29:50 --> Cart Class Initialized
+INFO - 2022-04-01 16:31:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 16:31:10 --> Cart Class Initialized
+INFO - 2022-04-01 16:31:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 16:31:11 --> Cart Class Initialized
+INFO - 2022-04-01 16:31:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 16:31:26 --> Cart Class Initialized
+INFO - 2022-04-01 16:31:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 16:31:27 --> Cart Class Initialized
+INFO - 2022-04-01 16:31:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 16:31:57 --> Cart Class Initialized
+ERROR - 2022-04-01 16:31:58 --> Email: sendWithSmtp throwed fsockopen(): unable to connect to tls://smtp.gmail.com:587 (Network is unreachable)
+INFO - 2022-04-01 16:31:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 16:31:58 --> Cart Class Initialized
+INFO - 2022-04-01 16:33:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 16:33:52 --> Cart Class Initialized
+ERROR - 2022-04-01 16:33:53 --> Email: sendWithSmtp throwed fsockopen(): unable to connect to tls://smtp.gmail.com:587 (Network is unreachable)
+INFO - 2022-04-01 16:33:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 16:33:54 --> Cart Class Initialized
+INFO - 2022-04-01 16:34:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 16:34:04 --> Cart Class Initialized
+INFO - 2022-04-01 16:34:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 16:34:05 --> Cart Class Initialized
+INFO - 2022-04-01 16:36:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 16:36:58 --> Cart Class Initialized
+INFO - 2022-04-01 16:36:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 16:36:58 --> Cart Class Initialized
+INFO - 2022-04-01 16:37:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 16:37:52 --> Cart Class Initialized
+INFO - 2022-04-01 16:37:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 16:37:53 --> Cart Class Initialized
+INFO - 2022-04-01 16:38:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 16:38:12 --> Cart Class Initialized
+INFO - 2022-04-01 16:38:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 16:38:12 --> Cart Class Initialized
+INFO - 2022-04-01 16:39:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 16:39:07 --> Cart Class Initialized
+ERROR - 2022-04-01 16:39:08 --> Email: sendWithSmtp throwed fsockopen(): unable to connect to tls://smtp.gmail.com:587 (Network is unreachable)
+INFO - 2022-04-01 16:39:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 16:39:08 --> Cart Class Initialized
+INFO - 2022-04-01 16:39:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 16:39:40 --> Cart Class Initialized
+INFO - 2022-04-01 16:39:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 16:39:42 --> Cart Class Initialized
+INFO - 2022-04-01 16:39:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 16:39:42 --> Cart Class Initialized
+INFO - 2022-04-01 16:40:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 16:40:15 --> Cart Class Initialized
+ERROR - 2022-04-01 16:40:16 --> Email: sendWithSmtp throwed fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known
+INFO - 2022-04-01 16:40:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 16:40:16 --> Cart Class Initialized
+INFO - 2022-04-01 16:40:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 16:40:26 --> Cart Class Initialized
+INFO - 2022-04-01 16:40:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 16:40:26 --> Cart Class Initialized
+INFO - 2022-04-01 16:56:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 16:56:21 --> Cart Class Initialized
+INFO - 2022-04-01 16:56:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 16:56:21 --> Cart Class Initialized
+INFO - 2022-04-01 16:57:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 16:57:27 --> Cart Class Initialized
+ERROR - 2022-04-01 16:57:28 --> Email: sendWithSmtp throwed fsockopen(): unable to connect to tls://smtp.gmail.com:465 (Network is unreachable)
+INFO - 2022-04-01 16:57:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 16:57:29 --> Cart Class Initialized
+INFO - 2022-04-01 18:04:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 18:04:02 --> Cart Class Initialized
+INFO - 2022-04-01 18:22:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 18:22:33 --> Cart Class Initialized
+INFO - 2022-04-01 18:22:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 18:22:34 --> Cart Class Initialized
+INFO - 2022-04-01 18:22:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 18:22:53 --> Cart Class Initialized
+INFO - 2022-04-01 18:22:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 18:22:57 --> Cart Class Initialized
+INFO - 2022-04-01 18:22:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 18:22:58 --> Cart Class Initialized
+INFO - 2022-04-01 18:23:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 18:23:15 --> Cart Class Initialized
+INFO - 2022-04-01 18:23:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 18:23:15 --> Cart Class Initialized
+INFO - 2022-04-01 18:39:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 18:39:07 --> Cart Class Initialized
+INFO - 2022-04-01 18:44:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 18:44:07 --> Cart Class Initialized
+INFO - 2022-04-01 19:19:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 19:19:34 --> Cart Class Initialized
+INFO - 2022-04-01 22:07:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 22:07:56 --> Cart Class Initialized
+INFO - 2022-04-01 22:07:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 22:07:59 --> Cart Class Initialized
+INFO - 2022-04-01 22:08:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 22:08:03 --> Cart Class Initialized
+INFO - 2022-04-01 22:08:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 22:08:10 --> Cart Class Initialized
+INFO - 2022-04-01 22:08:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 22:08:11 --> Cart Class Initialized
+INFO - 2022-04-01 22:08:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 22:08:16 --> Cart Class Initialized
+INFO - 2022-04-01 22:08:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 22:08:17 --> Cart Class Initialized
+INFO - 2022-04-01 22:08:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 22:08:30 --> Cart Class Initialized
+INFO - 2022-04-01 23:37:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 23:37:33 --> Cart Class Initialized
+INFO - 2022-04-01 23:46:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-04-01 23:46:25 --> Cart Class Initialized

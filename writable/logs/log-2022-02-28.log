@@ -1,0 +1,610 @@
+CRITICAL - 2022-02-28 09:44:24 --> Undefined variable $admin_info
+#0 C:\xampp\htdocs\ci4\app\Views\admin\admin-dashboard.php(1064): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 1064)
+#1 C:\xampp\htdocs\ci4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci4\system\Common.php(1089): CodeIgniter\View\View->render('admin/admin-das...', Array, true)
+#4 C:\xampp\htdocs\ci4\app\Controllers\Admin.php(24): view('admin/admin-das...')
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Admin->dashboard()
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#7 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-28 09:44:24 --> Undefined variable $admin_info
+#0 C:\xampp\htdocs\ci4\app\Views\admin\admin-dashboard.php(1064): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 1064)
+#1 C:\xampp\htdocs\ci4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci4\system\Common.php(1089): CodeIgniter\View\View->render('admin/admin-das...', Array, true)
+#4 C:\xampp\htdocs\ci4\app\Controllers\Admin.php(24): view('admin/admin-das...')
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Admin->dashboard()
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#7 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-28 09:45:05 --> syntax error, unexpected token "endforeach", expecting end of file
+#0 C:\xampp\htdocs\ci4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\ci4\system\Common.php(1089): CodeIgniter\View\View->render('admin/admin-das...', Array, true)
+#2 C:\xampp\htdocs\ci4\app\Controllers\Admin.php(24): view('admin/admin-das...')
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Admin->dashboard()
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-28 09:45:07 --> syntax error, unexpected token "endforeach", expecting end of file
+#0 C:\xampp\htdocs\ci4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\ci4\system\Common.php(1089): CodeIgniter\View\View->render('admin/admin-das...', Array, true)
+#2 C:\xampp\htdocs\ci4\app\Controllers\Admin.php(24): view('admin/admin-das...')
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Admin->dashboard()
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-28 09:45:07 --> syntax error, unexpected token "endforeach", expecting end of file
+#0 C:\xampp\htdocs\ci4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\ci4\system\Common.php(1089): CodeIgniter\View\View->render('admin/admin-das...', Array, true)
+#2 C:\xampp\htdocs\ci4\app\Controllers\Admin.php(24): view('admin/admin-das...')
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Admin->dashboard()
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-28 09:45:07 --> syntax error, unexpected token "endforeach", expecting end of file
+#0 C:\xampp\htdocs\ci4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\ci4\system\Common.php(1089): CodeIgniter\View\View->render('admin/admin-das...', Array, true)
+#2 C:\xampp\htdocs\ci4\app\Controllers\Admin.php(24): view('admin/admin-das...')
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Admin->dashboard()
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2022-02-28 09:45:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 09:45:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 09:46:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-28 09:46:16 --> syntax error, unexpected token "endforeach", expecting end of file
+#0 C:\xampp\htdocs\ci4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\ci4\system\Common.php(1089): CodeIgniter\View\View->render('admin/admin-das...', Array, true)
+#2 C:\xampp\htdocs\ci4\app\Controllers\Admin.php(24): view('admin/admin-das...')
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Admin->dashboard()
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2022-02-28 09:51:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 09:51:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 09:53:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 09:54:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 09:54:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 09:56:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 09:56:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 09:57:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 09:57:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 09:57:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 09:57:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 09:57:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 09:59:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 09:59:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 09:59:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 10:06:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 10:06:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 10:06:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 10:06:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 10:07:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 10:07:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 10:07:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 10:07:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 10:44:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 10:44:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 10:44:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 10:44:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 10:47:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 10:49:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 10:50:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 10:50:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 10:52:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 10:52:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 10:52:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 10:52:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 10:52:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 10:52:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 10:55:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-28 10:55:03 --> Undefined variable $seller_info
+#0 C:\xampp\htdocs\ci4\app\Views\panel\seller\includes\sidebar.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 24)
+#1 C:\xampp\htdocs\ci4\app\Views\panel\seller\index.php(4): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ci4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 C:\xampp\htdocs\ci4\system\Common.php(1089): CodeIgniter\View\View->render('panel/seller/in...', Array, true)
+#5 C:\xampp\htdocs\ci4\app\Controllers\Seller_Dashboard.php(18): view('panel/seller/in...', Array)
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Seller_Dashboard->index()
+#7 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Seller_Dashboard))
+#8 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-02-28 10:55:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 10:55:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 10:55:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 10:55:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 10:55:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-28 10:55:25 --> Undefined variable $seller_info
+#0 C:\xampp\htdocs\ci4\app\Views\panel\seller\includes\sidebar.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 24)
+#1 C:\xampp\htdocs\ci4\app\Views\panel\seller\index.php(4): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ci4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 C:\xampp\htdocs\ci4\system\Common.php(1089): CodeIgniter\View\View->render('panel/seller/in...', Array, true)
+#5 C:\xampp\htdocs\ci4\app\Controllers\Seller_Dashboard.php(18): view('panel/seller/in...', Array)
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Seller_Dashboard->index()
+#7 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Seller_Dashboard))
+#8 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-02-28 11:01:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 11:01:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 11:01:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 11:01:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 11:01:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 11:01:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 11:08:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 11:08:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 11:08:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 11:08:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 11:08:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 11:08:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 11:09:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 11:09:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 11:09:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 11:10:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 11:10:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 11:10:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 11:10:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 11:10:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 11:14:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 11:19:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-28 11:19:26 --> syntax error, unexpected token "endforeach", expecting end of file
+#0 C:\xampp\htdocs\ci4\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\ci4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\ci4\system\Common.php(1089): CodeIgniter\View\View->render('panel/seller/in...', Array, true)
+#3 C:\xampp\htdocs\ci4\app\Controllers\Seller_Dashboard.php(18): view('panel/seller/in...', Array)
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Seller_Dashboard->index()
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Seller_Dashboard))
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-02-28 11:19:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-28 11:19:27 --> syntax error, unexpected token "endforeach", expecting end of file
+#0 C:\xampp\htdocs\ci4\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\ci4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\ci4\system\Common.php(1089): CodeIgniter\View\View->render('panel/seller/in...', Array, true)
+#3 C:\xampp\htdocs\ci4\app\Controllers\Seller_Dashboard.php(18): view('panel/seller/in...', Array)
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Seller_Dashboard->index()
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Seller_Dashboard))
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-02-28 11:19:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-28 11:19:29 --> syntax error, unexpected token "endforeach", expecting end of file
+#0 C:\xampp\htdocs\ci4\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\ci4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\ci4\system\Common.php(1089): CodeIgniter\View\View->render('panel/seller/in...', Array, true)
+#3 C:\xampp\htdocs\ci4\app\Controllers\Seller_Dashboard.php(18): view('panel/seller/in...', Array)
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Seller_Dashboard->index()
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Seller_Dashboard))
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-02-28 11:19:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-28 11:19:53 --> syntax error, unexpected token "endforeach", expecting end of file
+#0 C:\xampp\htdocs\ci4\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\ci4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\ci4\system\Common.php(1089): CodeIgniter\View\View->render('panel/seller/in...', Array, true)
+#3 C:\xampp\htdocs\ci4\app\Controllers\Seller_Dashboard.php(18): view('panel/seller/in...', Array)
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Seller_Dashboard->index()
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Seller_Dashboard))
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-02-28 11:21:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 11:27:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 11:28:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 11:28:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 11:28:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 11:35:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 11:35:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 11:35:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-28 11:36:02 --> Invalid file: login_form.php
+#0 C:\xampp\htdocs\ci4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login_form.php')
+#1 C:\xampp\htdocs\ci4\system\Common.php(1089): CodeIgniter\View\View->render('login_form', Array, true)
+#2 C:\xampp\htdocs\ci4\app\Controllers\Seller_Login.php(12): view('login_form', Array)
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Seller_Login->index()
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Seller_Login))
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2022-02-28 11:37:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 11:37:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-28 11:37:54 --> Invalid file: seller/login_form.php
+#0 C:\xampp\htdocs\ci4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('seller/login_fo...')
+#1 C:\xampp\htdocs\ci4\system\Common.php(1089): CodeIgniter\View\View->render('seller/login_fo...', Array, true)
+#2 C:\xampp\htdocs\ci4\app\Controllers\Seller_Login.php(12): view('seller/login_fo...', Array)
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Seller_Login->index()
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Seller_Login))
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2022-02-28 11:37:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 11:39:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 11:42:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 11:42:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 11:45:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 11:45:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 11:45:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 11:45:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 11:45:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 11:50:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 11:51:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 11:51:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 11:53:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-28 11:55:39 --> Invalid file: login_form.php
+#0 C:\xampp\htdocs\ci4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login_form.php')
+#1 C:\xampp\htdocs\ci4\system\Common.php(1089): CodeIgniter\View\View->render('login_form', Array, true)
+#2 C:\xampp\htdocs\ci4\app\Controllers\Seller_Login.php(56): view('login_form', Array)
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Seller_Login->verifyUser()
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Seller_Login))
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2022-02-28 11:55:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 11:56:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 11:56:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-28 11:56:50 --> Invalid file: login_form.php
+#0 C:\xampp\htdocs\ci4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login_form.php')
+#1 C:\xampp\htdocs\ci4\system\Common.php(1089): CodeIgniter\View\View->render('login_form', Array, true)
+#2 C:\xampp\htdocs\ci4\app\Controllers\Seller_Login.php(56): view('login_form', Array)
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Seller_Login->verifyUser()
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Seller_Login))
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2022-02-28 11:57:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 11:58:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 11:58:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-28 11:58:04 --> Invalid file: panel/seller/index.php
+#0 C:\xampp\htdocs\ci4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('panel/seller/in...')
+#1 C:\xampp\htdocs\ci4\system\Common.php(1089): CodeIgniter\View\View->render('panel/seller/in...', Array, true)
+#2 C:\xampp\htdocs\ci4\app\Controllers\Seller_Dashboard.php(18): view('panel/seller/in...', Array)
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Seller_Dashboard->index()
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Seller_Dashboard))
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-28 12:00:03 --> Invalid file: panel/seller/index.php
+#0 C:\xampp\htdocs\ci4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('panel/seller/in...')
+#1 C:\xampp\htdocs\ci4\system\Common.php(1089): CodeIgniter\View\View->render('panel/seller/in...', Array, true)
+#2 C:\xampp\htdocs\ci4\app\Controllers\Seller_Dashboard.php(12): view('panel/seller/in...', Array)
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Seller_Dashboard->index()
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Seller_Dashboard))
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-28 12:00:05 --> Invalid file: panel/seller/index.php
+#0 C:\xampp\htdocs\ci4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('panel/seller/in...')
+#1 C:\xampp\htdocs\ci4\system\Common.php(1089): CodeIgniter\View\View->render('panel/seller/in...', Array, true)
+#2 C:\xampp\htdocs\ci4\app\Controllers\Seller_Dashboard.php(12): view('panel/seller/in...', Array)
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Seller_Dashboard->index()
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Seller_Dashboard))
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-28 12:00:05 --> Invalid file: panel/seller/index.php
+#0 C:\xampp\htdocs\ci4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('panel/seller/in...')
+#1 C:\xampp\htdocs\ci4\system\Common.php(1089): CodeIgniter\View\View->render('panel/seller/in...', Array, true)
+#2 C:\xampp\htdocs\ci4\app\Controllers\Seller_Dashboard.php(12): view('panel/seller/in...', Array)
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Seller_Dashboard->index()
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Seller_Dashboard))
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2022-02-28 12:00:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-28 12:00:13 --> Invalid file: panel/seller/index.php
+#0 C:\xampp\htdocs\ci4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('panel/seller/in...')
+#1 C:\xampp\htdocs\ci4\system\Common.php(1089): CodeIgniter\View\View->render('panel/seller/in...', Array, true)
+#2 C:\xampp\htdocs\ci4\app\Controllers\Seller_Dashboard.php(12): view('panel/seller/in...', Array)
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Seller_Dashboard->index()
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Seller_Dashboard))
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2022-02-28 12:02:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 12:08:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 12:14:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 12:14:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 12:14:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-28 12:14:59 --> Invalid file: panel/seller/purchase_history.php
+#0 C:\xampp\htdocs\ci4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('panel/seller/pu...')
+#1 C:\xampp\htdocs\ci4\system\Common.php(1089): CodeIgniter\View\View->render('panel/seller/pu...', Array, true)
+#2 C:\xampp\htdocs\ci4\app\Controllers\Seller_Dashboard.php(20): view('panel/seller/pu...')
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Seller_Dashboard->purchaseHistory()
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Seller_Dashboard))
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2022-02-28 12:16:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-28 12:16:59 --> Undefined variable $cat
+#0 C:\xampp\htdocs\ci4\app\Views\panel\seller\purchase_history.php(40): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 40)
+#1 C:\xampp\htdocs\ci4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci4\system\Common.php(1089): CodeIgniter\View\View->render('panel/seller/pu...', Array, true)
+#4 C:\xampp\htdocs\ci4\app\Controllers\Seller_Dashboard.php(20): view('panel/seller/pu...')
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Seller_Dashboard->purchaseHistory()
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Seller_Dashboard))
+#7 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2022-02-28 12:17:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 12:17:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 12:17:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 12:19:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-02-28 12:25:02 --> Table 'e-commerce.brands' doesn't exist
+CRITICAL - 2022-02-28 12:25:02 --> Table 'e-commerce.brands' doesn't exist
+#0 C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\ci4\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\ci4\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\ci4\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\ci4\app\Controllers\Seller_Products.php(17): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Seller_Products->addProductView()
+#8 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Seller_Products))
+#9 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+ERROR - 2022-02-28 12:25:03 --> Table 'e-commerce.brands' doesn't exist
+CRITICAL - 2022-02-28 12:25:03 --> Table 'e-commerce.brands' doesn't exist
+#0 C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\ci4\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\ci4\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\ci4\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\ci4\app\Controllers\Seller_Products.php(17): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Seller_Products->addProductView()
+#8 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Seller_Products))
+#9 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+ERROR - 2022-02-28 12:25:04 --> Table 'e-commerce.brands' doesn't exist
+CRITICAL - 2022-02-28 12:25:04 --> Table 'e-commerce.brands' doesn't exist
+#0 C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\ci4\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\ci4\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\ci4\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\ci4\app\Controllers\Seller_Products.php(17): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Seller_Products->addProductView()
+#8 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Seller_Products))
+#9 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+ERROR - 2022-02-28 12:25:04 --> Table 'e-commerce.brands' doesn't exist
+CRITICAL - 2022-02-28 12:25:04 --> Table 'e-commerce.brands' doesn't exist
+#0 C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\ci4\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\ci4\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\ci4\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\ci4\app\Controllers\Seller_Products.php(17): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Seller_Products->addProductView()
+#8 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Seller_Products))
+#9 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+INFO - 2022-02-28 12:25:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 12:33:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 12:33:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 12:35:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 12:35:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 12:35:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-28 12:35:22 --> include(includes/head.php): Failed to open stream: No such file or directory
+#0 C:\xampp\htdocs\ci4\app\Views\panel\customer\login_form.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(include...', 'C:\\xampp\\htdocs...', 3)
+#1 C:\xampp\htdocs\ci4\app\Views\panel\customer\login_form.php(3): include()
+#2 C:\xampp\htdocs\ci4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ci4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 C:\xampp\htdocs\ci4\system\Common.php(1089): CodeIgniter\View\View->render('panel/customer/...', Array, true)
+#5 C:\xampp\htdocs\ci4\app\Controllers\Customer_Login.php(13): view('panel/customer/...', Array)
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Customer_Login->index()
+#7 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Customer_Login))
+#8 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-02-28 12:37:17 --> include(includes/head.php): Failed to open stream: No such file or directory
+#0 C:\xampp\htdocs\ci4\app\Views\panel\customer\login_form.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(include...', 'C:\\xampp\\htdocs...', 3)
+#1 C:\xampp\htdocs\ci4\app\Views\panel\customer\login_form.php(3): include()
+#2 C:\xampp\htdocs\ci4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ci4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 C:\xampp\htdocs\ci4\system\Common.php(1089): CodeIgniter\View\View->render('panel/customer/...', Array, true)
+#5 C:\xampp\htdocs\ci4\app\Controllers\Customer_Login.php(12): view('panel/customer/...', Array)
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Customer_Login->index()
+#7 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Customer_Login))
+#8 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-02-28 12:38:32 --> include(includes/head.php): Failed to open stream: No such file or directory
+#0 C:\xampp\htdocs\ci4\app\Views\panel\customer\login_form.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(include...', 'C:\\xampp\\htdocs...', 2)
+#1 C:\xampp\htdocs\ci4\app\Views\panel\customer\login_form.php(2): include()
+#2 C:\xampp\htdocs\ci4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ci4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 C:\xampp\htdocs\ci4\system\Common.php(1089): CodeIgniter\View\View->render('panel/customer/...', Array, true)
+#5 C:\xampp\htdocs\ci4\app\Controllers\Customer_Login.php(12): view('panel/customer/...', Array)
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Customer_Login->index()
+#7 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Customer_Login))
+#8 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-02-28 12:39:33 --> include(../includes/head.php): Failed to open stream: No such file or directory
+#0 C:\xampp\htdocs\ci4\app\Views\panel\customer\login_form.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(../incl...', 'C:\\xampp\\htdocs...', 2)
+#1 C:\xampp\htdocs\ci4\app\Views\panel\customer\login_form.php(2): include()
+#2 C:\xampp\htdocs\ci4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ci4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 C:\xampp\htdocs\ci4\system\Common.php(1089): CodeIgniter\View\View->render('panel/customer/...', Array, true)
+#5 C:\xampp\htdocs\ci4\app\Controllers\Customer_Login.php(12): view('panel/customer/...', Array)
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Customer_Login->index()
+#7 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Customer_Login))
+#8 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-02-28 12:39:34 --> include(../includes/head.php): Failed to open stream: No such file or directory
+#0 C:\xampp\htdocs\ci4\app\Views\panel\customer\login_form.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(../incl...', 'C:\\xampp\\htdocs...', 2)
+#1 C:\xampp\htdocs\ci4\app\Views\panel\customer\login_form.php(2): include()
+#2 C:\xampp\htdocs\ci4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ci4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 C:\xampp\htdocs\ci4\system\Common.php(1089): CodeIgniter\View\View->render('panel/customer/...', Array, true)
+#5 C:\xampp\htdocs\ci4\app\Controllers\Customer_Login.php(12): view('panel/customer/...', Array)
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Customer_Login->index()
+#7 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Customer_Login))
+#8 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-02-28 12:39:40 --> include(../../includes/head.php): Failed to open stream: No such file or directory
+#0 C:\xampp\htdocs\ci4\app\Views\panel\customer\login_form.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(../../i...', 'C:\\xampp\\htdocs...', 2)
+#1 C:\xampp\htdocs\ci4\app\Views\panel\customer\login_form.php(2): include()
+#2 C:\xampp\htdocs\ci4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ci4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 C:\xampp\htdocs\ci4\system\Common.php(1089): CodeIgniter\View\View->render('panel/customer/...', Array, true)
+#5 C:\xampp\htdocs\ci4\app\Controllers\Customer_Login.php(12): view('panel/customer/...', Array)
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Customer_Login->index()
+#7 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Customer_Login))
+#8 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-02-28 12:40:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 12:40:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 12:40:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 12:40:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 12:41:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 12:41:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 12:41:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 12:42:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 12:42:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 12:42:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 12:43:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 12:43:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 12:44:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 12:44:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 12:45:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 12:45:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 12:45:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 12:45:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 12:45:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 12:45:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 12:46:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 12:46:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 12:46:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 12:46:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 12:46:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 12:47:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 12:47:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 12:48:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 12:48:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 12:48:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 12:51:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 12:51:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 12:51:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 12:51:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 12:54:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 12:54:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 12:54:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 12:54:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 12:54:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 12:54:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 12:54:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 12:54:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-02-28 12:54:57 --> Table 'e-commerce.brands' doesn't exist
+CRITICAL - 2022-02-28 12:54:57 --> Table 'e-commerce.brands' doesn't exist
+#0 C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\ci4\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\ci4\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\ci4\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\ci4\app\Controllers\Seller_Products.php(17): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Seller_Products->addProductView()
+#8 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Seller_Products))
+#9 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+INFO - 2022-02-28 12:54:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 12:55:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-02-28 12:55:05 --> Table 'e-commerce.brands' doesn't exist
+CRITICAL - 2022-02-28 12:55:05 --> Table 'e-commerce.brands' doesn't exist
+#0 C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\ci4\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\ci4\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\ci4\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\ci4\app\Controllers\Seller_Products.php(17): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Seller_Products->addProductView()
+#8 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Seller_Products))
+#9 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+ERROR - 2022-02-28 12:56:00 --> Table 'e-commerce.brands' doesn't exist
+CRITICAL - 2022-02-28 12:56:00 --> Table 'e-commerce.brands' doesn't exist
+#0 C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\ci4\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\ci4\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\ci4\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\ci4\app\Controllers\Seller_Products.php(18): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Seller_Products->addProductView()
+#8 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Seller_Products))
+#9 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+ERROR - 2022-02-28 12:56:01 --> Table 'e-commerce.brands' doesn't exist
+CRITICAL - 2022-02-28 12:56:01 --> Table 'e-commerce.brands' doesn't exist
+#0 C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\ci4\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\ci4\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\ci4\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\ci4\app\Controllers\Seller_Products.php(18): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Seller_Products->addProductView()
+#8 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Seller_Products))
+#9 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+ERROR - 2022-02-28 12:57:15 --> Table 'e-commerce.brands' doesn't exist
+CRITICAL - 2022-02-28 12:57:15 --> Table 'e-commerce.brands' doesn't exist
+#0 C:\xampp\htdocs\ci4\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\ci4\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\ci4\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\ci4\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\ci4\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\ci4\app\Controllers\Seller_Products.php(17): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Seller_Products->addProductView()
+#8 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Seller_Products))
+#9 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+INFO - 2022-02-28 13:01:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 13:02:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 13:02:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 13:02:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 13:07:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 13:08:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 13:15:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 13:18:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 13:19:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 13:19:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 13:24:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 13:25:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 14:05:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 14:07:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 14:07:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 14:15:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 14:17:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 19:15:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-28 19:22:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

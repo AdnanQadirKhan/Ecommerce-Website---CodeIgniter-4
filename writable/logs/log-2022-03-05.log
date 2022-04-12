@@ -1,0 +1,521 @@
+INFO - 2022-03-05 09:50:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 09:56:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 09:57:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 09:58:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 09:58:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 10:00:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 10:01:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 10:02:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 10:02:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 10:03:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 10:03:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 10:04:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 10:08:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 10:08:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 10:08:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 10:09:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 10:09:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 10:09:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 10:10:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 10:11:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 10:11:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 10:11:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 10:11:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 10:12:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 10:12:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 10:12:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 10:12:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 10:13:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 10:13:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 10:20:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 10:20:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-03-05 10:21:28 --> Call to undefined function App\Controllers\confirm()
+#0 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Admin_Seller->deleteSeller('14')
+#1 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin_Seller))
+#2 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-05 10:25:17 --> Object of class App\Controllers\Admin_Seller could not be converted to number
+#0 D:\xammp\htdocs\ci4\app\Controllers\Admin_Seller.php(27): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Object of class...', 'D:\\xammp\\htdocs...', 27, Array)
+#1 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Admin_Seller->deleteSeller('14')
+#2 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin_Seller))
+#3 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-05 10:25:31 --> Object of class App\Controllers\Admin_Seller could not be converted to number
+#0 D:\xammp\htdocs\ci4\app\Controllers\Admin_Seller.php(27): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Object of class...', 'D:\\xammp\\htdocs...', 27, Array)
+#1 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Admin_Seller->deleteSeller('14')
+#2 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin_Seller))
+#3 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-05 10:26:15 --> Object of class App\Controllers\Admin_Seller could not be converted to number
+#0 D:\xammp\htdocs\ci4\app\Controllers\Admin_Seller.php(27): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Object of class...', 'D:\\xammp\\htdocs...', 27, Array)
+#1 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Admin_Seller->deleteSeller('14')
+#2 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin_Seller))
+#3 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-03-05 10:26:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-03-05 10:26:21 --> Object of class App\Controllers\Admin_Seller could not be converted to number
+#0 D:\xammp\htdocs\ci4\app\Controllers\Admin_Seller.php(27): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Object of class...', 'D:\\xammp\\htdocs...', 27, Array)
+#1 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Admin_Seller->deleteSeller('15')
+#2 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin_Seller))
+#3 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-05 10:26:51 --> Object of class App\Models\Seller_Model could not be converted to string
+#0 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Admin_Seller->deleteSeller('15')
+#1 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin_Seller))
+#2 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2022-03-05 10:29:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 10:29:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-03-05 10:29:09 --> Undefined variable: sellers
+#0 D:\xammp\htdocs\ci4\app\Views\admin\sellers.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xammp\\htdocs...', 48, Array)
+#1 D:\xammp\htdocs\ci4\system\View\View.php(210): include('D:\\xammp\\htdocs...')
+#2 D:\xammp\htdocs\ci4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xammp\htdocs\ci4\system\Common.php(1089): CodeIgniter\View\View->render('admin/sellers', Array, true)
+#4 D:\xammp\htdocs\ci4\app\Controllers\Admin.php(42): view('admin/sellers', Array)
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Admin->sellers()
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#7 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2022-03-05 10:29:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-03-05 10:29:50 --> Undefined variable: sellers
+#0 D:\xammp\htdocs\ci4\app\Views\admin\sellers.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xammp\\htdocs...', 48, Array)
+#1 D:\xammp\htdocs\ci4\system\View\View.php(210): include('D:\\xammp\\htdocs...')
+#2 D:\xammp\htdocs\ci4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xammp\htdocs\ci4\system\Common.php(1089): CodeIgniter\View\View->render('admin/sellers', Array, true)
+#4 D:\xammp\htdocs\ci4\app\Controllers\Admin.php(42): view('admin/sellers', Array)
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Admin->sellers()
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#7 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2022-03-05 10:29:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 10:30:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-03-05 10:31:57 --> syntax error, unexpected '<', expecting end of file
+#0 D:\xammp\htdocs\ci4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 D:\xammp\htdocs\ci4\system\Common.php(1089): CodeIgniter\View\View->render('admin/sellers', Array, true)
+#2 D:\xammp\htdocs\ci4\app\Controllers\Admin_Seller.php(23): view('admin/sellers', Array)
+#3 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Admin_Seller->deleteSeller('16')
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin_Seller))
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-05 10:32:01 --> syntax error, unexpected '<', expecting end of file
+#0 D:\xammp\htdocs\ci4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 D:\xammp\htdocs\ci4\system\Common.php(1089): CodeIgniter\View\View->render('admin/sellers', Array, true)
+#2 D:\xammp\htdocs\ci4\app\Controllers\Admin_Seller.php(16): view('admin/sellers', Array)
+#3 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Admin_Seller->index()
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin_Seller))
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-05 10:32:03 --> syntax error, unexpected '<', expecting end of file
+#0 D:\xammp\htdocs\ci4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 D:\xammp\htdocs\ci4\system\Common.php(1089): CodeIgniter\View\View->render('admin/sellers', Array, true)
+#2 D:\xammp\htdocs\ci4\app\Controllers\Admin_Seller.php(16): view('admin/sellers', Array)
+#3 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Admin_Seller->index()
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin_Seller))
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2022-03-05 10:32:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 10:33:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 10:33:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 10:33:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 10:33:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 10:33:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-03-05 10:33:52 --> Argument 2 passed to CodeIgniter\HTTP\RedirectResponse::to() must be of the type int or null, array given, called in D:\xammp\htdocs\ci4\app\Controllers\Admin_Seller.php on line 27
+#0 D:\xammp\htdocs\ci4\app\Controllers\Admin_Seller.php(27): CodeIgniter\HTTP\RedirectResponse->to('admin/sellers', Array)
+#1 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Admin_Seller->deleteSeller('18')
+#2 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin_Seller))
+#3 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-03-05 10:34:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-03-05 10:34:04 --> Argument 2 passed to CodeIgniter\HTTP\RedirectResponse::to() must be of the type int or null, array given, called in D:\xammp\htdocs\ci4\app\Controllers\Admin_Seller.php on line 27
+#0 D:\xammp\htdocs\ci4\app\Controllers\Admin_Seller.php(27): CodeIgniter\HTTP\RedirectResponse->to('admin/sellers', Array)
+#1 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Admin_Seller->deleteSeller('18')
+#2 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin_Seller))
+#3 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-03-05 10:34:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-03-05 10:34:08 --> Argument 2 passed to CodeIgniter\HTTP\RedirectResponse::to() must be of the type int or null, array given, called in D:\xammp\htdocs\ci4\app\Controllers\Admin_Seller.php on line 27
+#0 D:\xammp\htdocs\ci4\app\Controllers\Admin_Seller.php(27): CodeIgniter\HTTP\RedirectResponse->to('admin/sellers', Array)
+#1 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Admin_Seller->deleteSeller('17')
+#2 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin_Seller))
+#3 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-03-05 10:34:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 10:34:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 10:35:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 10:35:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 10:35:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 10:35:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-03-05 10:35:15 --> Argument 2 passed to CodeIgniter\HTTP\RedirectResponse::to() must be of the type int or null, array given, called in D:\xammp\htdocs\ci4\app\Controllers\Admin_Seller.php on line 27
+#0 D:\xammp\htdocs\ci4\app\Controllers\Admin_Seller.php(27): CodeIgniter\HTTP\RedirectResponse->to('admin/sellers', Array)
+#1 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Admin_Seller->deleteSeller('19')
+#2 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin_Seller))
+#3 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-03-05 10:35:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 10:35:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 10:35:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-03-05 10:35:46 -->  route cannot be found while reverse-routing.
+#0 D:\xammp\htdocs\ci4\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 D:\xammp\htdocs\ci4\system\Common.php(832): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 D:\xammp\htdocs\ci4\app\Controllers\Admin_Seller.php(27): redirect('admin/sellers', Array)
+#3 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Admin_Seller->deleteSeller('22')
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin_Seller))
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2022-03-05 10:36:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-03-05 10:36:06 --> Undefined variable: sellers
+#0 D:\xammp\htdocs\ci4\app\Views\admin\sellers.php(51): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xammp\\htdocs...', 51, Array)
+#1 D:\xammp\htdocs\ci4\system\View\View.php(210): include('D:\\xammp\\htdocs...')
+#2 D:\xammp\htdocs\ci4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xammp\htdocs\ci4\system\Common.php(1089): CodeIgniter\View\View->render('admin/sellers', Array, true)
+#4 D:\xammp\htdocs\ci4\app\Controllers\Admin_Seller.php(27): view('admin/sellers', Array)
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Admin_Seller->deleteSeller('22')
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin_Seller))
+#7 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2022-03-05 10:36:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-03-05 10:36:10 --> Undefined variable: sellers
+#0 D:\xammp\htdocs\ci4\app\Views\admin\sellers.php(51): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xammp\\htdocs...', 51, Array)
+#1 D:\xammp\htdocs\ci4\system\View\View.php(210): include('D:\\xammp\\htdocs...')
+#2 D:\xammp\htdocs\ci4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xammp\htdocs\ci4\system\Common.php(1089): CodeIgniter\View\View->render('admin/sellers', Array, true)
+#4 D:\xammp\htdocs\ci4\app\Controllers\Admin_Seller.php(27): view('admin/sellers', Array)
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Admin_Seller->deleteSeller('22')
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin_Seller))
+#7 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2022-03-05 10:36:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-03-05 10:36:28 --> Undefined variable: sellers
+#0 D:\xammp\htdocs\ci4\app\Views\admin\sellers.php(51): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xammp\\htdocs...', 51, Array)
+#1 D:\xammp\htdocs\ci4\system\View\View.php(210): include('D:\\xammp\\htdocs...')
+#2 D:\xammp\htdocs\ci4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xammp\htdocs\ci4\system\Common.php(1089): CodeIgniter\View\View->render('admin/sellers', Array, true)
+#4 D:\xammp\htdocs\ci4\app\Controllers\Admin_Seller.php(28): view('admin/sellers', Array)
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Admin_Seller->deleteSeller('22')
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin_Seller))
+#7 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2022-03-05 10:36:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 10:36:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-03-05 10:36:47 --> Undefined variable: sellers
+#0 D:\xammp\htdocs\ci4\app\Views\admin\sellers.php(51): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xammp\\htdocs...', 51, Array)
+#1 D:\xammp\htdocs\ci4\system\View\View.php(210): include('D:\\xammp\\htdocs...')
+#2 D:\xammp\htdocs\ci4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xammp\htdocs\ci4\system\Common.php(1089): CodeIgniter\View\View->render('admin/sellers', Array, true)
+#4 D:\xammp\htdocs\ci4\app\Controllers\Admin_Seller.php(28): view('admin/sellers', Array)
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Admin_Seller->deleteSeller('20')
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin_Seller))
+#7 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2022-03-05 10:37:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-03-05 10:37:59 --> Undefined variable: sellers
+#0 D:\xammp\htdocs\ci4\app\Views\admin\sellers.php(51): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xammp\\htdocs...', 51, Array)
+#1 D:\xammp\htdocs\ci4\system\View\View.php(210): include('D:\\xammp\\htdocs...')
+#2 D:\xammp\htdocs\ci4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xammp\htdocs\ci4\system\Common.php(1089): CodeIgniter\View\View->render('admin/sellers', Array, true)
+#4 D:\xammp\htdocs\ci4\app\Controllers\Admin_Seller.php(27): view('admin/sellers', Array)
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Admin_Seller->deleteSeller('20')
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin_Seller))
+#7 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2022-03-05 10:41:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 10:41:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 10:41:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 10:41:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 10:42:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 10:44:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 10:44:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 10:48:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 10:48:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 10:49:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 10:52:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 11:04:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 11:10:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 11:14:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 11:15:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 11:16:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 11:16:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 11:16:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 11:16:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 11:16:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 11:18:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 11:18:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 11:18:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 11:18:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 11:19:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 11:19:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 11:20:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 11:20:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 11:21:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 11:21:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 11:21:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 11:21:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 11:21:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 11:21:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 11:21:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 11:21:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 11:21:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 11:22:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 11:22:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 11:22:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-03-05 11:24:19 --> syntax error, unexpected '/'
+#0 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xammp\\htdocs...')
+#1 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-05 11:24:45 --> syntax error, unexpected '/'
+#0 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xammp\\htdocs...')
+#1 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-05 11:25:39 --> syntax error, unexpected '/'
+#0 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xammp\\htdocs...')
+#1 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-03-05 11:28:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-03-05 11:28:36 --> Class 'App\Controllers\Categories_Model' not found
+#0 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Admin_Categories->addCategoriesView()
+#1 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin_Categories))
+#2 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-05 11:29:06 --> Class 'App\Controllers\Categories_Model' not found
+#0 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Admin_Categories->addCategoriesView()
+#1 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin_Categories))
+#2 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-05 11:29:35 --> Class 'App\Controllers\Categories_Model' not found
+#0 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Admin_Categories->addCategoriesView()
+#1 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin_Categories))
+#2 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-05 11:29:49 --> Object of class App\Models\Categories_Model could not be converted to string
+#0 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Admin_Categories->addCategoriesView()
+#1 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin_Categories))
+#2 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-05 11:30:08 --> Object of class App\Models\Categories_Model could not be converted to string
+#0 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Admin_Categories->addCategoriesView()
+#1 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin_Categories))
+#2 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2022-03-05 11:30:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-03-05 11:32:09 --> syntax error, unexpected '=>' (T_DOUBLE_ARROW)
+#0 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xammp\\htdocs...')
+#1 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-05 11:33:33 --> syntax error, unexpected '=>' (T_DOUBLE_ARROW)
+#0 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xammp\\htdocs...')
+#1 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-05 11:33:37 --> syntax error, unexpected '=>' (T_DOUBLE_ARROW)
+#0 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xammp\\htdocs...')
+#1 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-05 11:33:38 --> syntax error, unexpected '=>' (T_DOUBLE_ARROW)
+#0 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xammp\\htdocs...')
+#1 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-03-05 11:33:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-03-05 11:34:06 --> syntax error, unexpected 'else' (T_ELSE)
+#0 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xammp\\htdocs...')
+#1 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-05 11:34:20 --> syntax error, unexpected 'else' (T_ELSE)
+#0 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xammp\\htdocs...')
+#1 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-05 11:35:01 --> syntax error, unexpected '=>' (T_DOUBLE_ARROW)
+#0 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xammp\\htdocs...')
+#1 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-05 11:35:01 --> syntax error, unexpected '=>' (T_DOUBLE_ARROW)
+#0 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xammp\\htdocs...')
+#1 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-05 11:35:02 --> syntax error, unexpected '=>' (T_DOUBLE_ARROW)
+#0 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xammp\\htdocs...')
+#1 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-05 11:35:35 --> syntax error, unexpected '=>' (T_DOUBLE_ARROW)
+#0 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xammp\\htdocs...')
+#1 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-05 11:35:50 --> syntax error, unexpected '=>' (T_DOUBLE_ARROW)
+#0 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xammp\\htdocs...')
+#1 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-05 11:35:57 --> syntax error, unexpected '=>' (T_DOUBLE_ARROW)
+#0 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xammp\\htdocs...')
+#1 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-05 11:36:04 --> syntax error, unexpected '=>' (T_DOUBLE_ARROW)
+#0 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xammp\\htdocs...')
+#1 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-03-05 11:36:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 11:36:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 11:36:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 11:36:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 11:36:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-05 11:37:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-03-05 11:37:10 --> syntax error, unexpected '=>' (T_DOUBLE_ARROW)
+#0 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xammp\\htdocs...')
+#1 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-03-05 11:37:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-03-05 11:38:47 --> syntax error, unexpected '=>' (T_DOUBLE_ARROW)
+#0 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xammp\\htdocs...')
+#1 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-05 11:39:01 --> syntax error, unexpected 'else' (T_ELSE)
+#0 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xammp\\htdocs...')
+#1 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-05 11:39:14 --> syntax error, unexpected 'else' (T_ELSE)
+#0 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xammp\\htdocs...')
+#1 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}

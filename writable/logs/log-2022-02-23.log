@@ -1,0 +1,622 @@
+INFO - 2022-02-23 10:15:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-23 10:15:09 --> Undefined variable $admininfo
+#0 C:\xampp\htdocs\ci4\app\Views\panel\seller\includes\sidebar.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 23)
+#1 C:\xampp\htdocs\ci4\app\Views\panel\seller\profile.php(4): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ci4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 C:\xampp\htdocs\ci4\system\Common.php(1089): CodeIgniter\View\View->render('panel/seller/pr...', Array, true)
+#5 C:\xampp\htdocs\ci4\app\Controllers\Profile.php(7): view('panel/seller/pr...')
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Profile->index()
+#7 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profile))
+#8 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-02-23 10:15:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-23 10:15:38 --> Undefined variable $admininfo
+#0 C:\xampp\htdocs\ci4\app\Views\panel\seller\includes\sidebar.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 23)
+#1 C:\xampp\htdocs\ci4\app\Views\panel\seller\profile.php(4): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ci4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 C:\xampp\htdocs\ci4\system\Common.php(1089): CodeIgniter\View\View->render('panel/seller/pr...', Array, true)
+#5 C:\xampp\htdocs\ci4\app\Controllers\Profile.php(7): view('panel/seller/pr...')
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Profile->index()
+#7 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profile))
+#8 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-02-23 10:20:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-23 10:20:32 --> Undefined variable $admininfo
+#0 C:\xampp\htdocs\ci4\app\Views\panel\seller\includes\sidebar.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 23)
+#1 C:\xampp\htdocs\ci4\app\Views\panel\seller\profile.php(4): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ci4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 C:\xampp\htdocs\ci4\system\Common.php(1089): CodeIgniter\View\View->render('panel/seller/pr...', Array, true)
+#5 C:\xampp\htdocs\ci4\app\Controllers\Profile.php(7): view('panel/seller/pr...')
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Profile->index()
+#7 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profile))
+#8 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-02-23 10:20:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-23 10:20:32 --> Undefined variable $admininfo
+#0 C:\xampp\htdocs\ci4\app\Views\panel\seller\includes\sidebar.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 23)
+#1 C:\xampp\htdocs\ci4\app\Views\panel\seller\profile.php(4): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ci4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 C:\xampp\htdocs\ci4\system\Common.php(1089): CodeIgniter\View\View->render('panel/seller/pr...', Array, true)
+#5 C:\xampp\htdocs\ci4\app\Controllers\Profile.php(7): view('panel/seller/pr...')
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Profile->index()
+#7 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profile))
+#8 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-02-23 10:25:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-23 10:25:34 --> Undefined variable $admininfo
+#0 C:\xampp\htdocs\ci4\app\Views\panel\seller\includes\sidebar.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 23)
+#1 C:\xampp\htdocs\ci4\app\Views\panel\seller\profile.php(4): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ci4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 C:\xampp\htdocs\ci4\system\Common.php(1089): CodeIgniter\View\View->render('panel/seller/pr...', Array, true)
+#5 C:\xampp\htdocs\ci4\app\Controllers\Profile.php(7): view('panel/seller/pr...')
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Profile->index()
+#7 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profile))
+#8 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-02-23 10:25:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 10:26:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 10:26:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 10:26:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 10:26:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 10:27:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 10:27:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 10:27:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 10:27:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 10:27:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 10:27:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 10:27:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 10:27:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 10:28:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 10:33:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 10:33:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 10:41:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-23 10:41:06 --> Undefined variable $admininfo
+#0 C:\xampp\htdocs\ci4\app\Views\panel\seller\includes\sidebar.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 23)
+#1 C:\xampp\htdocs\ci4\app\Views\panel\seller\index.php(4): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ci4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 C:\xampp\htdocs\ci4\system\Common.php(1089): CodeIgniter\View\View->render('panel/seller/in...', Array, true)
+#5 C:\xampp\htdocs\ci4\app\Controllers\Seller_Dashboard.php(16): view('panel/seller/in...', Array)
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Seller_Dashboard->index()
+#7 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Seller_Dashboard))
+#8 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-02-23 10:41:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-23 10:41:07 --> Undefined variable $admininfo
+#0 C:\xampp\htdocs\ci4\app\Views\panel\seller\includes\sidebar.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 23)
+#1 C:\xampp\htdocs\ci4\app\Views\panel\seller\index.php(4): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ci4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 C:\xampp\htdocs\ci4\system\Common.php(1089): CodeIgniter\View\View->render('panel/seller/in...', Array, true)
+#5 C:\xampp\htdocs\ci4\app\Controllers\Seller_Dashboard.php(16): view('panel/seller/in...', Array)
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Seller_Dashboard->index()
+#7 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Seller_Dashboard))
+#8 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-02-23 10:49:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 10:50:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 10:51:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-23 10:51:14 --> Undefined variable $admininfo
+#0 C:\xampp\htdocs\ci4\app\Views\panel\seller\includes\sidebar.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 23)
+#1 C:\xampp\htdocs\ci4\app\Views\panel\seller\index.php(4): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ci4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 C:\xampp\htdocs\ci4\system\Common.php(1089): CodeIgniter\View\View->render('panel/seller/in...', Array, true)
+#5 C:\xampp\htdocs\ci4\app\Controllers\Seller_Dashboard.php(16): view('panel/seller/in...', Array)
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Seller_Dashboard->index()
+#7 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Seller_Dashboard))
+#8 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-02-23 10:51:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-23 10:51:25 --> Undefined variable $admininfo
+#0 C:\xampp\htdocs\ci4\app\Views\panel\seller\includes\sidebar.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 23)
+#1 C:\xampp\htdocs\ci4\app\Views\panel\seller\index.php(4): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ci4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 C:\xampp\htdocs\ci4\system\Common.php(1089): CodeIgniter\View\View->render('panel/seller/in...', Array, true)
+#5 C:\xampp\htdocs\ci4\app\Controllers\Seller_Dashboard.php(16): view('panel/seller/in...', Array)
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Seller_Dashboard->index()
+#7 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Seller_Dashboard))
+#8 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-02-23 10:52:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 10:53:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 10:53:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-23 10:53:08 --> Undefined variable $admininfo
+#0 C:\xampp\htdocs\ci4\app\Views\panel\seller\includes\sidebar.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 23)
+#1 C:\xampp\htdocs\ci4\app\Views\panel\seller\index.php(4): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ci4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 C:\xampp\htdocs\ci4\system\Common.php(1089): CodeIgniter\View\View->render('panel/seller/in...', Array, true)
+#5 C:\xampp\htdocs\ci4\app\Controllers\Seller_Dashboard.php(16): view('panel/seller/in...', Array)
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Seller_Dashboard->index()
+#7 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Seller_Dashboard))
+#8 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-02-23 10:53:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 10:53:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 10:53:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 10:53:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 10:54:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 10:54:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 10:58:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 10:58:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 11:00:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 11:01:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-23 11:01:16 --> Undefined variable $admininfo
+#0 C:\xampp\htdocs\ci4\app\Views\panel\seller\includes\sidebar.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 23)
+#1 C:\xampp\htdocs\ci4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci4\system\Common.php(1089): CodeIgniter\View\View->render('panel/seller/in...', Array, true)
+#4 C:\xampp\htdocs\ci4\app\Controllers\Seller_Dashboard.php(17): view('panel/seller/in...', Array)
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Seller_Dashboard->index()
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Seller_Dashboard))
+#7 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2022-02-23 11:02:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-23 11:02:42 --> Invalid file: panel/seller/includes/index.php
+#0 C:\xampp\htdocs\ci4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('panel/seller/in...')
+#1 C:\xampp\htdocs\ci4\system\Common.php(1089): CodeIgniter\View\View->render('panel/seller/in...', Array, true)
+#2 C:\xampp\htdocs\ci4\app\Controllers\Seller_Dashboard.php(17): view('panel/seller/in...', Array)
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Seller_Dashboard->index()
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Seller_Dashboard))
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2022-02-23 11:02:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-23 11:02:43 --> Invalid file: panel/seller/includes/index.php
+#0 C:\xampp\htdocs\ci4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('panel/seller/in...')
+#1 C:\xampp\htdocs\ci4\system\Common.php(1089): CodeIgniter\View\View->render('panel/seller/in...', Array, true)
+#2 C:\xampp\htdocs\ci4\app\Controllers\Seller_Dashboard.php(17): view('panel/seller/in...', Array)
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Seller_Dashboard->index()
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Seller_Dashboard))
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2022-02-23 11:02:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-23 11:02:44 --> Invalid file: panel/seller/includes/index.php
+#0 C:\xampp\htdocs\ci4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('panel/seller/in...')
+#1 C:\xampp\htdocs\ci4\system\Common.php(1089): CodeIgniter\View\View->render('panel/seller/in...', Array, true)
+#2 C:\xampp\htdocs\ci4\app\Controllers\Seller_Dashboard.php(17): view('panel/seller/in...', Array)
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Seller_Dashboard->index()
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Seller_Dashboard))
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2022-02-23 11:03:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 11:04:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-23 11:04:04 --> Invalid file: panel/seller/includes/index.php
+#0 C:\xampp\htdocs\ci4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('panel/seller/in...')
+#1 C:\xampp\htdocs\ci4\system\Common.php(1089): CodeIgniter\View\View->render('panel/seller/in...', Array, true)
+#2 C:\xampp\htdocs\ci4\app\Controllers\Seller_Dashboard.php(17): view('panel/seller/in...', Array)
+#3 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Seller_Dashboard->index()
+#4 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Seller_Dashboard))
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2022-02-23 11:04:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 11:10:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 11:10:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 11:10:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-23 11:10:40 --> Undefined variable $admininfo
+#0 C:\xampp\htdocs\ci4\app\Views\panel\seller\includes\sidebar.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 23)
+#1 C:\xampp\htdocs\ci4\app\Views\panel\seller\index.php(4): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ci4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 C:\xampp\htdocs\ci4\system\Common.php(1089): CodeIgniter\View\View->render('panel/seller/in...', Array, true)
+#5 C:\xampp\htdocs\ci4\app\Controllers\Seller_Dashboard.php(17): view('panel/seller/in...', Array)
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Seller_Dashboard->index()
+#7 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Seller_Dashboard))
+#8 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-02-23 11:10:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 11:11:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 11:12:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 11:12:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 11:12:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 11:12:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 11:12:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 11:12:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 11:12:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 11:13:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 11:13:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 11:13:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 11:13:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 11:25:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-23 11:25:01 --> Cannot use [] for reading
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+INFO - 2022-02-23 11:25:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-23 11:25:11 --> Undefined variable $admininfo
+#0 C:\xampp\htdocs\ci4\app\Views\panel\seller\includes\sidebar.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 23)
+#1 C:\xampp\htdocs\ci4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci4\system\Common.php(1089): CodeIgniter\View\View->render('panel/seller/in...', Array, true)
+#4 C:\xampp\htdocs\ci4\app\Controllers\Seller_Dashboard.php(17): view('panel/seller/in...', Array)
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Seller_Dashboard->index()
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Seller_Dashboard))
+#7 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2022-02-23 11:25:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-23 11:25:24 --> Undefined variable $admininfo
+#0 C:\xampp\htdocs\ci4\app\Views\panel\seller\includes\sidebar.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 23)
+#1 C:\xampp\htdocs\ci4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci4\system\Common.php(1089): CodeIgniter\View\View->render('/panel/seller/i...', Array, true)
+#4 C:\xampp\htdocs\ci4\app\Controllers\Seller_Dashboard.php(17): view('/panel/seller/i...', Array)
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Seller_Dashboard->index()
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Seller_Dashboard))
+#7 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2022-02-23 11:25:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-23 11:25:25 --> Undefined variable $admininfo
+#0 C:\xampp\htdocs\ci4\app\Views\panel\seller\includes\sidebar.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 23)
+#1 C:\xampp\htdocs\ci4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci4\system\Common.php(1089): CodeIgniter\View\View->render('/panel/seller/i...', Array, true)
+#4 C:\xampp\htdocs\ci4\app\Controllers\Seller_Dashboard.php(17): view('/panel/seller/i...', Array)
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Seller_Dashboard->index()
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Seller_Dashboard))
+#7 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2022-02-23 11:26:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-23 11:26:48 --> Undefined variable $admininfo
+#0 C:\xampp\htdocs\ci4\app\Views\panel\seller\includes\sidebar.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 23)
+#1 C:\xampp\htdocs\ci4\app\Views\panel\seller\profile.php(4): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ci4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 C:\xampp\htdocs\ci4\system\Common.php(1089): CodeIgniter\View\View->render('panel/seller/pr...', Array, true)
+#5 C:\xampp\htdocs\ci4\app\Controllers\Seller_Dashboard.php(17): view('panel/seller/pr...', Array)
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Seller_Dashboard->index()
+#7 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Seller_Dashboard))
+#8 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-02-23 11:27:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-23 11:27:04 --> Undefined variable $admininfo
+#0 C:\xampp\htdocs\ci4\app\Views\panel\seller\includes\sidebar.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 23)
+#1 C:\xampp\htdocs\ci4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci4\system\Common.php(1089): CodeIgniter\View\View->render('panel/seller/in...', Array, true)
+#4 C:\xampp\htdocs\ci4\app\Controllers\Seller_Dashboard.php(17): view('panel/seller/in...', Array)
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Seller_Dashboard->index()
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Seller_Dashboard))
+#7 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2022-02-23 11:28:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-23 11:28:13 --> Undefined variable $admininfo
+#0 C:\xampp\htdocs\ci4\app\Views\panel\seller\includes\sidebar.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 23)
+#1 C:\xampp\htdocs\ci4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci4\system\Common.php(1089): CodeIgniter\View\View->render('panel/seller/in...', Array, true)
+#4 C:\xampp\htdocs\ci4\app\Controllers\Seller_Dashboard.php(17): view('panel/seller/in...', Array)
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Seller_Dashboard->index()
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Seller_Dashboard))
+#7 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2022-02-23 11:28:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-23 11:28:26 --> Undefined variable $admininfo
+#0 C:\xampp\htdocs\ci4\app\Views\panel\seller\includes\sidebar.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 23)
+#1 C:\xampp\htdocs\ci4\app\Views\panel\seller\index.php(4): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ci4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 C:\xampp\htdocs\ci4\system\Common.php(1089): CodeIgniter\View\View->render('panel/seller/in...', Array, true)
+#5 C:\xampp\htdocs\ci4\app\Controllers\Seller_Dashboard.php(17): view('panel/seller/in...', Array)
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Seller_Dashboard->index()
+#7 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Seller_Dashboard))
+#8 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-02-23 11:29:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-23 11:29:11 --> Undefined variable $admininfo
+#0 C:\xampp\htdocs\ci4\app\Views\panel\seller\index.php(189): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 189)
+#1 C:\xampp\htdocs\ci4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci4\system\Common.php(1089): CodeIgniter\View\View->render('panel/seller/in...', Array, true)
+#4 C:\xampp\htdocs\ci4\app\Controllers\Seller_Dashboard.php(17): view('panel/seller/in...', Array)
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Seller_Dashboard->index()
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Seller_Dashboard))
+#7 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2022-02-23 11:30:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-23 11:30:09 --> Undefined variable $admininfo
+#0 C:\xampp\htdocs\ci4\app\Views\panel\seller\includes\sidebar.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 23)
+#1 C:\xampp\htdocs\ci4\app\Views\panel\seller\index.php(4): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ci4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 C:\xampp\htdocs\ci4\system\Common.php(1089): CodeIgniter\View\View->render('panel/seller/in...', Array, true)
+#5 C:\xampp\htdocs\ci4\app\Controllers\Seller_Dashboard.php(17): view('panel/seller/in...', Array)
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Seller_Dashboard->index()
+#7 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Seller_Dashboard))
+#8 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-02-23 11:30:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 11:30:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 11:30:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 11:30:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-23 11:30:29 --> Undefined variable $admininfo
+#0 C:\xampp\htdocs\ci4\app\Views\panel\seller\includes\sidebar.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 23)
+#1 C:\xampp\htdocs\ci4\app\Views\panel\seller\index.php(4): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ci4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 C:\xampp\htdocs\ci4\system\Common.php(1089): CodeIgniter\View\View->render('panel/seller/in...', Array, true)
+#5 C:\xampp\htdocs\ci4\app\Controllers\Seller_Dashboard.php(17): view('panel/seller/in...', Array)
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Seller_Dashboard->index()
+#7 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Seller_Dashboard))
+#8 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-02-23 11:31:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-23 11:31:28 --> Undefined variable $admininfo
+#0 C:\xampp\htdocs\ci4\app\Views\panel\seller\index.php(6): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 6)
+#1 C:\xampp\htdocs\ci4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci4\system\Common.php(1089): CodeIgniter\View\View->render('panel/seller/in...', Array, true)
+#4 C:\xampp\htdocs\ci4\app\Controllers\Seller_Dashboard.php(17): view('panel/seller/in...', Array)
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Seller_Dashboard->index()
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Seller_Dashboard))
+#7 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2022-02-23 11:34:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-23 11:34:11 --> Undefined variable $admininfo
+#0 C:\xampp\htdocs\ci4\app\Views\panel\seller\index.php(6): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 6)
+#1 C:\xampp\htdocs\ci4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci4\system\Common.php(1089): CodeIgniter\View\View->render('panel/seller/in...', Array, true)
+#4 C:\xampp\htdocs\ci4\app\Controllers\Seller_Dashboard.php(17): view('panel/seller/in...', Array)
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Seller_Dashboard->index()
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Seller_Dashboard))
+#7 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2022-02-23 11:37:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-23 11:37:19 --> Undefined variable $admininfo
+#0 C:\xampp\htdocs\ci4\app\Views\panel\seller\includes\sidebar.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 23)
+#1 C:\xampp\htdocs\ci4\app\Views\panel\seller\index.php(4): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ci4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 C:\xampp\htdocs\ci4\system\Common.php(1089): CodeIgniter\View\View->render('panel/seller/in...', Array, true)
+#5 C:\xampp\htdocs\ci4\app\Controllers\Seller_Dashboard.php(17): view('panel/seller/in...', Array)
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Seller_Dashboard->index()
+#7 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Seller_Dashboard))
+#8 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-02-23 11:37:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-23 11:37:30 --> Undefined variable $admininfo
+#0 C:\xampp\htdocs\ci4\app\Views\panel\seller\index.php(6): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 6)
+#1 C:\xampp\htdocs\ci4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci4\system\Common.php(1089): CodeIgniter\View\View->render('panel/seller/in...', Array, true)
+#4 C:\xampp\htdocs\ci4\app\Controllers\Seller_Dashboard.php(17): view('panel/seller/in...', Array)
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Seller_Dashboard->index()
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Seller_Dashboard))
+#7 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2022-02-23 11:38:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-23 11:38:19 --> Undefined variable $data
+#0 C:\xampp\htdocs\ci4\app\Views\panel\seller\index.php(6): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 6)
+#1 C:\xampp\htdocs\ci4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci4\system\Common.php(1089): CodeIgniter\View\View->render('panel/seller/in...', Array, true)
+#4 C:\xampp\htdocs\ci4\app\Controllers\Seller_Dashboard.php(17): view('panel/seller/in...', Array)
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Seller_Dashboard->index()
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Seller_Dashboard))
+#7 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2022-02-23 11:38:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-23 11:38:46 --> Undefined array key "admin_name"
+#0 C:\xampp\htdocs\ci4\app\Views\panel\seller\index.php(6): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 6)
+#1 C:\xampp\htdocs\ci4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci4\system\Common.php(1089): CodeIgniter\View\View->render('panel/seller/in...', Array, true)
+#4 C:\xampp\htdocs\ci4\app\Controllers\Seller_Dashboard.php(17): view('panel/seller/in...', Array)
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Seller_Dashboard->index()
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Seller_Dashboard))
+#7 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2022-02-23 11:39:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-23 11:39:00 --> Undefined array key "admin_email"
+#0 C:\xampp\htdocs\ci4\app\Views\panel\seller\index.php(6): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 6)
+#1 C:\xampp\htdocs\ci4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci4\system\Common.php(1089): CodeIgniter\View\View->render('panel/seller/in...', Array, true)
+#4 C:\xampp\htdocs\ci4\app\Controllers\Seller_Dashboard.php(17): view('panel/seller/in...', Array)
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Seller_Dashboard->index()
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Seller_Dashboard))
+#7 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2022-02-23 11:39:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-23 11:39:13 --> Undefined array key "name"
+#0 C:\xampp\htdocs\ci4\app\Views\panel\seller\index.php(6): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 6)
+#1 C:\xampp\htdocs\ci4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci4\system\Common.php(1089): CodeIgniter\View\View->render('panel/seller/in...', Array, true)
+#4 C:\xampp\htdocs\ci4\app\Controllers\Seller_Dashboard.php(17): view('panel/seller/in...', Array)
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Seller_Dashboard->index()
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Seller_Dashboard))
+#7 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2022-02-23 11:39:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-23 11:39:19 --> Undefined variable $admininfo
+#0 C:\xampp\htdocs\ci4\app\Views\panel\seller\index.php(6): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 6)
+#1 C:\xampp\htdocs\ci4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci4\system\Common.php(1089): CodeIgniter\View\View->render('panel/seller/in...', Array, true)
+#4 C:\xampp\htdocs\ci4\app\Controllers\Seller_Dashboard.php(17): view('panel/seller/in...', Array)
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Seller_Dashboard->index()
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Seller_Dashboard))
+#7 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2022-02-23 11:39:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-23 11:39:44 --> Undefined variable $admininfo
+#0 C:\xampp\htdocs\ci4\app\Views\panel\seller\index.php(6): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 6)
+#1 C:\xampp\htdocs\ci4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci4\system\Common.php(1089): CodeIgniter\View\View->render('panel/seller/in...', Array, true)
+#4 C:\xampp\htdocs\ci4\app\Controllers\Seller_Dashboard.php(17): view('panel/seller/in...', Array)
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Seller_Dashboard->index()
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Seller_Dashboard))
+#7 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2022-02-23 11:43:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-23 11:43:02 --> Undefined array key "name"
+#0 C:\xampp\htdocs\ci4\app\Views\panel\seller\index.php(6): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 6)
+#1 C:\xampp\htdocs\ci4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci4\system\Common.php(1089): CodeIgniter\View\View->render('panel/seller/in...', Array, true)
+#4 C:\xampp\htdocs\ci4\app\Controllers\Seller_Dashboard.php(17): view('panel/seller/in...', Array)
+#5 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Seller_Dashboard->index()
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Seller_Dashboard))
+#7 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2022-02-23 11:46:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 11:46:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 11:46:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 11:46:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 11:46:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 11:47:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 11:47:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 11:55:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 11:55:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 11:55:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 11:57:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 11:57:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 11:58:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 11:58:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 11:58:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 11:58:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 11:58:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 11:58:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 12:00:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 12:00:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 12:00:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 12:00:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 12:01:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 12:01:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 12:01:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 12:01:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 12:01:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 12:04:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 12:04:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 12:04:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 12:04:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 12:04:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 12:08:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 12:08:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 12:08:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 12:10:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 12:10:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 12:10:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 12:10:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-23 12:10:42 --> Undefined array key "admin_name"
+#0 C:\xampp\htdocs\ci4\app\Views\panel\seller\includes\sidebar.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 23)
+#1 C:\xampp\htdocs\ci4\app\Views\panel\seller\index.php(4): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ci4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 C:\xampp\htdocs\ci4\system\Common.php(1089): CodeIgniter\View\View->render('panel/seller/in...', Array, true)
+#5 C:\xampp\htdocs\ci4\app\Controllers\Seller_Dashboard.php(17): view('panel/seller/in...', Array)
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Seller_Dashboard->index()
+#7 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Seller_Dashboard))
+#8 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-02-23 12:12:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-23 12:12:28 --> Undefined array key "admin_name"
+#0 C:\xampp\htdocs\ci4\app\Views\panel\seller\includes\sidebar.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 23)
+#1 C:\xampp\htdocs\ci4\app\Views\panel\seller\index.php(4): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ci4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 C:\xampp\htdocs\ci4\system\Common.php(1089): CodeIgniter\View\View->render('panel/seller/in...', Array, true)
+#5 C:\xampp\htdocs\ci4\app\Controllers\Seller_Dashboard.php(17): view('panel/seller/in...', Array)
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Seller_Dashboard->index()
+#7 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Seller_Dashboard))
+#8 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-02-23 23:13:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 23:13:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 23:13:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 23:13:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 23:13:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 23:13:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 23:23:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 23:23:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 23:23:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 23:23:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 23:23:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 23:31:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 23:31:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 23:31:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 23:31:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 23:54:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 23:54:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 23:54:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 23:54:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 23:54:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 23:55:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 23:55:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 23:55:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 23:55:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 23:55:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 23:55:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 23:55:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 23:55:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 23:55:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 23:55:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 23:57:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 23:57:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 23:57:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 23:57:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 23:57:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 23:58:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 23:58:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 23:58:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 23:58:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 23:58:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-23 23:59:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-23 23:59:39 --> Undefined array key "admin_name"
+#0 C:\xampp\htdocs\ci4\app\Views\panel\seller\includes\sidebar.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 23)
+#1 C:\xampp\htdocs\ci4\app\Views\panel\seller\index.php(4): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ci4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 C:\xampp\htdocs\ci4\system\Common.php(1089): CodeIgniter\View\View->render('panel/seller/in...', Array, true)
+#5 C:\xampp\htdocs\ci4\app\Controllers\Seller_Dashboard.php(17): view('panel/seller/in...', Array)
+#6 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Seller_Dashboard->index()
+#7 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Seller_Dashboard))
+#8 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}

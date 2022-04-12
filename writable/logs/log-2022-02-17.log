@@ -1,0 +1,1025 @@
+INFO - 2022-02-17 00:39:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 00:43:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 00:46:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 00:46:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-17 00:49:32 --> Invalid file: templates/header.php
+#0 D:\xammp\htdocs\ci4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('templates/heade...')
+#1 D:\xammp\htdocs\ci4\system\Common.php(1089): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#2 D:\xammp\htdocs\ci4\app\Controllers\Login.php(47): view('templates/heade...', Array)
+#3 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Login->verifyUser()
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2022-02-17 00:50:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 00:51:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-17 00:53:23 --> validateUser is not a valid rule.
+#0 D:\xammp\htdocs\ci4\system\Validation\Validation.php(300): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('validateUser')
+#1 D:\xammp\htdocs\ci4\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('password', 'password', 'tZHIn4xWwQ', Array, Array)
+#2 D:\xammp\htdocs\ci4\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#3 D:\xammp\htdocs\ci4\app\Controllers\Login.php(33): CodeIgniter\Controller->validate(Array, Array)
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Login->verifyUser()
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-02-17 00:53:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 00:53:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-17 00:53:44 --> validateUser is not a valid rule.
+#0 D:\xammp\htdocs\ci4\system\Validation\Validation.php(300): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('validateUser')
+#1 D:\xammp\htdocs\ci4\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('password', 'password', 'prePjXqakv', Array, Array)
+#2 D:\xammp\htdocs\ci4\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#3 D:\xammp\htdocs\ci4\app\Controllers\Login.php(33): CodeIgniter\Controller->validate(Array, Array)
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Login->verifyUser()
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-17 00:54:53 --> validateUser is not a valid rule.
+#0 D:\xammp\htdocs\ci4\system\Validation\Validation.php(300): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('validateUser')
+#1 D:\xammp\htdocs\ci4\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('password', 'password', 'prePjXqakv', Array, Array)
+#2 D:\xammp\htdocs\ci4\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#3 D:\xammp\htdocs\ci4\app\Controllers\Login.php(33): CodeIgniter\Controller->validate(Array, Array)
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Login->verifyUser()
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-17 00:55:05 --> validateUser is not a valid rule.
+#0 D:\xammp\htdocs\ci4\system\Validation\Validation.php(300): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('validateUser')
+#1 D:\xammp\htdocs\ci4\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('password', 'password', 'prePjXqakv', Array, Array)
+#2 D:\xammp\htdocs\ci4\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#3 D:\xammp\htdocs\ci4\app\Controllers\Login.php(33): CodeIgniter\Controller->validate(Array, Array)
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Login->verifyUser()
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-17 00:55:18 --> validateUser is not a valid rule.
+#0 D:\xammp\htdocs\ci4\system\Validation\Validation.php(300): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('validateUser')
+#1 D:\xammp\htdocs\ci4\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('password', 'password', 'prePjXqakv', Array, Array)
+#2 D:\xammp\htdocs\ci4\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#3 D:\xammp\htdocs\ci4\app\Controllers\Login.php(33): CodeIgniter\Controller->validate(Array, Array)
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Login->verifyUser()
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-17 00:55:37 --> validateUser is not a valid rule.
+#0 D:\xammp\htdocs\ci4\system\Validation\Validation.php(300): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('validateUser')
+#1 D:\xammp\htdocs\ci4\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('password', 'password', 'prePjXqakv', Array, Array)
+#2 D:\xammp\htdocs\ci4\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#3 D:\xammp\htdocs\ci4\app\Controllers\Login.php(33): CodeIgniter\Controller->validate(Array, Array)
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Login->verifyUser()
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-02-17 00:55:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-17 00:55:45 --> validateUser is not a valid rule.
+#0 D:\xammp\htdocs\ci4\system\Validation\Validation.php(300): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('validateUser')
+#1 D:\xammp\htdocs\ci4\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('password', 'password', 'H9ZFl9zAoL', Array, Array)
+#2 D:\xammp\htdocs\ci4\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#3 D:\xammp\htdocs\ci4\app\Controllers\Login.php(33): CodeIgniter\Controller->validate(Array, Array)
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Login->verifyUser()
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-17 00:56:17 --> validateUser is not a valid rule.
+#0 D:\xammp\htdocs\ci4\system\Validation\Validation.php(300): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('validateUser')
+#1 D:\xammp\htdocs\ci4\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('password', 'password', 'H9ZFl9zAoL', Array, Array)
+#2 D:\xammp\htdocs\ci4\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#3 D:\xammp\htdocs\ci4\app\Controllers\Login.php(33): CodeIgniter\Controller->validate(Array, Array)
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Login->verifyUser()
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-02-17 00:56:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-17 00:56:29 --> validateUser is not a valid rule.
+#0 D:\xammp\htdocs\ci4\system\Validation\Validation.php(300): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('validateUser')
+#1 D:\xammp\htdocs\ci4\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('password', 'password', 'k1vmzTDOay', Array, Array)
+#2 D:\xammp\htdocs\ci4\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#3 D:\xammp\htdocs\ci4\app\Controllers\Login.php(33): CodeIgniter\Controller->validate(Array, Array)
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Login->verifyUser()
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-17 00:56:53 --> validateUser is not a valid rule.
+#0 D:\xammp\htdocs\ci4\system\Validation\Validation.php(300): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('validateUser')
+#1 D:\xammp\htdocs\ci4\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('password', 'password', 'k1vmzTDOay', Array, Array)
+#2 D:\xammp\htdocs\ci4\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#3 D:\xammp\htdocs\ci4\app\Controllers\Login.php(33): CodeIgniter\Controller->validate(Array)
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Login->verifyUser()
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-02-17 00:56:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-17 00:56:59 --> validateUser is not a valid rule.
+#0 D:\xammp\htdocs\ci4\system\Validation\Validation.php(300): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('validateUser')
+#1 D:\xammp\htdocs\ci4\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('password', 'password', 'bdv9AWkFPU', Array, Array)
+#2 D:\xammp\htdocs\ci4\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#3 D:\xammp\htdocs\ci4\app\Controllers\Login.php(33): CodeIgniter\Controller->validate(Array)
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Login->verifyUser()
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-17 01:01:18 --> syntax error, unexpected ')'
+#0 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xammp\\htdocs...')
+#1 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-17 01:01:20 --> syntax error, unexpected ')'
+#0 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xammp\\htdocs...')
+#1 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-17 01:01:41 --> syntax error, unexpected ')'
+#0 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xammp\\htdocs...')
+#1 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-17 01:01:42 --> syntax error, unexpected ')'
+#0 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xammp\\htdocs...')
+#1 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-17 01:01:58 --> syntax error, unexpected ')'
+#0 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xammp\\htdocs...')
+#1 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-17 01:02:00 --> syntax error, unexpected ')'
+#0 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xammp\\htdocs...')
+#1 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-17 01:02:01 --> syntax error, unexpected ')'
+#0 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xammp\\htdocs...')
+#1 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-17 01:03:27 --> syntax error, unexpected ')'
+#0 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xammp\\htdocs...')
+#1 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-17 01:03:28 --> syntax error, unexpected ')'
+#0 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xammp\\htdocs...')
+#1 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-17 01:03:38 --> syntax error, unexpected ')'
+#0 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xammp\\htdocs...')
+#1 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-17 01:03:45 --> syntax error, unexpected ')'
+#0 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xammp\\htdocs...')
+#1 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-17 01:03:56 --> syntax error, unexpected ')'
+#0 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xammp\\htdocs...')
+#1 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-17 01:05:02 --> syntax error, unexpected ')'
+#0 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xammp\\htdocs...')
+#1 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-17 01:05:12 --> syntax error, unexpected ')'
+#0 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xammp\\htdocs...')
+#1 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-17 01:05:22 --> syntax error, unexpected ')'
+#0 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xammp\\htdocs...')
+#1 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-02-17 01:05:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-17 01:08:48 --> syntax error, unexpected 'private' (T_PRIVATE)
+#0 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xammp\\htdocs...')
+#1 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-17 01:09:18 --> syntax error, unexpected 'private' (T_PRIVATE)
+#0 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xammp\\htdocs...')
+#1 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-02-17 01:09:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 01:12:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 01:14:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 01:15:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 01:15:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 01:22:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-17 01:23:01 --> Undefined variable: validaation
+#0 D:\xammp\htdocs\ci4\app\Controllers\Login.php(35): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xammp\\htdocs...', 35, Array)
+#1 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Login->verifyUser()
+#2 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-17 01:23:42 --> Undefined variable: validaation
+#0 D:\xammp\htdocs\ci4\app\Controllers\Login.php(36): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xammp\\htdocs...', 36, Array)
+#1 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Login->verifyUser()
+#2 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-02-17 01:24:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-17 01:24:11 --> validateUser is not a valid rule.
+#0 D:\xammp\htdocs\ci4\system\Validation\Validation.php(300): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('validateUser')
+#1 D:\xammp\htdocs\ci4\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('password', 'password', 'LdQaxiIwyS', Array, Array)
+#2 D:\xammp\htdocs\ci4\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#3 D:\xammp\htdocs\ci4\app\Controllers\Login.php(21): CodeIgniter\Controller->validate(Array)
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Login->verifyUser()
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-17 01:33:04 --> Undefined variable: rules
+#0 D:\xammp\htdocs\ci4\app\Controllers\Login.php(36): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xammp\\htdocs...', 36, Array)
+#1 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Login->verifyUser()
+#2 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-17 01:33:30 --> Undefined variable: rules
+#0 D:\xammp\htdocs\ci4\app\Controllers\Login.php(36): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xammp\\htdocs...', 36, Array)
+#1 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Login->verifyUser()
+#2 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-02-17 01:33:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-17 01:33:37 --> Undefined variable: rules
+#0 D:\xammp\htdocs\ci4\app\Controllers\Login.php(36): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xammp\\htdocs...', 36, Array)
+#1 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Login->verifyUser()
+#2 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-17 01:34:06 --> validateUser is not a valid rule.
+#0 D:\xammp\htdocs\ci4\system\Validation\Validation.php(300): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('validateUser')
+#1 D:\xammp\htdocs\ci4\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('password', 'password', 'G6VGURSLqT', Array, Array)
+#2 D:\xammp\htdocs\ci4\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#3 D:\xammp\htdocs\ci4\app\Controllers\Login.php(36): CodeIgniter\Controller->validate(Array)
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Login->verifyUser()
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-02-17 01:34:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-17 01:34:13 --> validateUser is not a valid rule.
+#0 D:\xammp\htdocs\ci4\system\Validation\Validation.php(300): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('validateUser')
+#1 D:\xammp\htdocs\ci4\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('password', 'password', 'wCZWtYulMb', Array, Array)
+#2 D:\xammp\htdocs\ci4\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#3 D:\xammp\htdocs\ci4\app\Controllers\Login.php(36): CodeIgniter\Controller->validate(Array)
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Login->verifyUser()
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-17 01:34:36 --> validateUser is not a valid rule.
+#0 D:\xammp\htdocs\ci4\system\Validation\Validation.php(300): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('validateUser')
+#1 D:\xammp\htdocs\ci4\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('password', 'password', 'wCZWtYulMb', Array, Array)
+#2 D:\xammp\htdocs\ci4\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#3 D:\xammp\htdocs\ci4\app\Controllers\Login.php(36): CodeIgniter\Controller->validate(Array)
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Login->verifyUser()
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-02-17 01:34:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-17 01:34:52 --> validateUser is not a valid rule.
+#0 D:\xammp\htdocs\ci4\system\Validation\Validation.php(300): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('validateUser')
+#1 D:\xammp\htdocs\ci4\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('password', 'password', '1l7KQcZzU7', Array, Array)
+#2 D:\xammp\htdocs\ci4\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#3 D:\xammp\htdocs\ci4\app\Controllers\Login.php(36): CodeIgniter\Controller->validate(Array)
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Login->verifyUser()
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-17 02:04:31 --> validateUser is not a valid rule.
+#0 D:\xammp\htdocs\ci4\system\Validation\Validation.php(300): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('validateUser')
+#1 D:\xammp\htdocs\ci4\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('password', 'password', '1l7KQcZzU7', Array, Array)
+#2 D:\xammp\htdocs\ci4\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#3 D:\xammp\htdocs\ci4\app\Controllers\Login.php(36): CodeIgniter\Controller->validate(Array)
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Login->verifyUser()
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-02-17 02:05:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-17 02:05:54 --> syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST)
+#0 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xammp\\htdocs...')
+#1 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-02-17 02:05:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 02:23:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-17 10:25:53 --> syntax error, unexpected '/'
+#0 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xammp\\htdocs...')
+#1 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-02-17 10:26:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-17 10:26:58 --> Call to undefined method App\Controllers\Login::validation()
+#0 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Login->verifyUser()
+#1 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2022-02-17 10:27:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-17 10:32:36 --> syntax error, unexpected 'public' (T_PUBLIC)
+#0 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xammp\\htdocs...')
+#1 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-02-17 10:32:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-17 10:32:49 --> Undefined variable: rules
+#0 D:\xammp\htdocs\ci4\app\Controllers\Login.php(35): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xammp\\htdocs...', 35, Array)
+#1 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Login->verifyUser()
+#2 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-17 10:33:12 --> validateUser is not a valid rule.
+#0 D:\xammp\htdocs\ci4\system\Validation\Validation.php(300): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('validateUser')
+#1 D:\xammp\htdocs\ci4\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('password', 'password', 'jh74qdwgJK', Array, Array)
+#2 D:\xammp\htdocs\ci4\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#3 D:\xammp\htdocs\ci4\app\Controllers\Login.php(35): CodeIgniter\Controller->validate(Array)
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Login->verifyUser()
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-02-17 10:33:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 10:33:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-17 10:33:20 --> validateUser is not a valid rule.
+#0 D:\xammp\htdocs\ci4\system\Validation\Validation.php(300): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('validateUser')
+#1 D:\xammp\htdocs\ci4\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('password', 'password', 'BKzrWwL1Cc', Array, Array)
+#2 D:\xammp\htdocs\ci4\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#3 D:\xammp\htdocs\ci4\app\Controllers\Login.php(35): CodeIgniter\Controller->validate(Array)
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Login->verifyUser()
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-17 10:33:55 --> validateUser is not a valid rule.
+#0 D:\xammp\htdocs\ci4\system\Validation\Validation.php(300): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('validateUser')
+#1 D:\xammp\htdocs\ci4\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('password', 'password', 'BKzrWwL1Cc', Array, Array)
+#2 D:\xammp\htdocs\ci4\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#3 D:\xammp\htdocs\ci4\app\Controllers\Login.php(35): CodeIgniter\Controller->validate(Array)
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Login->verifyUser()
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-02-17 10:33:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-17 10:34:02 --> validateUser is not a valid rule.
+#0 D:\xammp\htdocs\ci4\system\Validation\Validation.php(300): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('validateUser')
+#1 D:\xammp\htdocs\ci4\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('password', 'password', '5gWm3059mu', Array, Array)
+#2 D:\xammp\htdocs\ci4\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#3 D:\xammp\htdocs\ci4\app\Controllers\Login.php(35): CodeIgniter\Controller->validate(Array)
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Login->verifyUser()
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-02-17 10:34:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 10:34:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 10:38:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-17 10:38:58 --> syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST)
+#0 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xammp\\htdocs...')
+#1 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-17 10:39:20 --> syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST)
+#0 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xammp\\htdocs...')
+#1 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-17 10:39:22 --> syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST)
+#0 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xammp\\htdocs...')
+#1 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-02-17 10:39:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-17 10:39:26 --> syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST)
+#0 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xammp\\htdocs...')
+#1 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-02-17 10:39:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-02-17 10:40:10 --> Error connecting to the database: Access denied for user '****'@'localhost' (using password: YES)
+CRITICAL - 2022-02-17 10:40:10 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+#0 D:\xammp\htdocs\ci4\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 D:\xammp\htdocs\ci4\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT 1\nFROM `...', Array, false)
+#2 D:\xammp\htdocs\ci4\system\Validation\Rules.php(142): CodeIgniter\Database\BaseBuilder->get()
+#3 D:\xammp\htdocs\ci4\system\Validation\Validation.php(292): CodeIgniter\Validation\Rules->is_unique('m.adnan6425@gma...', 'cust_email', Array, NULL)
+#4 D:\xammp\htdocs\ci4\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('email', 'email', 'm.adnan6425@gma...', Array, Array)
+#5 D:\xammp\htdocs\ci4\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#6 D:\xammp\htdocs\ci4\app\Controllers\Registration.php(62): CodeIgniter\Controller->validate(Array)
+#7 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Registration->registerCustomer()
+#8 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#9 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+INFO - 2022-02-17 10:40:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-17 10:40:34 --> Argument 2 passed to CodeIgniter\HTTP\RedirectResponse::to() must be of the type int or null, array given, called in D:\xammp\htdocs\ci4\app\Controllers\Registration.php on line 64
+#0 D:\xammp\htdocs\ci4\app\Controllers\Registration.php(64): CodeIgniter\HTTP\RedirectResponse->to('registration', Array)
+#1 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Registration->registerCustomer()
+#2 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#3 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-02-17 10:40:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 10:41:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 10:41:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-17 10:41:35 --> Allowed fields must be specified for model: App\Models\Customer_Model
+#0 D:\xammp\htdocs\ci4\system\BaseModel.php(1138): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Cust...')
+#1 D:\xammp\htdocs\ci4\system\BaseModel.php(713): CodeIgniter\BaseModel->doProtectFields(Array)
+#2 D:\xammp\htdocs\ci4\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, false)
+#3 D:\xammp\htdocs\ci4\system\BaseModel.php(658): CodeIgniter\Model->insert(Array, false)
+#4 D:\xammp\htdocs\ci4\app\Controllers\Registration.php(74): CodeIgniter\BaseModel->save(Array)
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Registration->registerCustomer()
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#7 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2022-02-17 10:41:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-17 10:41:54 --> Allowed fields must be specified for model: App\Models\Customer_Model
+#0 D:\xammp\htdocs\ci4\system\BaseModel.php(1138): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Cust...')
+#1 D:\xammp\htdocs\ci4\system\BaseModel.php(713): CodeIgniter\BaseModel->doProtectFields(Array)
+#2 D:\xammp\htdocs\ci4\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, false)
+#3 D:\xammp\htdocs\ci4\system\BaseModel.php(658): CodeIgniter\Model->insert(Array, false)
+#4 D:\xammp\htdocs\ci4\app\Controllers\Registration.php(74): CodeIgniter\BaseModel->save(Array)
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Registration->registerCustomer()
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#7 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2022-02-17 10:42:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 10:43:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-17 10:43:22 --> Call to undefined function set_value()
+#0 D:\xammp\htdocs\ci4\system\View\View.php(210): include()
+#1 D:\xammp\htdocs\ci4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 D:\xammp\htdocs\ci4\system\Common.php(1089): CodeIgniter\View\View->render('registration', Array, true)
+#3 D:\xammp\htdocs\ci4\app\Controllers\Registration.php(12): view('registration', Array)
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Registration->index()
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-02-17 10:43:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-17 10:43:26 --> Call to undefined function set_value()
+#0 D:\xammp\htdocs\ci4\system\View\View.php(210): include()
+#1 D:\xammp\htdocs\ci4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 D:\xammp\htdocs\ci4\system\Common.php(1089): CodeIgniter\View\View->render('registration', Array, true)
+#3 D:\xammp\htdocs\ci4\app\Controllers\Registration.php(12): view('registration', Array)
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Registration->index()
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-02-17 10:43:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 10:43:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-17 10:43:48 --> Allowed fields must be specified for model: App\Models\Customer_Model
+#0 D:\xammp\htdocs\ci4\system\BaseModel.php(1138): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Cust...')
+#1 D:\xammp\htdocs\ci4\system\BaseModel.php(713): CodeIgniter\BaseModel->doProtectFields(Array)
+#2 D:\xammp\htdocs\ci4\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, false)
+#3 D:\xammp\htdocs\ci4\system\BaseModel.php(658): CodeIgniter\Model->insert(Array, false)
+#4 D:\xammp\htdocs\ci4\app\Controllers\Registration.php(74): CodeIgniter\BaseModel->save(Array)
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Registration->registerCustomer()
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#7 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2022-02-17 10:44:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-17 10:44:17 --> Allowed fields must be specified for model: App\Models\Customer_Model
+#0 D:\xammp\htdocs\ci4\system\BaseModel.php(1138): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Cust...')
+#1 D:\xammp\htdocs\ci4\system\BaseModel.php(713): CodeIgniter\BaseModel->doProtectFields(Array)
+#2 D:\xammp\htdocs\ci4\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, false)
+#3 D:\xammp\htdocs\ci4\system\BaseModel.php(658): CodeIgniter\Model->insert(Array, false)
+#4 D:\xammp\htdocs\ci4\app\Controllers\Registration.php(74): CodeIgniter\BaseModel->save(Array)
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Registration->registerCustomer()
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#7 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2022-02-17 10:45:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 10:46:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 10:46:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-02-17 10:46:37 --> Error connecting to the database: Access denied for user '****'@'localhost' (using password: YES)
+CRITICAL - 2022-02-17 10:46:37 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+#0 D:\xammp\htdocs\ci4\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 D:\xammp\htdocs\ci4\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT 1\nFROM `...', Array, false)
+#2 D:\xammp\htdocs\ci4\system\Validation\Rules.php(142): CodeIgniter\Database\BaseBuilder->get()
+#3 D:\xammp\htdocs\ci4\system\Validation\Validation.php(292): CodeIgniter\Validation\Rules->is_unique('m.adnan6425@gma...', 'cust_email', Array, NULL)
+#4 D:\xammp\htdocs\ci4\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('email', 'email', 'm.adnan6425@gma...', Array, Array)
+#5 D:\xammp\htdocs\ci4\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#6 D:\xammp\htdocs\ci4\app\Controllers\Registration.php(65): CodeIgniter\Controller->validate(Array)
+#7 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Registration->registerCustomer()
+#8 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#9 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+ERROR - 2022-02-17 10:49:58 --> Error connecting to the database: Access denied for user '****'@'localhost' (using password: YES)
+CRITICAL - 2022-02-17 10:49:58 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+#0 D:\xammp\htdocs\ci4\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 D:\xammp\htdocs\ci4\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT 1\nFROM `...', Array, false)
+#2 D:\xammp\htdocs\ci4\system\Validation\Rules.php(142): CodeIgniter\Database\BaseBuilder->get()
+#3 D:\xammp\htdocs\ci4\system\Validation\Validation.php(292): CodeIgniter\Validation\Rules->is_unique('m.adnan6425@gma...', 'cust_email', Array, NULL)
+#4 D:\xammp\htdocs\ci4\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('email', 'email', 'm.adnan6425@gma...', Array, Array)
+#5 D:\xammp\htdocs\ci4\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#6 D:\xammp\htdocs\ci4\app\Controllers\Registration.php(65): CodeIgniter\Controller->validate(Array)
+#7 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Registration->registerCustomer()
+#8 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#9 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+INFO - 2022-02-17 10:50:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-02-17 10:50:08 --> Error connecting to the database: Access denied for user '****'@'localhost' (using password: YES)
+CRITICAL - 2022-02-17 10:50:08 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+#0 D:\xammp\htdocs\ci4\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 D:\xammp\htdocs\ci4\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT 1\nFROM `...', Array, false)
+#2 D:\xammp\htdocs\ci4\system\Validation\Rules.php(142): CodeIgniter\Database\BaseBuilder->get()
+#3 D:\xammp\htdocs\ci4\system\Validation\Validation.php(292): CodeIgniter\Validation\Rules->is_unique('m.adnan6425@gma...', 'cust_email', Array, NULL)
+#4 D:\xammp\htdocs\ci4\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('email', 'email', 'm.adnan6425@gma...', Array, Array)
+#5 D:\xammp\htdocs\ci4\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#6 D:\xammp\htdocs\ci4\app\Controllers\Registration.php(65): CodeIgniter\Controller->validate(Array)
+#7 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Registration->registerCustomer()
+#8 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#9 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+ERROR - 2022-02-17 10:51:32 --> Error connecting to the database: Access denied for user '****'@'localhost' (using password: YES)
+CRITICAL - 2022-02-17 10:51:32 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+#0 D:\xammp\htdocs\ci4\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 D:\xammp\htdocs\ci4\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT 1\nFROM `...', Array, false)
+#2 D:\xammp\htdocs\ci4\system\Validation\Rules.php(142): CodeIgniter\Database\BaseBuilder->get()
+#3 D:\xammp\htdocs\ci4\system\Validation\Validation.php(292): CodeIgniter\Validation\Rules->is_unique('m.adnan6425@gma...', 'cust_email', Array, NULL)
+#4 D:\xammp\htdocs\ci4\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('email', 'email', 'm.adnan6425@gma...', Array, Array)
+#5 D:\xammp\htdocs\ci4\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#6 D:\xammp\htdocs\ci4\app\Controllers\Registration.php(65): CodeIgniter\Controller->validate(Array)
+#7 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Registration->registerCustomer()
+#8 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#9 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+INFO - 2022-02-17 10:51:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-02-17 10:51:42 --> Error connecting to the database: Access denied for user '****'@'localhost' (using password: YES)
+CRITICAL - 2022-02-17 10:51:42 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+#0 D:\xammp\htdocs\ci4\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 D:\xammp\htdocs\ci4\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT 1\nFROM `...', Array, false)
+#2 D:\xammp\htdocs\ci4\system\Validation\Rules.php(142): CodeIgniter\Database\BaseBuilder->get()
+#3 D:\xammp\htdocs\ci4\system\Validation\Validation.php(292): CodeIgniter\Validation\Rules->is_unique('m.adnan6425@gma...', 'cust_email', Array, NULL)
+#4 D:\xammp\htdocs\ci4\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('email', 'email', 'm.adnan6425@gma...', Array, Array)
+#5 D:\xammp\htdocs\ci4\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#6 D:\xammp\htdocs\ci4\app\Controllers\Registration.php(65): CodeIgniter\Controller->validate(Array)
+#7 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Registration->registerCustomer()
+#8 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#9 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+ERROR - 2022-02-17 10:52:32 --> Error connecting to the database: Access denied for user '****'@'localhost' (using password: YES)
+CRITICAL - 2022-02-17 10:52:32 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+#0 D:\xammp\htdocs\ci4\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 D:\xammp\htdocs\ci4\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT 1\nFROM `...', Array, false)
+#2 D:\xammp\htdocs\ci4\system\Validation\Rules.php(142): CodeIgniter\Database\BaseBuilder->get()
+#3 D:\xammp\htdocs\ci4\system\Validation\Validation.php(292): CodeIgniter\Validation\Rules->is_unique('m.adnan6425@gma...', 'cust_email', Array, NULL)
+#4 D:\xammp\htdocs\ci4\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('email', 'email', 'm.adnan6425@gma...', Array, Array)
+#5 D:\xammp\htdocs\ci4\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#6 D:\xammp\htdocs\ci4\app\Controllers\Registration.php(65): CodeIgniter\Controller->validate(Array)
+#7 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Registration->registerCustomer()
+#8 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#9 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+INFO - 2022-02-17 10:52:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-02-17 10:52:51 --> Error connecting to the database: Access denied for user '****'@'localhost' (using password: YES)
+CRITICAL - 2022-02-17 10:52:51 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+#0 D:\xammp\htdocs\ci4\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 D:\xammp\htdocs\ci4\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT 1\nFROM `...', Array, false)
+#2 D:\xammp\htdocs\ci4\system\Validation\Rules.php(142): CodeIgniter\Database\BaseBuilder->get()
+#3 D:\xammp\htdocs\ci4\system\Validation\Validation.php(292): CodeIgniter\Validation\Rules->is_unique('adnan@fb.com', 'cust_email', Array, NULL)
+#4 D:\xammp\htdocs\ci4\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('email', 'email', 'adnan@fb.com', Array, Array)
+#5 D:\xammp\htdocs\ci4\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#6 D:\xammp\htdocs\ci4\app\Controllers\Registration.php(65): CodeIgniter\Controller->validate(Array)
+#7 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Registration->registerCustomer()
+#8 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#9 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+ERROR - 2022-02-17 10:59:52 --> Error connecting to the database: Access denied for user '****'@'localhost' (using password: YES)
+CRITICAL - 2022-02-17 10:59:52 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+#0 D:\xammp\htdocs\ci4\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 D:\xammp\htdocs\ci4\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT 1\nFROM `...', Array, false)
+#2 D:\xammp\htdocs\ci4\system\Validation\Rules.php(142): CodeIgniter\Database\BaseBuilder->get()
+#3 D:\xammp\htdocs\ci4\system\Validation\Validation.php(292): CodeIgniter\Validation\Rules->is_unique('adnan@fb.com', 'cust_email', Array, NULL)
+#4 D:\xammp\htdocs\ci4\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('email', 'email', 'adnan@fb.com', Array, Array)
+#5 D:\xammp\htdocs\ci4\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#6 D:\xammp\htdocs\ci4\app\Controllers\Registration.php(59): CodeIgniter\Controller->validate(Array)
+#7 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Registration->registerCustomer()
+#8 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#9 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+INFO - 2022-02-17 10:59:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2022-02-17 11:00:03 --> Error connecting to the database: Access denied for user '****'@'localhost' (using password: YES)
+CRITICAL - 2022-02-17 11:00:03 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+#0 D:\xammp\htdocs\ci4\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 D:\xammp\htdocs\ci4\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT 1\nFROM `...', Array, false)
+#2 D:\xammp\htdocs\ci4\system\Validation\Rules.php(142): CodeIgniter\Database\BaseBuilder->get()
+#3 D:\xammp\htdocs\ci4\system\Validation\Validation.php(292): CodeIgniter\Validation\Rules->is_unique('m.adnan6425@gma...', 'cust_email', Array, NULL)
+#4 D:\xammp\htdocs\ci4\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('email', 'email', 'm.adnan6425@gma...', Array, Array)
+#5 D:\xammp\htdocs\ci4\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#6 D:\xammp\htdocs\ci4\app\Controllers\Registration.php(59): CodeIgniter\Controller->validate(Array)
+#7 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Registration->registerCustomer()
+#8 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#9 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+INFO - 2022-02-17 11:02:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 11:02:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-02-17 11:03:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-17 11:03:34 --> Undefined variable: userModel
+#0 D:\xammp\htdocs\ci4\app\Controllers\Registration.php(67): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xammp\\htdocs...', 67, Array)
+#1 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Registration->registerCustomer()
+#2 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#3 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-17 11:07:11 --> Undefined variable: user
+#0 D:\xammp\htdocs\ci4\app\Controllers\Registration.php(67): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xammp\\htdocs...', 67, Array)
+#1 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Registration->registerCustomer()
+#2 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#3 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-02-17 11:07:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-17 11:07:43 --> Undefined variable: user
+#0 D:\xammp\htdocs\ci4\app\Controllers\Registration.php(67): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xammp\\htdocs...', 67, Array)
+#1 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Registration->registerCustomer()
+#2 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#3 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-02-17 11:08:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-17 11:09:04 --> Allowed fields must be specified for model: App\Models\Customer_Model
+#0 D:\xammp\htdocs\ci4\system\BaseModel.php(1138): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Cust...')
+#1 D:\xammp\htdocs\ci4\system\BaseModel.php(713): CodeIgniter\BaseModel->doProtectFields(Array)
+#2 D:\xammp\htdocs\ci4\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, false)
+#3 D:\xammp\htdocs\ci4\system\BaseModel.php(658): CodeIgniter\Model->insert(Array, false)
+#4 D:\xammp\htdocs\ci4\app\Controllers\Registration.php(67): CodeIgniter\BaseModel->save(Array)
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Registration->registerCustomer()
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#7 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2022-02-17 11:09:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-17 11:09:20 --> Allowed fields must be specified for model: App\Models\Customer_Model
+#0 D:\xammp\htdocs\ci4\system\BaseModel.php(1138): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Cust...')
+#1 D:\xammp\htdocs\ci4\system\BaseModel.php(713): CodeIgniter\BaseModel->doProtectFields(Array)
+#2 D:\xammp\htdocs\ci4\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, false)
+#3 D:\xammp\htdocs\ci4\system\BaseModel.php(658): CodeIgniter\Model->insert(Array, false)
+#4 D:\xammp\htdocs\ci4\app\Controllers\Registration.php(67): CodeIgniter\BaseModel->save(Array)
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Registration->registerCustomer()
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#7 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-17 11:10:14 --> Allowed fields must be specified for model: App\Models\Customer_Model
+#0 D:\xammp\htdocs\ci4\system\BaseModel.php(1138): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Cust...')
+#1 D:\xammp\htdocs\ci4\system\BaseModel.php(713): CodeIgniter\BaseModel->doProtectFields(Array)
+#2 D:\xammp\htdocs\ci4\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, false)
+#3 D:\xammp\htdocs\ci4\system\BaseModel.php(658): CodeIgniter\Model->insert(Array, false)
+#4 D:\xammp\htdocs\ci4\app\Controllers\Registration.php(68): CodeIgniter\BaseModel->save(Array)
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Registration->registerCustomer()
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#7 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-17 11:11:16 --> Allowed fields must be specified for model: App\Models\Customer_Model
+#0 D:\xammp\htdocs\ci4\system\BaseModel.php(1138): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Cust...')
+#1 D:\xammp\htdocs\ci4\system\BaseModel.php(713): CodeIgniter\BaseModel->doProtectFields(Array)
+#2 D:\xammp\htdocs\ci4\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, false)
+#3 D:\xammp\htdocs\ci4\system\BaseModel.php(658): CodeIgniter\Model->insert(Array, false)
+#4 D:\xammp\htdocs\ci4\app\Controllers\Registration.php(68): CodeIgniter\BaseModel->save(Array)
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Registration->registerCustomer()
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#7 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-17 11:12:30 --> Allowed fields must be specified for model: App\Models\Customer_Model
+#0 D:\xammp\htdocs\ci4\system\BaseModel.php(1138): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Cust...')
+#1 D:\xammp\htdocs\ci4\system\BaseModel.php(713): CodeIgniter\BaseModel->doProtectFields(Array)
+#2 D:\xammp\htdocs\ci4\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 D:\xammp\htdocs\ci4\app\Controllers\Registration.php(68): CodeIgniter\Model->insert(Array)
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Registration->registerCustomer()
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-17 11:20:40 --> syntax error, unexpected 'echo' (T_ECHO), expecting function (T_FUNCTION) or const (T_CONST)
+#0 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xammp\\htdocs...')
+#1 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Cust...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Cust...')
+#3 D:\xammp\htdocs\ci4\app\Controllers\Registration.php(60): spl_autoload_call('App\\Models\\Cust...')
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Registration->registerCustomer()
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-17 11:21:01 --> syntax error, unexpected 'echo' (T_ECHO), expecting function (T_FUNCTION) or const (T_CONST)
+#0 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xammp\\htdocs...')
+#1 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Cust...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Cust...')
+#3 D:\xammp\htdocs\ci4\app\Controllers\Registration.php(60): spl_autoload_call('App\\Models\\Cust...')
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Registration->registerCustomer()
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2022-02-17 11:21:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2022-02-17 11:21:28 --> syntax error, unexpected 'echo' (T_ECHO), expecting function (T_FUNCTION) or const (T_CONST)
+#0 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xammp\\htdocs...')
+#1 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Cust...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Cust...')
+#3 D:\xammp\htdocs\ci4\app\Controllers\Registration.php(60): spl_autoload_call('App\\Models\\Cust...')
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Registration->registerCustomer()
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-17 11:21:55 --> syntax error, unexpected 'echo' (T_ECHO), expecting function (T_FUNCTION) or const (T_CONST)
+#0 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xammp\\htdocs...')
+#1 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Cust...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Cust...')
+#3 D:\xammp\htdocs\ci4\app\Controllers\Registration.php(60): spl_autoload_call('App\\Models\\Cust...')
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Registration->registerCustomer()
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-17 11:21:59 --> syntax error, unexpected 'echo' (T_ECHO), expecting function (T_FUNCTION) or const (T_CONST)
+#0 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xammp\\htdocs...')
+#1 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Cust...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Cust...')
+#3 D:\xammp\htdocs\ci4\app\Controllers\Registration.php(60): spl_autoload_call('App\\Models\\Cust...')
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Registration->registerCustomer()
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-17 11:22:37 --> syntax error, unexpected 'echo' (T_ECHO), expecting function (T_FUNCTION) or const (T_CONST)
+#0 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xammp\\htdocs...')
+#1 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Cust...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Cust...')
+#3 D:\xammp\htdocs\ci4\app\Controllers\Registration.php(60): spl_autoload_call('App\\Models\\Cust...')
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Registration->registerCustomer()
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-17 11:23:00 --> syntax error, unexpected 'echo' (T_ECHO), expecting function (T_FUNCTION) or const (T_CONST)
+#0 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xammp\\htdocs...')
+#1 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Cust...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Cust...')
+#3 D:\xammp\htdocs\ci4\app\Controllers\Registration.php(60): spl_autoload_call('App\\Models\\Cust...')
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Registration->registerCustomer()
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-17 11:23:48 --> syntax error, unexpected 'echo' (T_ECHO), expecting function (T_FUNCTION) or const (T_CONST)
+#0 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xammp\\htdocs...')
+#1 D:\xammp\htdocs\ci4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Cust...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Cust...')
+#3 D:\xammp\htdocs\ci4\app\Controllers\Registration.php(60): spl_autoload_call('App\\Models\\Cust...')
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Registration->registerCustomer()
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-17 11:24:22 --> Allowed fields must be specified for model: App\Models\Customer_Model
+#0 D:\xammp\htdocs\ci4\system\BaseModel.php(1138): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Cust...')
+#1 D:\xammp\htdocs\ci4\system\BaseModel.php(713): CodeIgniter\BaseModel->doProtectFields(Array)
+#2 D:\xammp\htdocs\ci4\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, false)
+#3 D:\xammp\htdocs\ci4\system\BaseModel.php(658): CodeIgniter\Model->insert(Array, false)
+#4 D:\xammp\htdocs\ci4\app\Controllers\Registration.php(68): CodeIgniter\BaseModel->save(Array)
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Registration->registerCustomer()
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#7 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-17 11:24:37 --> Allowed fields must be specified for model: App\Models\Customer_Model
+#0 D:\xammp\htdocs\ci4\system\BaseModel.php(1138): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Cust...')
+#1 D:\xammp\htdocs\ci4\system\BaseModel.php(713): CodeIgniter\BaseModel->doProtectFields(Array)
+#2 D:\xammp\htdocs\ci4\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 D:\xammp\htdocs\ci4\app\Controllers\Registration.php(68): CodeIgniter\Model->insert(Array)
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Registration->registerCustomer()
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-17 11:24:54 --> Allowed fields must be specified for model: App\Models\Customer_Model
+#0 D:\xammp\htdocs\ci4\system\BaseModel.php(1138): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Cust...')
+#1 D:\xammp\htdocs\ci4\system\BaseModel.php(713): CodeIgniter\BaseModel->doProtectFields(Array)
+#2 D:\xammp\htdocs\ci4\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 D:\xammp\htdocs\ci4\app\Controllers\Registration.php(68): CodeIgniter\Model->insert(Array)
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Registration->registerCustomer()
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-17 11:26:40 --> Argument 1 passed to CodeIgniter\BaseModel::doProtectFields() must be of the type array, string given, called in D:\xammp\htdocs\ci4\system\BaseModel.php on line 799
+#0 D:\xammp\htdocs\ci4\system\BaseModel.php(799): CodeIgniter\BaseModel->doProtectFields('Muhammad Adnan')
+#1 D:\xammp\htdocs\ci4\app\Controllers\Registration.php(68): CodeIgniter\BaseModel->insertBatch(Array)
+#2 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Registration->registerCustomer()
+#3 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-02-17 11:28:13 --> Object of class App\Models\Customer_Model could not be converted to string
+#0 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Registration->registerCustomer()
+#1 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#2 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-17 11:28:29 --> Object of class App\Models\Customer_Model could not be converted to string
+#0 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Registration->registerCustomer()
+#1 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#2 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-17 11:31:10 --> Allowed fields must be specified for model: App\Models\Customer_Model
+#0 D:\xammp\htdocs\ci4\system\BaseModel.php(1138): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Cust...')
+#1 D:\xammp\htdocs\ci4\system\BaseModel.php(713): CodeIgniter\BaseModel->doProtectFields(Array)
+#2 D:\xammp\htdocs\ci4\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 D:\xammp\htdocs\ci4\app\Controllers\Registration.php(68): CodeIgniter\Model->insert(Array)
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Registration->registerCustomer()
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-17 11:31:13 --> Allowed fields must be specified for model: App\Models\Customer_Model
+#0 D:\xammp\htdocs\ci4\system\BaseModel.php(1138): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Cust...')
+#1 D:\xammp\htdocs\ci4\system\BaseModel.php(713): CodeIgniter\BaseModel->doProtectFields(Array)
+#2 D:\xammp\htdocs\ci4\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 D:\xammp\htdocs\ci4\app\Controllers\Registration.php(68): CodeIgniter\Model->insert(Array)
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Registration->registerCustomer()
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-17 23:38:05 --> Allowed fields must be specified for model: App\Models\Customer_Model
+#0 D:\xammp\htdocs\ci4\system\BaseModel.php(1138): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Cust...')
+#1 D:\xammp\htdocs\ci4\system\BaseModel.php(713): CodeIgniter\BaseModel->doProtectFields(Array)
+#2 D:\xammp\htdocs\ci4\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#3 D:\xammp\htdocs\ci4\app\Controllers\Registration.php(68): CodeIgniter\Model->insert(Array)
+#4 D:\xammp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Registration->registerCustomer()
+#5 D:\xammp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registration))
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}

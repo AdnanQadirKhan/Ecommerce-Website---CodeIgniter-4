@@ -1,0 +1,67 @@
+INFO - 2022-03-31 00:51:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-31 00:51:59 --> Cart Class Initialized
+INFO - 2022-03-31 00:52:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-31 00:52:01 --> Cart Class Initialized
+CRITICAL - 2022-03-31 01:13:32 --> Class 'Home' not found
+#0 D:\xammp\htdocs\ci4\system\CodeIgniter.php(850): CodeIgniter\CodeIgniter->createController()
+#1 D:\xammp\htdocs\ci4\system\CodeIgniter.php(334): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-03-31 01:13:51 --> Class '' not found
+#0 D:\xammp\htdocs\ci4\system\CodeIgniter.php(850): CodeIgniter\CodeIgniter->createController()
+#1 D:\xammp\htdocs\ci4\system\CodeIgniter.php(334): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-03-31 01:16:43 --> Call to undefined method Error::initController()
+#0 D:\xammp\htdocs\ci4\system\CodeIgniter.php(850): CodeIgniter\CodeIgniter->createController()
+#1 D:\xammp\htdocs\ci4\system\CodeIgniter.php(334): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-03-31 01:16:45 --> Call to undefined method Error::initController()
+#0 D:\xammp\htdocs\ci4\system\CodeIgniter.php(850): CodeIgniter\CodeIgniter->createController()
+#1 D:\xammp\htdocs\ci4\system\CodeIgniter.php(334): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-03-31 01:17:50 --> Call to undefined method Error::initController()
+#0 D:\xammp\htdocs\ci4\system\CodeIgniter.php(850): CodeIgniter\CodeIgniter->createController()
+#1 D:\xammp\htdocs\ci4\system\CodeIgniter.php(334): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-03-31 01:19:04 --> Class 'App\Error' not found
+#0 D:\xammp\htdocs\ci4\system\CodeIgniter.php(850): CodeIgniter\CodeIgniter->createController()
+#1 D:\xammp\htdocs\ci4\system\CodeIgniter.php(334): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-03-31 01:19:05 --> Class 'App\Error' not found
+#0 D:\xammp\htdocs\ci4\system\CodeIgniter.php(850): CodeIgniter\CodeIgniter->createController()
+#1 D:\xammp\htdocs\ci4\system\CodeIgniter.php(334): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-03-31 01:19:40 --> Call to undefined method Error::initController()
+#0 D:\xammp\htdocs\ci4\system\CodeIgniter.php(850): CodeIgniter\CodeIgniter->createController()
+#1 D:\xammp\htdocs\ci4\system\CodeIgniter.php(334): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-03-31 01:22:55 --> Undefined variable: title
+#0 D:\xammp\htdocs\ci4\app\Views\includes\head.php(9): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xammp\\htdocs...', 9, Array)
+#1 D:\xammp\htdocs\ci4\app\Views\404.php(2): include('D:\\xammp\\htdocs...')
+#2 D:\xammp\htdocs\ci4\system\View\View.php(210): include('D:\\xammp\\htdocs...')
+#3 D:\xammp\htdocs\ci4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 D:\xammp\htdocs\ci4\system\Common.php(1089): CodeIgniter\View\View->render('404', Array, true)
+#5 D:\xammp\htdocs\ci4\app\Config\Routes.php(25): view('404')
+#6 D:\xammp\htdocs\ci4\system\CodeIgniter.php(842): CodeIgniter\Router\RouteCollection->Config\{closure}('Controller or i...')
+#7 D:\xammp\htdocs\ci4\system\CodeIgniter.php(334): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#8 D:\xammp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2022-03-31 01:27:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-31 01:27:09 --> Cart Class Initialized
+INFO - 2022-03-31 01:27:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-31 01:27:10 --> Cart Class Initialized
+INFO - 2022-03-31 01:33:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-31 01:33:58 --> Cart Class Initialized
+INFO - 2022-03-31 01:34:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-31 01:34:00 --> Cart Class Initialized
+INFO - 2022-03-31 01:38:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-31 01:38:31 --> Cart Class Initialized
+INFO - 2022-03-31 01:38:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-03-31 01:38:33 --> Cart Class Initialized
