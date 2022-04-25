@@ -49,7 +49,7 @@ class Registration_Customer extends BaseController
         $logo = new Logos_Model();
         $Footer = new Footer_Model();
         $link = new Links_Model();
-
+        
         $data['link'] = $link->first();
         $data['footer'] = $Footer->first();
         $data['contact'] = $contact->first();
@@ -57,7 +57,7 @@ class Registration_Customer extends BaseController
         
         if ($this->request->getMethod() == 'post') {
             // validation
-
+            
             $rules = [
                 'fullname' => [
                     'rules'  => 'required|min_length[5]|max_length[40]',
@@ -66,16 +66,16 @@ class Registration_Customer extends BaseController
                 'phone' => [
                     'rules'  => 'required|min_length[9]|max_length[12]|is_unique[customers.cust_phone]',
                     'errors' => [
-                      'required' =>  'Your phone number is required',
-                    'is_unique' => 'Phone number already exists'
-                    ]
-                ],
-                'email' => [
-                    'rules'  => 'required|min_length[6]|max_length[50]|valid_email|is_unique[customers.cust_email]',
-                    'errors' => [
-                        'required' => 'Email is required',
-                        'is_valid' => 'You must enter a valid email',
-                        'is_unique' => 'Email already taken'
+                        'required' =>  'Your phone number is required',
+                        'is_unique' => 'Phone number already exists'
+                        ]
+                    ],
+                    'email' => [
+                        'rules'  => 'required|min_length[6]|max_length[50]|valid_email|is_unique[customers.cust_email]',
+                        'errors' => [
+                            'required' => 'Email is required',
+                            'is_valid' => 'You must enter a valid email',
+                            'is_unique' => 'Email already taken'
                     ]
                 ],
                 'password' => [
@@ -83,17 +83,17 @@ class Registration_Customer extends BaseController
                     'errors' => [
                         'required'  => 'Password is required',
                         'min_length' => 'Password must have atleast 8 character in length',
-                    ]
-                ],
-                'password_confirm' => [
-                    'rules'  => 'required|min_length[8]|max_length[255]|matches[password]',
-                    'errors' => [
-                        'required'  => 'Confirm password is required',
-                        'min_length' => 'Password must have atleast 8 character in length',
-                        'matches'   => 'Confirm password not matches with password'
-                    ]
-                ]
-
+                        ]
+                    ],
+                    'password_confirm' => [
+                        'rules'  => 'required|min_length[8]|max_length[255]|matches[password]',
+                        'errors' => [
+                            'required'  => 'Confirm password is required',
+                            'min_length' => 'Password must have atleast 8 character in length',
+                            'matches'   => 'Confirm password not matches with password'
+                            ]
+                            ]
+                
             ];
             if ($this->validate($rules)) {
                 $model = new Customer_Model();

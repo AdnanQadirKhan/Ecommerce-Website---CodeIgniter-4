@@ -17,7 +17,7 @@ class Admin_Orders extends BaseController
         $orders = new Orders_Model(); 
         $info = new Customer_Model();  
         $data['orders']= $orders->select()->join('customers', 'customers.cust_id = orders.cust_id')->findAll();
-        $data['orders']= $orders->select()->join('sellers', 'sellers.seller_id = orders.cust_id')->findAll();
+        $data['orders']= $orders->select()->join('sellers', 'sellers.seller_id = orders.seller_id')->findAll();
         return view('admin/orders',$data);
     }else{
         return redirect()->to('./');

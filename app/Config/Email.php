@@ -33,7 +33,7 @@ class Email extends BaseConfig
      *
      * @var string
      */
-    public $protocol = '';
+    public $protocol = 'smtp';
 
     /**
      * The server path to Sendmail.
@@ -47,35 +47,35 @@ class Email extends BaseConfig
      *
      * @var string
      */
-    public $SMTPHost ='';
+    public $SMTPHost ='smtp.gmail.com';
 
     /**
      * SMTP Username
      *
      * @var string
      */
-    public $SMTPUser = 'system@subeza.com' ;
+    public $SMTPUser = 'adnan.qadir.792@gmail.com' ;
 
     /**
      * SMTP Password
      *
      * @var string
      */
-    public $SMTPPass = 'Sato11...';
+    public $SMTPPass = 'Abc&xyz1999';
 
     /**
      * SMTP Port
      *
      * @var int
      */
-    public $SMTPPort = "";
+    public $SMTPPort = 465;
 
     /**
      * SMTP Timeout (in seconds)
      *
      * @var int
      */
-    public $SMTPTimeout = '';
+    public $SMTPTimeout = 60;
 
     /**
      * Enable persistent SMTP connections
@@ -89,7 +89,7 @@ class Email extends BaseConfig
      *
      * @var string
      */
-    public $SMTPCrypto = '';
+    public $SMTPCrypto = 'ssl';
 
     /**
      * Enable word-wrap
@@ -124,7 +124,7 @@ class Email extends BaseConfig
      *
      * @var bool
      */
-    public $validate = true;
+    public $validate = false;
 
     /**
      * Email Priority. 1 = highest. 5 = lowest. 3 = normal

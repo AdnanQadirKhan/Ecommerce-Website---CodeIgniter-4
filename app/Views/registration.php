@@ -48,14 +48,14 @@ include "includes/header.php";
                                     </div>
                                     <div class="form-group mb-3">
                                         <input type="password" class="form-control" placeholder="Password" name="password" id="password-field-one">
-                                        <span toggle="#password-field-one" class="fa fa-fw fa-eye field-icon toggle-password"></span>
+                                        
                                         
                                         <span class="text-danger"><?= isset($validation) ? display_error($validation, 'password') : '' ?></span>
                                     </div>
 
                                     <div class="form-group mb-2">
                                         <input type="password" class="form-control" placeholder="Confirm Password" name="password_confirm" id="password-field-two" >
-                                        <span toggle="#password-field-two" class="fa fa-fw fa-eye field-icon toggle-password"></span>
+                                       
                                         <span class="text-danger"><?= isset($validation) ? display_error($validation, 'password_confirm') : '' ?></span>
                                     </div>
 

@@ -301,11 +301,10 @@ class Seller_Login extends BaseController
     {
         helper(['date', 'url']);
 
-        // die('asdas');
         $currTime = now();
         $registerTime = strtotime($regTime);
         $diffTime = (int)$currTime - (int)$registerTime;
-        if (3600 < $diffTime) {
+        if (3600 > $diffTime) {
             return true;
         } else {
             return false;

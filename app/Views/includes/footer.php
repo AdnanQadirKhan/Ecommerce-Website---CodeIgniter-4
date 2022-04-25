@@ -401,7 +401,7 @@ $(document).ready(function() {
                 e.preventDefault();
                 var $this = $(this);
                 var currency_code = $this.data('currency');
-                $.post('currency', {
+                $.post('', {
                     _token: AIZ.data.csrf,
                     currency_code: currency_code
                 }, function(data) {
@@ -755,18 +755,7 @@ input.addEventListener("countrychange", function (e) {
     }
     
 </script>
-<script>
-    $(".toggle-password").click(function() {
 
-        $(this).toggleClass("fa-eye fa-eye-slash");
-        var input = $($(this).attr("toggle"));
-        if (input.attr("type") == "password") {
-            input.attr("type", "text");
-        } else {
-            input.attr("type", "password");
-        }
-    });
-</script>
 </body>
 
 </html>

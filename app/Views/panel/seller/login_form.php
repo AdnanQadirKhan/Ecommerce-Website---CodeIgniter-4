@@ -43,7 +43,7 @@
                                             <div class="form-group">
                                                 <input type="password" class="form-control " placeholder="Password"
                                                     name="password" id="password">
-                                                    <span toggle="#password-" class="fa fa-fw fa-eye field-icon toggle-password"></span>
+                                                   
                                                     <span class="text-danger"><?= isset($validation) ? display_error($validation,'password') : '' ?></span>
 
                                             </div>

@@ -5,7 +5,7 @@ use App\Models\Seller_Products_Model;
 use App\Models\Orders_Model;
 use App\Models\Order_Details_Model;
 use App\Models\Product_Images_Model;
-
+use App\Models\Shop_Model;
 use CodeIgniter\Controller; 
 
 class Admin_Seller extends BaseController
@@ -34,7 +34,7 @@ class Admin_Seller extends BaseController
         $orders = new Orders_Model();
         $details = new Order_Details_Model();
         $images = new Product_Images_Model();
-
+        $shop = new Shop_Model();
         // deleting images from products and products images table
         $d['products'] = $products->where('user_id', $id)->findAll();
         foreach($d['products'] as $p){ 
@@ -61,12 +61,17 @@ class Admin_Seller extends BaseController
         $d['orders'] = $orders->where('seller_id', $id)->findAll();
         foreach($d['orders'] as $p){
             $d['details'] = $details->where('order_id', $p['order_id'])->findAll();
-            $d['orders'] = $orders->delete(['seller_id'=>$p['seller_id']]);
+            $d['orders'] = $orders->delete(['order_id'=>$p['order_id']]);
             foreach($d['details'] as $de){
-                $details->delete(['order_id'=>$de['order_id']]);
+                $details->delete(['id'=>$de['id']]);
             }
             
 
+        }
+        $d['shops'] = $shop->where('user_id', $id)->findAll();
+        foreach($d['shops'] as $s){
+            $d['seller'] = $seller->where('seller_id', $s['user_id'])->findAll();
+            $d['shops'] = $shop->delete(['shop_id'=>$s['shop_id']]); 
         }
         
 

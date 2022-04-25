@@ -25,23 +25,22 @@ class Customer_Login extends BaseController
         $data['title'] = 'Login';
         echo view('panel/customer/login_form',$data); 
     }
-    // protected function setUserSession($user){
+    protected function setUserSession($user){
     
-	// 	$data = [
-	// 		'id' => $user['cust_id'],
-	// 		'name' => $user['cust_name'],
-	// 		'phone' => $user['cust_phone'],
-	// 		'pic' => $user['cust_pic'],
-	// 		'email' => $user['cust_email'],
-	// 		'address' => $user['cust_address'], 
-    //         'type' => 'customer',
-	// 		'isLoggedIn' => true,
-	// 	]; 
-	// 	session()->set($data);
-	// 	return true;
+		$data = [
+			'id' => $user['cust_id'],
+			'name' => $user['cust_name'],
+			'phone' => $user['cust_phone'],
+			'pic' => $user['cust_pic'],
+			'email' => $user['cust_email'],
+			'address' => $user['cust_address'], 
+            'type' => 'customer',
+			'isLoggedIn' => true,
+		]; 
+		session()->set($data);
+		return true;
 	
-
-	// }
+	}
     public function verifyUser()
 	{  
     
@@ -310,11 +309,10 @@ class Customer_Login extends BaseController
     {
         helper(['date', 'url']);
 
-        // die('asdas');
         $currTime = now();
         $registerTime = strtotime($regTime);
         $diffTime = (int)$currTime - (int)$registerTime;
-        if (3600 < $diffTime) {
+        if (3600 > $diffTime) {
             return true;
         } else {
             return false;
