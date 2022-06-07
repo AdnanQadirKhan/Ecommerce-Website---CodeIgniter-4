@@ -27,6 +27,7 @@ class Customer_Dashboard extends BaseController
         $data['logo'] = $logo->first();
         $data['total_orders']= $o->where('cust_id',session('id'))->countAllResults();
         $data['total_prod']= $p->where('user_id',session('id'))->countAllResults();
+        
         return view('panel/customer/dashboard',$data);
         }
         else{

@@ -166,8 +166,8 @@ class Registration_Seller extends BaseController
                             // $data = $this->email->printDebugger(['headers']);
                             // print_r($data);
     
-                            $this->session->setTempdata('error', 'Account created successfully. Sorry! unable to send activation link. Contact Admin');
-                            return redirect()->to(current_url());
+                            $this->session->setFlashdata('error', 'Account created successfully. Sorry! unable to send activation link. Contact Admin');
+                            return redirect()->to('/seller/login');
                         }
                     } 
                     // --------------------- if query 2 ended -----------------
@@ -188,7 +188,8 @@ class Registration_Seller extends BaseController
             } 
             else 
             { 
-
+                $session = session();
+                $session->setFlashdata('fail', 'Invalid credentials!');
                 $data['title'] = 'Seller Registration';
                 $data['validation'] = $this->validator; 
                 return view('create', $data);
@@ -209,6 +210,7 @@ class Registration_Seller extends BaseController
         {
             $userdata = $model->verifyUniid($uniid);
             // print_r($userdata);
+            // die("das");
             if($userdata)
             {
                 if($this->verifyExpiryTime($userdata->activation_date))

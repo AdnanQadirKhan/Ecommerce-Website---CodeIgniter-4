@@ -28,8 +28,10 @@ class Seller_Dashboard extends BaseController
         $data['footer'] = $Footer->first();
         $data['contact'] = $contact->first();
         $data['logo'] = $logo->first();
-        $data['total_orders']= $o->where('cust_id',session('id'))->countAllResults();
+        $data['total_orders']= $o->where('seller_id',session('id'))->countAllResults();
         $data['total_prod']= $p->where('user_id',session('id'))->countAllResults();
+        // print_r($data);
+        // die();
         return view('panel/seller/dashboard',$data);
         }
         else{

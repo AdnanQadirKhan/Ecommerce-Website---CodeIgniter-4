@@ -24,7 +24,7 @@
                                 Euro
                             </a>
                             <ul class="dropdown-menu dropdown-menu-right dropdown-menu-lg-left">
-                                 <li>
+                                <li>
                                     <a class="dropdown-item active " href="javascript:void(0)" data-currency="EUR">Euro
                                         (€)</a>
                                 </li>
@@ -32,7 +32,7 @@
                                     <a class="dropdown-item  " href="javascript:void(0)" data-currency="Pkr">Rupee </a>
                                 </li>
 
-                               
+
                         </li>
 
                     </ul>
@@ -72,9 +72,14 @@
                                     <div class="px-3 c-scrollbar-light overflow-auto " style="max-height:300px;">
                                         <ul class="list-group list-group-flush">
                                             <li class="list-group-item">
-                                                <div class="py-4 text-center fs-16">
-                                                    No notification found
-                                                </div>
+                                                <!-- <div class="py-4 text-center fs-16"> -->
+
+                                                    <a href="javascript:void(0)" onclick="show_purchase_history_details(51)" class="text-reset">
+                                                        <span class="ml-2">
+                                                            Order code: 20220425-13385590 has been Placed
+                                                        </span>
+                                                    </a>
+                                                <!-- </div> -->
                                             </li>
                                         </ul>
                                     </div>
@@ -118,7 +123,7 @@
 
                     <div class="flex-grow-1 front-header-search d-flex align-items-center bg-white">
                         <div class="position-relative flex-grow-1">
-                            <form action="<?=base_url('search')?>" method="post" class="stop-propagation">
+                            <form action="<?= base_url('search') ?>" method="post" class="stop-propagation">
                                 <div class="d-flex position-relative align-items-center">
                                     <div class="d-lg-none" data-toggle="class-toggle" data-target=".front-header-search">
                                         <button class="btn px-2" type="button"><i class="la la-2x la-long-arrow-left"></i></button>
@@ -185,29 +190,29 @@
                             <div class="dropdown-menu dropdown-menu-right dropdown-menu-lg p-0 stop-propagation">
 
                                 <!-- <div class=" "> -->
-                                    <div class="shopping-cart">
-                                        <div class="shopping-cart-header">
-                                            <div class="shopping-cart-total">
-                                                <span class="lighter-text">Total:</span>
-                                                <span class="main-color-text shopping-cart__total"></span>
-                                            </div>
+                                <div class="shopping-cart">
+                                    <div class="shopping-cart-header">
+                                        <div class="shopping-cart-total">
+                                            <span class="lighter-text">Total:</span>
+                                            <span class="main-color-text shopping-cart__total"></span>
                                         </div>
-                                        <!--end shopping-cart-header -->
-                                        <!-- <div class="top_carted_list"></div> -->
-                                        <ul class="shopping-cart-items list-unstyle top_carted_list">
-                                        </ul>
-                                        <?php if (!session('isLoggedIn')) : ?>
-                                        <a href="<?=base_url('customer/login')?>" onclick="firstLogin()" class="button">Checkout</a>
-                                        <?php else : ?>
-                                        <a href="<?=base_url('checkout')?>" class="button">Checkout</a>
-            <?php endif; ?>
-
-
                                     </div>
-                                    <!--end shopping-cart -->
+                                    <!--end shopping-cart-header -->
+                                    <!-- <div class="top_carted_list"></div> -->
+                                    <ul class="shopping-cart-items list-unstyle top_carted_list">
+                                    </ul>
+                                    <?php if (!session('isLoggedIn')) : ?>
+                                        <a href="<?= base_url('customer/login') ?>" onclick="firstLogin()" class="button">Checkout</a>
+                                    <?php else : ?>
+                                        <a href="<?= base_url('checkout') ?>" class="button">Checkout</a>
+                                    <?php endif; ?>
+
+
+                                </div>
+                                <!--end shopping-cart -->
                                 <!-- </div> -->
 
-                                 
+
 
                             </div>
                         </div>

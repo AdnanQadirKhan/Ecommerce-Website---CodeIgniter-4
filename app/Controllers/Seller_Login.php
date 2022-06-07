@@ -29,13 +29,14 @@ class Seller_Login extends BaseController
 
     public function verifyUser()
     {
+        
         $data = [];
         $contact = new Contact_Model();
         $logo = new Logos_Model();
         $Footer = new Footer_Model();
         $link = new Links_Model();
         $data['title'] = 'Seller Login';
-
+        
         $data['link'] = $link->first();
         $data['footer'] = $Footer->first();
         $data['contact'] = $contact->first();
@@ -43,25 +44,26 @@ class Seller_Login extends BaseController
         helper(['form', 'url']);
         $uniid = md5(str_shuffle('abcdefghiklmnoprstuvwxyz' . time()));
         $validation = [
-
+            
             'email' => [
                 'rules'  => 'required|min_length[6]|valid_email|is_not_unique[sellers.seller_email]',
                 'errors' => [
                     'required' => 'Email is required',
                     'valid_email' => 'Enter a valid email address',
                     'is_not_unique' => 'This email is not registered on our service'
-                ]
+                    ]
             ],
             'password' => [
                 'rules'  => 'required|min_length[8]',
                 'errors' => [
                     'required'  => 'Password is required',
                     'min_length' => 'Password must have atleast 8 characters in length',
-                ]
-            ],
-        ];
-
-        if ($this->validate($validation)) {
+                    ]
+                ],
+            ];
+            
+            if ($this->validate($validation)) {
+                // die("sa");
             $email = $this->request->getPost('email');
             $pass = $this->request->getPost('password');
             $sellermodel = new Seller_Model();
@@ -110,6 +112,8 @@ class Seller_Login extends BaseController
                 return view('panel/seller/login_form', $data);
             }
         } else {
+            $session = session();
+            $session->setFlashdata('fail', 'Invalid Login Credentials!');
             $data['title'] = 'Seller Login';
             $data['validation'] = $this->validator;
             echo view('panel/seller/login_form', $data);
@@ -192,7 +196,7 @@ class Seller_Login extends BaseController
                             return redirect()->to(current_url());
                         } else {
                             $data = $email->printDebugger(['headers']);
-                            print_r($data);
+                            // print_r($data);
                         }
                     } else {
                         $this->session->setTempdata('error', 'Sorry! Unable yo update. try again', 3);

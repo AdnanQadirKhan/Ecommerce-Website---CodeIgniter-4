@@ -150,6 +150,6 @@ class Checkout extends BaseController
         $data['footer'] = $Footer->first();
         $data['contact'] = $contact->first();
         $data['logo'] = $logo->first();
-        return view('success',$data);
+        return view('order_summary',$data);
     }
 }

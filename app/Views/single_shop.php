@@ -49,11 +49,11 @@ include 'includes/header.php';
                             src=" <?=base_url('public/uploads/banners/'.$shop['shop_banner'])?>"
                             alt="0 offer">
                     </div>
-                    <div class="carousel-box">
+                    <!-- <div class="carousel-box">
                         <img class="d-block w-100 lazyload rounded h-200px h-lg-380px img-fit"
                             src=" <?=base_url('public/uploads/banners/'.$shop['shop_banner2'])?>"
                             alt="1 offer">
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </section>

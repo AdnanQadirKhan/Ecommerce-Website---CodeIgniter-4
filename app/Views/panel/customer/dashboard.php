@@ -16,7 +16,7 @@
                                 <div class="bg-grad-1 text-white rounded-lg mb-4 overflow-hidden">
                                     <div class="px-3 pt-3">
                                         <div class="h3 fw-700">
-                                            0 Product
+                                        <?= '0'; ?>
                                         </div>
                                         <div class="opacity-50">in your cart</div>
                                     </div>

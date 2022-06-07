@@ -43,7 +43,6 @@ class Customer_Login extends BaseController
 	}
     public function verifyUser()
 	{  
-    
         $data = [];  
         $data['title'] = 'Login';
         $contact = new Contact_Model();
@@ -132,8 +131,10 @@ class Customer_Login extends BaseController
             return view('panel/customer/login_form', $data);
         }
         }else{
+            $session = session();
+            $session->setFlashdata('fail', 'Invalid Login Credentials!');
             $data['validation'] = $this->validator;
-            echo view('panel/customer/login_form',$data);  
+            return view('panel/customer/login_form',$data);  
             
         }
     }
@@ -141,6 +142,7 @@ class Customer_Login extends BaseController
  
     public function logout(){
 		session()->destroy();
+        
 		return redirect()->to('/');
 	}
     public function forgotpassword()
@@ -182,7 +184,7 @@ class Customer_Login extends BaseController
                         $subject = 'Reset Password Link';
                         $token = $userdata['uniid'];
                         $message = 'Hi ' . $userdata['cust_name'] . '<br><br>'
-                        . 'Your reset password request has been received. Please click'
+                        . 'Your reset password request has been received. Please click '
                         . 'the below link to reset your password.<br><br>'
                         . '<a href="' . base_url() . '/customer_login/reset_password/' . $token . '">Click here to Reset Password</a><br><br>'
                         . 'Thanks<br>Team Adnan';

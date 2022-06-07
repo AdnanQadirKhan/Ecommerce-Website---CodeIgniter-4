@@ -122,9 +122,9 @@ class Registration_Customer extends BaseController
                     $to = $this->request->getPost('email');
                     $subject = 'Account Activation Link ';
                     $message = 'Hi '.$this->request->getPost('fullname').",<br><br>Thanks for registering at our website. Your account has been created "
-                            . "successfully. Welcome aboard! <br><br> Please click the link below to activate your account<br><br>"
-                            . "<a href='". base_url()."/registration_customer/activate/".$uniid."' target='_blank'>Activate Now</a><br><br>Thanks,<br>Team Subeza";
-
+                    . "successfully. Welcome aboard! <br><br> Please click the link below to activate your account<br><br>"
+                    . "<a href='". base_url()."/registration_customer/activate/".$uniid."' target='_blank'>Activate Now</a><br><br>Thanks,<br>Team Subeza";
+                    
                     
                     $email->setTo($to);
                     $email->setFrom('system@subeza.com', 'Subeza');
@@ -136,15 +136,16 @@ class Registration_Customer extends BaseController
                     // $this->email->attach($filepath);
                     
                     if ($email->send()) {
+                        // die('asdas');
                         $session = session();
                         $session->setFlashdata('successfull', 'Successfully created your account. Please activate your account.');
                         return redirect()->to('/customer/login');
-                       
+                        
                     } else {
                         $data = $email->printDebugger(['headers']);
-
-                        $this->session->setTempdata('error', 'Account created successfully. Sorry! unable to send activation link. Contact Admin');
-                        return redirect()->to(current_url());
+                        
+                        $this->session->setFlashdata('error', 'Account created successfully. Sorry! unable to send activation link. Contact Admin');
+                        return redirect()->to('/customer/login');
                     }
                 } else {
                 
@@ -155,7 +156,8 @@ class Registration_Customer extends BaseController
                 }
             } 
             else {
-              
+              $session = session();
+              $session->setFlashdata('fail', 'Invalid credentials!');
                 $data['validation'] = $this->validator;
                 return view('registration', $data);
             }
@@ -170,8 +172,10 @@ class Registration_Customer extends BaseController
         $data=[];
         if(!empty($uniid))
         {
+
             $userdata = $model->verifyUniid($uniid);
             // print_r($userdata);
+            // die('dasd');
             if($userdata)
             {
                 if($this->verifyExpiryTime($userdata->activation_date))
@@ -218,11 +222,11 @@ class Registration_Customer extends BaseController
         $diffTime = (int)$currTime - (int)$registerTime;
         if(3600 > $diffTime)
         {
-            return true;
+            return false;
         }
         else
         {
-            return false;
+            return true;
         }
     }
 }

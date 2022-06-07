@@ -27,12 +27,17 @@
                                     <?php if (!empty(session()->getFlashdata('success'))) :  ?>
                                         <div class="alert alert-success"><?= session()->getFlashdata('success'); ?></div>
                                     <?php endif ?> 
+                                    <?php if (!empty(session()->getFlashdata('fail'))) :  ?>
+                                        <div class="alert alert-danger"><?= session()->getFlashdata('fail'); ?></div>
+                                    <?php endif ?> 
                                             <?php if(session()->get('successfull')) :  ?>
                                                 <div class="alert alert-success"><?= session()->get('successfull');?></div>
                                             <?php endif;  
                                              if(session()->get('incorrect')):  ?>
                                                 <div class="alert alert-danger"><?= session()->get('incorrect');?></div>
                                             <?php endif ?> 
+                                            
+                                            
                                             <div class="form-group">
                                                 <input type="email" class="form-control"  placeholder="Email"
                                                     name="email" id="email" value="<?= set_value('email') ?>" autocomplete="off">

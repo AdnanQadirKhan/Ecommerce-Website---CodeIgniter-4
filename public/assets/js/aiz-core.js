@@ -324,36 +324,36 @@ $.fn.toggleAttr = function (attr, attr1, attr2) {
                     value
                 );
 
-                // if (value === "oldest") {
-                //     AIZ.uploader.data.allFiles = AIZ.uploader.data.allFiles.sort(
-                //         function(a, b) {
-                //             return (
-                //                 new Date(a.created_at) - new Date(b.created_at)
-                //             );
-                //         }
-                //     );
-                // } else if (value === "smallest") {
-                //     AIZ.uploader.data.allFiles = AIZ.uploader.data.allFiles.sort(
-                //         function(a, b) {
-                //             return a.file_size - b.file_size;
-                //         }
-                //     );
-                // } else if (value === "largest") {
-                //     AIZ.uploader.data.allFiles = AIZ.uploader.data.allFiles.sort(
-                //         function(a, b) {
-                //             return b.file_size - a.file_size;
-                //         }
-                //     );
-                // } else {
-                //     AIZ.uploader.data.allFiles = AIZ.uploader.data.allFiles.sort(
-                //         function(a, b) {
-                //             a = new Date(a.created_at);
-                //             b = new Date(b.created_at);
-                //             return a > b ? -1 : a < b ? 1 : 0;
-                //         }
-                //     );
-                // }
-                //AIZ.uploader.updateUploaderFiles();
+                if (value === "oldest") {
+                    AIZ.uploader.data.allFiles = AIZ.uploader.data.allFiles.sort(
+                        function(a, b) {
+                            return (
+                                new Date(a.created_at) - new Date(b.created_at)
+                            );
+                        }
+                    );
+                } else if (value === "smallest") {
+                    AIZ.uploader.data.allFiles = AIZ.uploader.data.allFiles.sort(
+                        function(a, b) {
+                            return a.file_size - b.file_size;
+                        }
+                    );
+                } else if (value === "largest") {
+                    AIZ.uploader.data.allFiles = AIZ.uploader.data.allFiles.sort(
+                        function(a, b) {
+                            return b.file_size - a.file_size;
+                        }
+                    );
+                } else {
+                    AIZ.uploader.data.allFiles = AIZ.uploader.data.allFiles.sort(
+                        function(a, b) {
+                            a = new Date(a.created_at);
+                            b = new Date(b.created_at);
+                            return a > b ? -1 : a < b ? 1 : 0;
+                        }
+                    );
+                }
+                AIZ.uploader.updateUploaderFiles();
             });
         },
         addSelectedValue: function () {

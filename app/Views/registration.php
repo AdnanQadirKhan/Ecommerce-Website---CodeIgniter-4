@@ -19,9 +19,9 @@ include "includes/header.php";
                             <div class="">
                                 <form action="<?= base_url() ?>/customer/RegisterCustomer" method="post">
                                     <?= csrf_field(); ?>
-                                    <!-- <?php if (!empty(session()->getFlashdata('fail'))) :  ?>
+                                     <?php if (!empty(session()->getFlashdata('fail'))) :  ?>
                                         <div class="alert alert-danger"><?= session()->getFlashdata('fail'); ?></div>
-                                    <?php endif ?> -->
+                                    <?php endif ?> 
                                     <?php if (session()->get('success')) :  ?>
                                         <div class="alert alert-success"><?= session()->get('successfull'); ?></div>
                                     <?php endif;

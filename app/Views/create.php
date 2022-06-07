@@ -29,9 +29,15 @@
                     <form id="shop" action="<?= base_url('seller/RegisterSeller')?>" method="post"
                         enctype="multipart/form-data"> 
                         <?= csrf_field(); ?>
-                                            <?php if(!empty(session()->getFlashdata('fail'))) :  ?>
-                                                <div class="alert alert-danger"><?= session()->getFlasdata('fail');?></div>
-                                            <?php endif ?> 
+                        <?php if (!empty(session()->getFlashdata('fail'))) :  ?>
+                                        <div class="alert alert-danger"><?= session()->getFlashdata('fail'); ?></div>
+                                    <?php endif ?> 
+                                    <?php if (session()->get('success')) :  ?>
+                                        <div class="alert alert-success"><?= session()->get('successfull'); ?></div>
+                                    <?php endif;
+                                    if (session()->get('error')) :  ?>
+                                        <div class="alert alert-danger"><?= session()->get('incorrect'); ?></div>
+                                    <?php endif ?> 
                                             <input type="hidden" name="type" value="0">
 
                         <div class="bg-white rounded shadow-sm mb-3">
